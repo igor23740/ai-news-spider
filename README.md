@@ -1,7 +1,7 @@
 # ai-news-spider
 
 Генерирует синтетические RSS-фиды для AI-источников без собственных RSS.
-Каждый день в 09:00 MSK GitHub Actions запускает crawl4ai, парсит index-страницы, тянет статьи, собирает RSS 2.0 и коммитит в `feeds/`.
+Каждый день в 07:00 MSK GitHub Actions запускает crawl4ai, парсит index-страницы, тянет статьи, собирает RSS 2.0 и коммитит в `feeds/`. Расписание подобрано так, чтобы закончить до 08:00 MSK, когда смежный n8n workflow опрашивает все фиды.
 
 ## Источники
 
@@ -56,4 +56,4 @@ PYTHONIOENCODING=utf-8 PYTHONUTF8=1 python build_feeds.py
 
 ## CI
 
-`.github/workflows/refresh.yml` — cron `0 6 * * *` UTC (09:00 MSK). Пушит обновления только если фиды реально изменились.
+`.github/workflows/refresh.yml` — cron `0 4 * * *` UTC (07:00 MSK). Пушит обновления только если фиды реально изменились.

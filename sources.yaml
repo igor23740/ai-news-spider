@@ -1,0 +1,70 @@
+# HTML-источники AI-лабораторий, для которых нет RSS.
+# Крулер парсит index-страницу, достаёт ссылки на статьи по link_pattern,
+# тянет каждую статью, извлекает заголовок/дату/описание, собирает RSS 2.0.
+#
+# link_pattern — regex, которому должен соответствовать HREF артикула
+# stealth — true для сайтов с анти-бот защитой (Patchright)
+# wait_until — networkidle | domcontentloaded (для SPA)
+# wait_selector — CSS-селектор, дождаться его появления (для SPA)
+
+lookback_days: 14          # сколько дней истории держать в фиде
+max_items_per_feed: 30     # верхний предел записей в каждом xml
+article_concurrency: 6     # параллельных загрузок статей на источник
+
+sources:
+  - slug: anthropic
+    name: Anthropic News
+    site: https://www.anthropic.com
+    index_url: https://www.anthropic.com/news
+    link_pattern: '/news/[a-z0-9-]+$'
+
+  - slug: xai
+    name: xAI News
+    site: https://x.ai
+    index_url: https://x.ai/news
+    link_pattern: '/news/[a-z0-9-]+$'
+
+  - slug: elevenlabs
+    name: ElevenLabs Blog
+    site: https://elevenlabs.io
+    index_url: https://elevenlabs.io/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: cursor
+    name: Cursor Blog
+    site: https://cursor.com
+    index_url: https://cursor.com/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: perplexity
+    name: Perplexity Hub
+    site: https://www.perplexity.ai
+    index_url: https://www.perplexity.ai/hub/blog
+    link_pattern: '/hub/blog/[a-z0-9-]+$'
+
+  - slug: suno
+    name: Suno Blog
+    site: https://suno.com
+    index_url: https://suno.com/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: runway
+    name: Runway Research
+    site: https://runwayml.com
+    index_url: https://runwayml.com/research
+    link_pattern: '/research/[a-z0-9-]+$'
+
+  - slug: stability
+    name: Stability AI News
+    site: https://stability.ai
+    index_url: https://stability.ai/news
+    link_pattern: '/news/[a-z0-9-]+$'
+    wait_until: networkidle
+    wait_selector: 'a[href*="/news/"]'
+
+  - slug: blackforestlabs
+    name: Black Forest Labs
+    site: https://blackforestlabs.ai
+    index_url: https://blackforestlabs.ai/
+    link_pattern: '/\d{4}/\d{2}/[a-z0-9-]+'
+    stealth: true

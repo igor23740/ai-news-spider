@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Cursor Blog</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/cursor.xml</link>
+    <description>Cursor Blog — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/cursor.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2026 06:39:14 +0000</lastBuildDate>
+    <item>
+      <title>Bugbot now self-improves with learned rules</title>
+      <link>https://cursor.com/blog/bugbot-learning</link>
+      <description>Bugbot can now learn from PR feedback in real time by turning live code review signals into learned rules.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/bugbot-learning</guid>
+      <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speeding up GPU kernels by 38% with a multi-agent system</title>
+      <link>https://cursor.com/blog/multi-agent-kernels</link>
+      <description>Our multi-agent system autonomously optimized 235 CUDA kernels for NVIDIA Blackwell 200 GPUs, achieving a 38% geomean speedup over baselines in just 3 weeks.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/multi-agent-kernels</guid>
+      <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amplitude ships 3x more production code with Cursor</title>
+      <link>https://cursor.com/blog/amplitude</link>
+      <description>Amplitude uses Cursor to build an autonomous development pipeline that takes software from idea to production with minimal developer intervention.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/amplitude</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interact with agent-created visualizations in canvases</title>
+      <link>https://cursor.com/blog/canvas</link>
+      <description>Agents can now create interactive canvases to visually represent information.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/canvas</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Better AI models enable more ambitious work</title>
+      <link>https://cursor.com/blog/better-models-ambitious-work</link>
+      <description>A University of Chicago study of 500 companies finds AI usage rose 44% as models improved, with more growth in higher-complexity and cross-system work.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/better-models-ambitious-work</guid>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -2,7 +2,8 @@ name: Refresh feeds
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # каждый день в 04:00 UTC = 07:00 MSK (до workflow 08:00 MSK)
+    - cron: "0 21 * * *"  # 21:00 UTC = 00:00 MSK (ночной сбор перед workflow 08:00)
+    - cron: "0 6 * * *"   # 06:00 UTC = 09:00 MSK (дневной сбор)
   workflow_dispatch:
 
 permissions:

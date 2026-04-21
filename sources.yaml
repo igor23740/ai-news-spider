@@ -47,6 +47,8 @@ sources:
     site: https://suno.com
     index_url: https://suno.com/blog
     link_pattern: '/blog/[a-z0-9-]+$'
+    wait_until: networkidle
+    wait_selector: 'a[href^="/blog/"]'
 
   - slug: runway
     name: Runway Research
@@ -59,12 +61,11 @@ sources:
     site: https://stability.ai
     index_url: https://stability.ai/news
     link_pattern: '/news/[a-z0-9-]+$'
-    wait_until: networkidle
-    wait_selector: 'a[href*="/news/"]'
+    stealth: true
 
   - slug: blackforestlabs
     name: Black Forest Labs
     site: https://blackforestlabs.ai
-    index_url: https://blackforestlabs.ai/
-    link_pattern: '/\d{4}/\d{2}/[a-z0-9-]+'
+    index_url: https://blackforestlabs.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
     stealth: true

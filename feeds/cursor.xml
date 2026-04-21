@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:55:11 +0000</lastBuildDate>
     <item>
       <title>Bugbot now self-improves with learned rules</title>
       <link>https://cursor.com/blog/bugbot-learning</link>
@@ -24,18 +24,18 @@
       <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Amplitude ships 3x more production code with Cursor</title>
-      <link>https://cursor.com/blog/amplitude</link>
-      <description>Amplitude uses Cursor to build an autonomous development pipeline that takes software from idea to production with minimal developer intervention.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/amplitude</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Interact with agent-created visualizations in canvases</title>
       <link>https://cursor.com/blog/canvas</link>
       <description>Agents can now create interactive canvases to visually represent information.</description>
       <guid isPermaLink="true">https://cursor.com/blog/canvas</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amplitude ships 3x more production code with Cursor</title>
+      <link>https://cursor.com/blog/amplitude</link>
+      <description>Amplitude uses Cursor to build an autonomous development pipeline that takes software from idea to production with minimal developer intervention.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/amplitude</guid>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Better AI models enable more ambitious work</title>

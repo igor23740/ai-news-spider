@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:54:42 +0000</lastBuildDate>
-    <item>
-      <title>Bugbot now self-improves with learned rules</title>
-      <link>https://cursor.com/blog/bugbot-learning</link>
-      <description>Bugbot can now learn from PR feedback in real time by turning live code review signals into learned rules.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/bugbot-learning</guid>
-      <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 21:51:40 +0000</lastBuildDate>
     <item>
       <title>Speeding up GPU kernels by 38% with a multi-agent system</title>
       <link>https://cursor.com/blog/multi-agent-kernels</link>
@@ -56,7 +49,14 @@
       <link>https://cursor.com/blog/spacex-model-training</link>
       <description>Cursor is partnering with SpaceX to accelerate our model training efforts.</description>
       <guid isPermaLink="true">https://cursor.com/blog/spacex-model-training</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 22:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Australia Bank accelerates legacy migrations with Cursor</title>
+      <link>https://cursor.com/blog/nab</link>
+      <description>NAB standardized 6,000 developers on Cursor after evaluating Amazon Q and GitHub Copilot. Legacy modernizations are now running 3x faster and at higher quality.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/nab</guid>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 21:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:31:48 +0000</lastBuildDate>
     <item>
       <title>Speeding up GPU kernels by 38% with a multi-agent system</title>
       <link>https://cursor.com/blog/multi-agent-kernels</link>
       <description>Our multi-agent system autonomously optimized 235 CUDA kernels for NVIDIA Blackwell 200 GPUs, achieving a 38% geomean speedup over baselines in just 3 weeks.</description>
       <guid isPermaLink="true">https://cursor.com/blog/multi-agent-kernels</guid>
       <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amplitude ships 3x more production code with Cursor</title>
-      <link>https://cursor.com/blog/amplitude</link>
-      <description>Amplitude uses Cursor to build an autonomous development pipeline that takes software from idea to production with minimal developer intervention.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/amplitude</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Interact with agent-created visualizations in canvases</title>
@@ -35,6 +28,13 @@
       <link>https://cursor.com/blog/better-models-ambitious-work</link>
       <description>A University of Chicago study of 500 companies finds AI usage rose 44% as models improved, with more growth in higher-complexity and cross-system work.</description>
       <guid isPermaLink="true">https://cursor.com/blog/better-models-ambitious-work</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amplitude ships 3x more production code with Cursor</title>
+      <link>https://cursor.com/blog/amplitude</link>
+      <description>Amplitude uses Cursor to build an autonomous development pipeline that takes software from idea to production with minimal developer intervention.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/amplitude</guid>
       <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -56,7 +56,7 @@
       <link>https://cursor.com/blog/nab</link>
       <description>NAB standardized 6,000 developers on Cursor after evaluating Amazon Q and GitHub Copilot. Legacy modernizations are now running 3x faster and at higher quality.</description>
       <guid isPermaLink="true">https://cursor.com/blog/nab</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 21:57:58 +0000</lastBuildDate>
     <item>
       <title>How Perplexity Builds Accuracy into Frontier AI</title>
       <link>https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai</link>
       <description>Our central focus has always been to build accuracy into frontier AI. For the first time, we’re sharing some of the technology behind how we do that.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computer at Work</title>
+      <link>https://www.perplexity.ai/hub/blog/computer-at-work</link>
+      <description>Last month, we launched Computer for Enterprise. At Ask NYC 2026, our inaugural enterprise conference, we shared what</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-at-work</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

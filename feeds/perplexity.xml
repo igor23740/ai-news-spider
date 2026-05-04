@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 08:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 22:01:52 +0000</lastBuildDate>
     <item>
       <title>How Perplexity Builds Accuracy into Frontier AI</title>
       <link>https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai</link>
@@ -22,6 +22,13 @@
       <description>Last month, we launched Computer for Enterprise. At Ask NYC 2026, our inaugural enterprise conference, we shared what</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-at-work</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computer in Teams is here</title>
+      <link>https://www.perplexity.ai/hub/blog/computer-in-teams-is-here</link>
+      <description>Perplexity brings AI orchestration to Microsoft Teams for analysis, creation, and workflows where work happens</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-in-teams-is-here</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

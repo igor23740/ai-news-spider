@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 08:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:57:19 +0000</lastBuildDate>
     <item>
       <title>xAI — Creators of Grok, the AI Chatbot</title>
       <link>https://x.ai/news/grok-voice-think-fast-1</link>
@@ -22,6 +22,20 @@
       <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-custom-voices</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI — Creators of Grok, the AI Chatbot</title>
+      <link>https://x.ai/news/grok-connectors</link>
+      <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-connectors</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI — Creators of Grok, the AI Chatbot</title>
+      <link>https://x.ai/news/anthropic-compute-partnership</link>
+      <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
+      <guid isPermaLink="true">https://x.ai/news/anthropic-compute-partnership</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 08:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:58:23 +0000</lastBuildDate>
     <item>
       <title>Computer at Work</title>
       <link>https://www.perplexity.ai/hub/blog/computer-at-work</link>
@@ -36,6 +36,13 @@
       <description>Today we are launching Perplexity Computer for Professional Finance, a version of Computer built for the research, analysis, and decision workflows finance teams run every day.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-for-professional-finance</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Finance Search in the Agent API</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api</link>
+      <description>Today we</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

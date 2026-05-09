@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 22:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:01:48 +0000</lastBuildDate>
     <item>
       <title>ElevenLabs is opening a Madrid office and expanding in Spain</title>
       <link>https://elevenlabs.io/blog/expanding-in-spain</link>
@@ -22,6 +22,20 @@
       <description>The AI-powered platform for music discovery and creation, built on top of the ElevenLabs fully licensed music model.</description>
       <guid isPermaLink="true">https://elevenlabs.io/blog/introducing-elevenmusic</guid>
       <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs crosses $500M ARR and welcomes new investors</title>
+      <link>https://elevenlabs.io/blog/500m-arr-and-new-investors</link>
+      <description>New investors include institutions like BlackRock and Wellington, enterprises like NVIDIA and Santander, and actors like Jamie Foxx and Eva Longoria.</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/500m-arr-and-new-investors</guid>
+      <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs expands presence in Australia and New Zealand</title>
+      <link>https://elevenlabs.io/blog/elevenlabs-expands-presence-in-australia-new-zealand</link>
+      <description>ElevenLabs already serves 750,000 users across the region. Now it is tripling its local team, adding sales specialists and forward-deployed engineers.</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/elevenlabs-expands-presence-in-australia-new-zealand</guid>
+      <pubDate>Thu, 07 May 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

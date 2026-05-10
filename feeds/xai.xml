@@ -8,32 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 08:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:47:55 +0000</lastBuildDate>
     <item>
-      <title>xAI — Creators of Grok, the AI Chatbot</title>
+      <title>Custom Voices and Voice Library</title>
       <link>https://x.ai/news/grok-custom-voices</link>
-      <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
+      <description>Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-custom-voices</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>xAI — Creators of Grok, the AI Chatbot</title>
+      <title>Grok Imagine Quality Mode API</title>
       <link>https://x.ai/news/grok-imagine-quality-mode</link>
-      <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
+      <description>Higher realism. Stronger text rendering. Better creative control.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-imagine-quality-mode</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>xAI — Creators of Grok, the AI Chatbot</title>
+      <title>Connectors in web, iOS, and Android</title>
       <link>https://x.ai/news/grok-connectors</link>
-      <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
+      <description>Deep integrations that bring the apps you use every day directly into Grok.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-connectors</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>xAI — Creators of Grok, the AI Chatbot</title>
+      <title>New Compute Partnership with Anthropic</title>
       <link>https://x.ai/news/anthropic-compute-partnership</link>
-      <description>xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.</description>
+      <description>SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.</description>
       <guid isPermaLink="true">https://x.ai/news/anthropic-compute-partnership</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>

@@ -241,3 +241,11 @@ sources:
     index_url: https://www.inflection.ai/blog
     link_pattern: '/blog/[a-z0-9-]+$'
     stealth: true
+
+  - slug: antigravity
+    name: Google Antigravity Changelog
+    site: https://antigravity.google
+    index_url: https://antigravity.google/changelog
+    link_pattern: '/changelog/[A-Za-z0-9.-]+$'
+    stealth: true
+    wait_until: networkidle

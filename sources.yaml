@@ -67,3 +67,84 @@ sources:
     index_url: https://blackforestlabs.ai/blog
     link_pattern: '/blog/[a-z0-9-]+$'
     stealth: true
+
+  # === Phase 2 (2026-05-12): расширение генеративного AI и LLM второго эшелона ===
+
+  - slug: mistral
+    name: Mistral AI News
+    site: https://mistral.ai
+    index_url: https://mistral.ai/news
+    link_pattern: '/news/[a-z0-9-]+$'
+    wait_until: networkidle
+
+  - slug: cohere
+    name: Cohere Research
+    site: https://cohere.com
+    index_url: https://cohere.com/research/papers
+    link_pattern: '/research/papers/[a-z0-9-]+-\d{4}-\d{2}-\d{2}$'
+
+  - slug: krea
+    name: Krea AI
+    site: https://www.krea.ai
+    index_url: https://www.krea.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: recraft
+    name: Recraft
+    site: https://www.recraft.ai
+    index_url: https://www.recraft.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: luma
+    name: Luma Labs
+    site: https://lumalabs.ai
+    index_url: https://lumalabs.ai/news
+    link_pattern: '/news/[A-Za-z0-9_-]+$'
+
+  - slug: udio
+    name: Udio
+    site: https://www.udio.com
+    index_url: https://www.udio.com/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: reka
+    name: Reka AI
+    site: https://www.reka.ai
+    index_url: https://www.reka.ai/news
+    link_pattern: '/news/[a-z0-9-]+$'
+
+  - slug: seedance
+    name: ByteDance Seed
+    site: https://seed.bytedance.com
+    index_url: https://seed.bytedance.com/en/research
+    link_pattern: '/en/blog/[a-z0-9-]+'
+
+  - slug: kling
+    name: Kling AI
+    site: https://www.klingai.com
+    index_url: https://www.klingai.com/global/release-notes
+    link_pattern: '/release-notes/[A-Za-z0-9_-]+$'
+    stealth: true
+    wait_until: networkidle
+
+  - slug: midjourney
+    name: Midjourney
+    site: https://www.midjourney.com
+    index_url: https://www.midjourney.com/updates
+    link_pattern: '/updates/[a-z0-9-]+$'
+    stealth: true
+
+  - slug: ideogram
+    name: Ideogram
+    site: https://ideogram.ai
+    index_url: https://ideogram.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+    stealth: true
+
+  - slug: hailuo
+    name: MiniMax Hailuo
+    site: https://hailuoai.com
+    index_url: https://hailuoai.com/news
+    link_pattern: '/news/[A-Za-z0-9_-]+$'
+    wait_until: networkidle
+    stealth: true

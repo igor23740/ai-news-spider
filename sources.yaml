@@ -7,7 +7,7 @@
 # wait_until — networkidle | domcontentloaded (для SPA)
 # wait_selector — CSS-селектор, дождаться его появления (для SPA)
 
-lookback_days: 14          # сколько дней истории держать в фиде
+lookback_days: 7           # макс. возраст статьи: 7 дней (правило юзера 2026-05-12: «новости старше недели — это уже не новости»)
 max_items_per_feed: 30     # верхний предел записей в каждом xml
 article_concurrency: 6     # параллельных загрузок статей на источник
 

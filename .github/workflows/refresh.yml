@@ -2,8 +2,11 @@ name: Refresh feeds
 
 on:
   schedule:
-    - cron: "0 21 * * *"  # 21:00 UTC = 00:00 MSK (ночной сбор перед workflow 08:00)
-    - cron: "0 6 * * *"   # 06:00 UTC = 09:00 MSK (дневной сбор)
+    # 4 прогона в сутки, каждые 6 часов, заканчиваются за 30 мин до n8n cron MAIN (00:00/06:00/12:00/18:00 MSK)
+    - cron: "30 20 * * *"  # 20:30 UTC = 23:30 MSK → готовит фид к MAIN 00:00 MSK
+    - cron: "30 2 * * *"   # 02:30 UTC = 05:30 MSK → готовит фид к MAIN 06:00 MSK
+    - cron: "30 8 * * *"   # 08:30 UTC = 11:30 MSK → готовит фид к MAIN 12:00 MSK
+    - cron: "30 14 * * *"  # 14:30 UTC = 17:30 MSK → готовит фид к MAIN 18:00 MSK
   workflow_dispatch:
 
 permissions:

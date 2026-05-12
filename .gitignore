@@ -4,3 +4,6 @@ __pycache__/
 .env
 .idea/
 .vscode/
+# Claude-локальные служебные файлы
+CLAUDE.md
+diag/

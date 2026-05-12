@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 22:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:45:49 +0000</lastBuildDate>
     <item>
       <title>Build programmatic agents with the Cursor SDK</title>
       <link>https://cursor.com/blog/typescript-sdk</link>
@@ -33,7 +33,7 @@
     <item>
       <title>Beyond efficiency: PayPal expands what</title>
       <link>https://cursor.com/blog/paypal</link>
-      <description>PayPal is on track to increase roadmap throughput by 40% with Cursor in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 5x faster.</description>
+      <description>PayPal is positioned to increase roadmap throughput by 40% with Cursor in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 5x faster.</description>
       <guid isPermaLink="true">https://cursor.com/blog/paypal</guid>
       <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>

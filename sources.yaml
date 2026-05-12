@@ -148,3 +148,9 @@ sources:
     link_pattern: '/news/[A-Za-z0-9_-]+$'
     wait_until: networkidle
     stealth: true
+
+  - slug: magnific
+    name: Magnific (Freepik AI)
+    site: https://www.magnific.com
+    index_url: https://www.magnific.com/blog/category/product-updates
+    link_pattern: '/blog/[a-z0-9-]+$'

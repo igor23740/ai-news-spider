@@ -184,3 +184,60 @@ sources:
     site: https://kumo.ai
     index_url: https://kumo.ai/research/
     link_pattern: '/research/[A-Za-z0-9-]+/$'
+
+  # === Phase 3 (2026-05-12 ночь): доукомплектация по широкому фронту ===
+
+  - slug: cartesia
+    name: Cartesia
+    site: https://cartesia.ai
+    index_url: https://cartesia.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: ai21
+    name: AI21 Labs
+    site: https://www.ai21.com
+    index_url: https://www.ai21.com/blog
+    link_pattern: '/blog/[a-z0-9-]+/?$'
+
+  - slug: fireworks
+    name: Fireworks AI
+    site: https://fireworks.ai
+    index_url: https://fireworks.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: sakana
+    name: Sakana AI
+    site: https://sakana.ai
+    index_url: https://sakana.ai
+    link_pattern: '^/[a-z0-9-]+/$'
+
+  - slug: allenai
+    name: Allen Institute (AI2)
+    site: https://allenai.org
+    index_url: https://allenai.org/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: meshy
+    name: Meshy AI
+    site: https://www.meshy.ai
+    index_url: https://www.meshy.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: cognition
+    name: Cognition (Devin)
+    site: https://www.cognition.ai
+    index_url: https://www.cognition.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: modal
+    name: Modal Labs
+    site: https://modal.com
+    index_url: https://modal.com/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: inflection
+    name: Inflection AI
+    site: https://www.inflection.ai
+    index_url: https://www.inflection.ai/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+    stealth: true

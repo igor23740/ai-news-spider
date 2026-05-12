@@ -178,3 +178,9 @@ sources:
     site: https://lovable.dev
     index_url: https://lovable.dev/blog
     link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: kumo
+    name: Kumo AI Research
+    site: https://kumo.ai
+    index_url: https://kumo.ai/research/
+    link_pattern: '/research/[A-Za-z0-9-]+/$'

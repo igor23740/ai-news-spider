@@ -224,15 +224,30 @@ async def fetch_article(crawler: AsyncWebCrawler, src: dict, url: str, sem: asyn
         if dt is None:
             dt = extract_human_date(raw_html)
         if dt is None:
-            return None
+            # Fallback: используем момент паучения. Без этого статьи без meta-date
+            # отбрасываются полностью, что и было корнем «spider даёт 0».
+            # Дубли защищены через rss_seen_articles + rss_post_mirrors UNION в qvabo.
+            dt = datetime.now(timezone.utc)
 
         desc = first_match(META_DESC_PATTERNS, raw_html) or ""
         desc = clean_text(desc, 500)
 
-        if not title:
+        # Антипротухание: title и description гигиена.
+        title_clean = clean_text(title, 300)
+        if not title_clean or len(title_clean) < 20:
             return None
+        stop_words_re = re.compile(
+            r"\b(coming\s+soon|we\s+will\s+announce|stay\s+tuned|sponsored|whitepaper|"
+            r"join\s+the\s+webinar|register\s+now|sign\s+up\s+today|press\s+release)\b",
+            re.I,
+        )
+        if stop_words_re.search(title_clean):
+            return None
+        # Если description пустой/слишком короткий — берём первую часть title как fallback.
+        if len(desc) < 50:
+            desc = title_clean
 
-        return Article(url=url, title=clean_text(title, 300), published=dt, description=desc)
+        return Article(url=url, title=title_clean, published=dt, description=desc)
 
 
 async def build_feed_for_source(crawler: AsyncWebCrawler, src: dict, lookback_days: int, max_items: int, concurrency: int) -> int:

@@ -8,39 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 08:46:39 +0000</lastBuildDate>
-    <item>
-      <title>Computer at Work</title>
-      <link>https://www.perplexity.ai/hub/blog/computer-at-work</link>
-      <description>Last month, we launched Computer for Enterprise. At Ask NYC 2026, our inaugural enterprise conference, we shared what</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-at-work</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Computer in Teams is here</title>
-      <link>https://www.perplexity.ai/hub/blog/computer-in-teams-is-here</link>
-      <description>Perplexity brings AI orchestration to Microsoft Teams for analysis, creation, and workflows where work happens</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-in-teams-is-here</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Announcing Premium Health Sources</title>
-      <link>https://www.perplexity.ai/hub/blog/announcing-premium-health-sources</link>
-      <description>Today we are launching Premium Health Sources. This continues our investment in premium sources and will allow Perplexity to draw from the same clinical references used by physicians and researchers.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/announcing-premium-health-sources</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Computer for Professional Finance</title>
-      <link>https://www.perplexity.ai/hub/blog/computer-for-professional-finance</link>
-      <description>Today we are launching Perplexity Computer for Professional Finance, a version of Computer built for the research, analysis, and decision workflows finance teams run every day.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-for-professional-finance</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 21:06:24 +0000</lastBuildDate>
     <item>
       <title>Introducing Finance Search in the Agent API</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api</link>
-      <description>Today we</description>
+      <description>Introducing Finance Search in the Agent API</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>

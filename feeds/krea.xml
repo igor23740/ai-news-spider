@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Krea AI</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/krea.xml</link>
+    <description>Krea AI — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/krea.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 May 2026 21:07:33 +0000</lastBuildDate>
+    <item>
+      <title>Krea 2 Large is #2 for style fidelity</title>
+      <link>https://www.krea.ai/blog/krea-2-style-transfer-benchmark</link>
+      <description>Contra Labs ranked Krea 2 Large as the #2 style-transfer model, 0.14 points behind GPT Image 2 on Style Fidelity.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-style-transfer-benchmark</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

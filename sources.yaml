@@ -172,3 +172,9 @@ sources:
     site: https://qwenlm.github.io
     index_url: https://qwenlm.github.io/blog/
     link_pattern: '/blog/[a-z0-9-]+/$'
+
+  - slug: lovable
+    name: Lovable
+    site: https://lovable.dev
+    index_url: https://lovable.dev/blog
+    link_pattern: '/blog/[a-z0-9-]+$'

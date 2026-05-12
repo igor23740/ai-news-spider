@@ -154,3 +154,21 @@ sources:
     site: https://www.magnific.com
     index_url: https://www.magnific.com/blog/category/product-updates
     link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: replicate
+    name: Replicate
+    site: https://replicate.com
+    index_url: https://replicate.com/blog
+    link_pattern: '/blog/[a-z0-9-.]+$'
+
+  - slug: hedra
+    name: Hedra
+    site: https://www.hedra.com
+    index_url: https://www.hedra.com/blog
+    link_pattern: '/blog/[a-z0-9-]+$'
+
+  - slug: qwen
+    name: Qwen Blog
+    site: https://qwenlm.github.io
+    index_url: https://qwenlm.github.io/blog/
+    link_pattern: '/blog/[a-z0-9-]+/$'

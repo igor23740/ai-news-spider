@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 21:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 06:06:35 +0000</lastBuildDate>
     <item>
-      <title>Krea 2 Large is #2 for style fidelity</title>
+      <title>Krea 2 Large shines in style fidelity</title>
       <link>https://www.krea.ai/blog/krea-2-style-transfer-benchmark</link>
-      <description>Contra Labs ranked Krea 2 Large as the #2 style-transfer model, 0.14 points behind GPT Image 2 on Style Fidelity.</description>
+      <description>Contra Labs found Krea 2 Large within 0.14 points of GPT Image 2 on Style Fidelity in a four-model style-transfer benchmark.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-style-transfer-benchmark</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>

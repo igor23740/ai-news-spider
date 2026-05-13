@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 21:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:10:34 +0000</lastBuildDate>
     <item>
-      <title>Grok Imagine Quality Mode API</title>
-      <link>https://x.ai/news/grok-imagine-quality-mode</link>
-      <description>Higher realism. Stronger text rendering. Better creative control.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-imagine-quality-mode</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connectors in web, iOS, and Android</title>
-      <link>https://x.ai/news/grok-connectors</link>
-      <description>Deep integrations that bring the apps you use every day directly into Grok.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-connectors</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Compute Partnership with Anthropic</title>
-      <link>https://x.ai/news/anthropic-compute-partnership</link>
-      <description>SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.</description>
-      <guid isPermaLink="true">https://x.ai/news/anthropic-compute-partnership</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
+      <pubDate>Wed, 13 May 2026 11:10:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

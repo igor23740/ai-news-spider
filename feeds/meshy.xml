@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 06:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:19:13 +0000</lastBuildDate>
     <item>
       <title>From One Archival Photo to a 3D-Printed Bust: How Meshy Brings Historical Figures to Life - Blog</title>
       <link>https://www.meshy.ai/blog/photo-to-3d-printed-bust</link>
@@ -22,6 +22,13 @@
       <description>Create Minecraft 3D models with AI, Blockbench, Blender, and world exporters. Step-by-step tips for prep, modeling, texturing, and exporting for resource packs, renders, or 3D printing.</description>
       <guid isPermaLink="true">https://www.meshy.ai/blog/minecraft-3d-model</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meshy Workspace 3.0: Instant AI 3D Generation, Task-Oriented Workflows, and Unified Asset Management - Blog</title>
+      <link>https://www.meshy.ai/blog/workspace3</link>
+      <description>Meshy Workspace 3.0 rebuilds AI 3D creation with a new Discover creation bar, task-oriented modules for Image, 3D Model, 3D Printing, and Animate, and unified asset management.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/workspace3</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

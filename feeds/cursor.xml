@@ -8,19 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 11:10:50 +0000</lastBuildDate>
-    <item>
-      <title>Updates to Bugbot for Teams and Individuals</title>
-      <link>https://cursor.com/blog/may-2026-bugbot-changes</link>
-      <description>Bugbot is switching from seat-based subscriptions to usage-based billing for Individual and Teams plans.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/may-2026-bugbot-changes</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 16:48:18 +0000</lastBuildDate>
     <item>
       <title>Beyond efficiency: PayPal expands what</title>
       <link>https://cursor.com/blog/paypal</link>
       <description>PayPal could deliver 40% more capabilities in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 6x faster.</description>
       <guid isPermaLink="true">https://cursor.com/blog/paypal</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updates to Bugbot for Teams and Individuals</title>
+      <link>https://cursor.com/blog/may-2026-bugbot-changes</link>
+      <description>Bugbot is switching from seat-based subscriptions to usage-based billing for Individual and Teams plans.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/may-2026-bugbot-changes</guid>
       <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>

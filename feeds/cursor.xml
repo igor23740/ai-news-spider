@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 16:48:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 21:54:00 +0000</lastBuildDate>
     <item>
       <title>Beyond efficiency: PayPal expands what</title>
       <link>https://cursor.com/blog/paypal</link>
@@ -22,6 +22,13 @@
       <description>Bugbot is switching from seat-based subscriptions to usage-based billing for Individual and Teams plans.</description>
       <guid isPermaLink="true">https://cursor.com/blog/may-2026-bugbot-changes</guid>
       <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Development environments for your agents</title>
+      <link>https://cursor.com/blog/cloud-agent-development-environments</link>
+      <description>New tools for configuring cloud agent development environments, with multi-repo support, Dockerfile-based configuration, and environment-level governance.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-development-environments</guid>
+      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

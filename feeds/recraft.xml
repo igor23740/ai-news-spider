@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Recraft</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/recraft.xml</link>
+    <description>Recraft — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/recraft.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 16:33:09 +0000</lastBuildDate>
+    <item>
+      <title>Recraft V4.1 Release: More Beautiful by Nature</title>
+      <link>https://www.recraft.ai/blog/recraft-v4-1-more-beautiful-by-nature</link>
+      <description>Recraft V4.1 Release: More Beautiful by Nature</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/recraft-v4-1-more-beautiful-by-nature</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

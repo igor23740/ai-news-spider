@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI21 Labs</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/ai21.xml</link>
+    <description>AI21 Labs — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/ai21.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 16:37:45 +0000</lastBuildDate>
+    <item>
+      <title>Reproducing Variance: Caching in Agentic LLM Pipelines</title>
+      <link>https://www.ai21.com/blog/caching-in-agentic-llm-pipelines</link>
+      <description>How to design cache keys in agentic LLM pipelines that support both reproducibility and variance - including nested fan-outs, scoped indices, and upstream dependency encoding.</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/caching-in-agentic-llm-pipelines</guid>
+      <pubDate>Wed, 13 May 2026 20:16:51 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

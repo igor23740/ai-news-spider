@@ -8,55 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 06:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:51:54 +0000</lastBuildDate>
     <item>
       <title>Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks AI</title>
       <link>https://fireworks.ai/blog/innovative-solutions</link>
       <description>By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/innovative-solutions</guid>
-      <pubDate>Thu, 14 May 2026 06:10:11 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:46 +0000</pubDate>
     </item>
     <item>
       <title>DeepSeek V4 Pro: Validating Frontier Models for Production</title>
       <link>https://fireworks.ai/blog/deepseek-v4-pro-validating-frontier-models-for-production</link>
       <description>DeepSeek V4 Pro is live on Fireworks — after full validation. See the reasoning trace bug we caught across day-0 endpoints before shipping to production.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/deepseek-v4-pro-validating-frontier-models-for-production</guid>
-      <pubDate>Thu, 14 May 2026 06:10:12 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:47 +0000</pubDate>
     </item>
     <item>
       <title>How we fixed prompt injection for all models on Fireworks</title>
       <link>https://fireworks.ai/blog/safe-tokenization-preventing-prompt-injection-on-fireworks</link>
       <description>The blog highlights a critical prompt injection vulnerability in LLM serving stacks where user input containing model control tokens can override system prompts. Because standard tokenizers often merge chat templates and user text into a single string, attackers can forge turn boundaries or system instructions, forcing the model to ignore its original directives. To address this, Fireworks AI introduced the safe_tokenization: true API flag, which ensures strings inside user content are encoded…</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/safe-tokenization-preventing-prompt-injection-on-fireworks</guid>
-      <pubDate>Thu, 14 May 2026 06:10:14 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:50 +0000</pubDate>
     </item>
     <item>
       <title>Own Your AI: Fireworks Training Preview</title>
       <link>https://fireworks.ai/blog/training-preview</link>
       <description>Use state-of-the-art, open-source LLMs and image models at blazing fast speed, or fine-tune and deploy your own at no additional cost with Fireworks AI!</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/training-preview</guid>
-      <pubDate>Thu, 14 May 2026 06:10:15 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:50 +0000</pubDate>
     </item>
     <item>
       <title>DeepSeek Models: V3.2, R1, Distills, and Production Caveats</title>
       <link>https://fireworks.ai/blog/deepseek-models</link>
       <description>DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks AI.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/deepseek-models</guid>
-      <pubDate>Thu, 14 May 2026 06:10:18 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:53 +0000</pubDate>
     </item>
     <item>
       <title>The Benchmark Gap: What It Takes to Ship Kimi K2.5</title>
       <link>https://fireworks.ai/blog/quality-first-with-kimi-k2p5</link>
       <description>Quality is the most important characteristic of a frontier model, and we at Fireworks are committed to getting this right. We’ve written about our GPT-OSS quality efforts here where we fixed several quality issues. This blog is about our experience ensuring quality with Kimi K2.5 - a new SOTA multimodal model from the Moonshot team. We cover our quality control process, benchmark scores we measured, some interesting bugs we found soon after launch, and how we’re strengthening our process for…</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/quality-first-with-kimi-k2p5</guid>
-      <pubDate>Thu, 14 May 2026 06:10:19 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:54 +0000</pubDate>
     </item>
     <item>
       <title>Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</title>
       <link>https://fireworks.ai/blog/blazing-fast-inference-on-top-oss-models</link>
       <description>Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/blazing-fast-inference-on-top-oss-models</guid>
-      <pubDate>Thu, 14 May 2026 06:10:19 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:51:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

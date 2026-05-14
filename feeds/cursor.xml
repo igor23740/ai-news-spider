@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:44:17 +0000</lastBuildDate>
+    <item>
+      <title>Beyond efficiency: PayPal expands what</title>
+      <link>https://cursor.com/blog/paypal</link>
+      <description>PayPal could deliver 40% more capabilities in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 6x faster.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/paypal</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Updates to Bugbot for Teams and Individuals</title>
       <link>https://cursor.com/blog/may-2026-bugbot-changes</link>
@@ -17,18 +24,11 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beyond efficiency: PayPal expands what</title>
-      <link>https://cursor.com/blog/paypal</link>
-      <description>PayPal could deliver 40% more capabilities in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 6x faster.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/paypal</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Development environments for your agents</title>
       <link>https://cursor.com/blog/cloud-agent-development-environments</link>
       <description>New tools for configuring cloud agent development environments, with multi-repo support, Dockerfile-based configuration, and environment-level governance.</description>
       <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-development-environments</guid>
-      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

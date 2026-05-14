@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 21:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:45:25 +0000</lastBuildDate>
     <item>
       <title>Remote agents in Vibe. Powered by Mistral Medium 3.5.</title>
       <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
       <description>Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.</description>
       <guid isPermaLink="true">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
-      <pubDate>Wed, 13 May 2026 21:55:06 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:45:22 +0000</pubDate>
     </item>
     <item>
       <title>Workflows for work that runs the business</title>
       <link>https://mistral.ai/news/workflows</link>
       <description>Workflows for work that runs the business</description>
       <guid isPermaLink="true">https://mistral.ai/news/workflows</guid>
-      <pubDate>Wed, 13 May 2026 21:55:07 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 10:45:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

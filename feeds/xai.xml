@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 16:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 21:33:04 +0000</lastBuildDate>
     <item>
       <title>Introducing Grok Build</title>
       <link>https://x.ai/news/grok-build-cli</link>
       <description>Now in early beta for SuperGrok Heavy subscribers — Grok Build is a new coding agent that runs right from your terminal.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-build-cli</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Connect Grok to Hermes Agent</title>
+      <link>https://x.ai/news/grok-hermes</link>
+      <description>Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-hermes</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

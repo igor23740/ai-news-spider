@@ -8,13 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 12:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:21:50 +0000</lastBuildDate>
     <item>
       <title>Krea 2 Large shines in style fidelity</title>
       <link>https://www.krea.ai/blog/krea-2-style-transfer-benchmark</link>
       <description>Contra Labs found Krea 2 Large within 0.14 points of GPT Image 2 on Style Fidelity in a four-model style-transfer benchmark.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-style-transfer-benchmark</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mood boards in Krea 2</title>
+      <link>https://www.krea.ai/blog/moodboards-krea-2</link>
+      <description>Mood boards are one of the new tools in Krea 2 — more than four references, deeper style + concept capture, and presets for fast exploration.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/moodboards-krea-2</guid>
+      <pubDate>Fri, 15 May 2026 15:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Style references in Krea 2</title>
+      <link>https://www.krea.ai/blog/style-references-krea-2</link>
+      <description>How S-Refs work in Krea 2 — extracting style from a single image and applying it to any new prompt, with control over strength.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/style-references-krea-2</guid>
+      <pubDate>Sat, 16 May 2026 15:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploratory prompting in Krea 2</title>
+      <link>https://www.krea.ai/blog/explorative-prompting-krea-2</link>
+      <description>Krea 2 rewards curiosity — start vague, see what comes back, and follow the threads you like.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/explorative-prompting-krea-2</guid>
+      <pubDate>Mon, 18 May 2026 15:16:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -53,6 +53,7 @@ sources:
     link_pattern: '/blog/[a-z0-9-]+$'
     wait_until: networkidle
     wait_selector: 'a[href^="/blog/"]'
+    stealth: true
 
   - slug: runway
     name: Runway Research
@@ -66,6 +67,7 @@ sources:
     index_url: https://stability.ai/news
     link_pattern: '/news/[a-z0-9-]+$'
     stealth: true
+    wait_until: networkidle
 
   - slug: blackforestlabs
     name: Black Forest Labs

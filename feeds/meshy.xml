@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 21:21:29 +0000</lastBuildDate>
-    <item>
-      <title>How to Create Minecraft 3D Models in 2026 - Blog</title>
-      <link>https://www.meshy.ai/blog/minecraft-3d-model</link>
-      <description>Create Minecraft 3D models with AI, Blockbench, Blender, and world exporters. Step-by-step tips for prep, modeling, texturing, and exporting for resource packs, renders, or 3D printing.</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/minecraft-3d-model</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 06:47:55 +0000</lastBuildDate>
     <item>
       <title>Meshy Workspace 3.0: Instant AI 3D Generation, Task-Oriented Workflows, and Unified Asset Management - Blog</title>
       <link>https://www.meshy.ai/blog/workspace3</link>

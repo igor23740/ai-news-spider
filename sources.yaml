@@ -20,6 +20,7 @@ sources:
     site: https://www.anthropic.com
     index_url: https://www.anthropic.com/news
     link_pattern: '/news/[a-z0-9-]+$'
+    wait_until: networkidle
 
   - slug: xai
     name: xAI News

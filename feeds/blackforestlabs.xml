@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 08:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 20:20:43 +0000</lastBuildDate>
     <item>
-      <title>How Our Forward Deployed Engineers Work with Customers</title>
-      <link>https://bfl.ai/blog/how-we-get-the-most-out-of-our-models-for-our-partners</link>
-      <description>Our engineers help partners turn FLUX into real systems: prompts, pipelines, fine-tunes, and infra tuned for real-world use cases.</description>
-      <guid isPermaLink="true">https://bfl.ai/blog/how-we-get-the-most-out-of-our-models-for-our-partners</guid>
-      <pubDate>Thu, 07 May 2026 21:56:00 +0000</pubDate>
+      <title>FLUX Outpainting: Extend any image, in any direction</title>
+      <link>https://bfl.ai/blog/outpainting-extend-any-image-in-any-direction</link>
+      <description>FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.</description>
+      <guid isPermaLink="true">https://bfl.ai/blog/outpainting-extend-any-image-in-any-direction</guid>
+      <pubDate>Thu, 14 May 2026 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

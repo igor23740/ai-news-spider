@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 21:46:50 +0000</lastBuildDate>
-    <item>
-      <title>Krea 2 Large shines in style fidelity</title>
-      <link>https://www.krea.ai/blog/krea-2-style-transfer-benchmark</link>
-      <description>Contra Labs found Krea 2 Large within 0.14 points of GPT Image 2 on Style Fidelity in a four-model style-transfer benchmark.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-style-transfer-benchmark</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 06:35:35 +0000</lastBuildDate>
     <item>
       <title>Mood boards in Krea 2</title>
       <link>https://www.krea.ai/blog/moodboards-krea-2</link>

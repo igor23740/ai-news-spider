@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 06:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:40:57 +0000</lastBuildDate>
     <item>
       <title>Introducing Grok Build</title>
       <link>https://x.ai/news/grok-build-cli</link>
@@ -29,6 +29,13 @@
       <description>Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-skills</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
+      <pubDate>Tue, 19 May 2026 11:40:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

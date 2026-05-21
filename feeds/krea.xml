@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 17:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:18:25 +0000</lastBuildDate>
     <item>
-      <title>Mood boards in Krea 2</title>
-      <link>https://www.krea.ai/blog/moodboards-krea-2</link>
-      <description>Mood boards are one of the new tools in Krea 2 — more than four references, deeper style + concept capture, and presets for fast exploration.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/moodboards-krea-2</guid>
-      <pubDate>Fri, 15 May 2026 15:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Style references in Krea 2</title>
-      <link>https://www.krea.ai/blog/style-references-krea-2</link>
-      <description>How S-Refs work in Krea 2 — extracting style from a single image and applying it to any new prompt, with control over strength.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/style-references-krea-2</guid>
-      <pubDate>Sat, 16 May 2026 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploratory prompting in Krea 2</title>
-      <link>https://www.krea.ai/blog/explorative-prompting-krea-2</link>
-      <description>Krea 2 rewards curiosity — start vague, see what comes back, and follow the threads you like.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/explorative-prompting-krea-2</guid>
-      <pubDate>Mon, 18 May 2026 15:16:42 +0000</pubDate>
+      <title>Krea 2 LoRA training is now available</title>
+      <link>https://www.krea.ai/blog/krea-2-lora-training</link>
+      <description>Train custom Krea 2 LoRAs — styles, characters, or objects — and use them in the Image tool. In beta for Max and Business subscribers.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-lora-training</guid>
+      <pubDate>Thu, 21 May 2026 16:09:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

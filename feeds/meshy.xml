@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 21:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:25:26 +0000</lastBuildDate>
     <item>
-      <title>Meshy Workspace 3.0: Instant AI 3D Generation, Task-Oriented Workflows, and Unified Asset Management - Blog</title>
-      <link>https://www.meshy.ai/blog/workspace3</link>
-      <description>Meshy Workspace 3.0 rebuilds AI 3D creation with a new Discover creation bar, task-oriented modules for Image, 3D Model, 3D Printing, and Animate, and unified asset management.</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/workspace3</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <title>How to Make Squirm Dandy</title>
+      <link>https://www.meshy.ai/blog/dandys-world-squirm</link>
+      <description>How to Make Squirm Dandy</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/dandys-world-squirm</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

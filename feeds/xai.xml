@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 17:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:55:17 +0000</lastBuildDate>
     <item>
       <title>Connect Grok to Hermes Agent</title>
       <link>https://x.ai/news/grok-hermes</link>
@@ -29,6 +29,13 @@
       <description>Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-openclaw</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use Grok in OpenCode</title>
+      <link>https://x.ai/news/grok-opencode</link>
+      <description>Use your SuperGrok or X Premium subscription inside OpenCode.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-opencode</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

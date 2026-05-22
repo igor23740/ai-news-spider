@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 16:48:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:43:40 +0000</lastBuildDate>
     <item>
       <title>Krea 2 LoRA training is now available</title>
       <link>https://www.krea.ai/blog/krea-2-lora-training</link>
       <description>Train custom Krea 2 LoRAs — styles, characters, or objects — and use them in the Image tool. In beta for Max and Business subscribers.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-lora-training</guid>
       <pubDate>Thu, 21 May 2026 16:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krea 2 deep dive: exploration, style references, and moodboards</title>
+      <link>https://www.krea.ai/blog/krea-2-deep-dive-walkthrough</link>
+      <description>Krea 2 is our first foundation model, built completely from scratch and focused on aesthetics and creative control.\ \ When you make an image with AI there are</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-2-deep-dive-walkthrough</guid>
+      <pubDate>Thu, 21 May 2026 20:35:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

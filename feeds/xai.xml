@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 21:55:17 +0000</lastBuildDate>
-    <item>
-      <title>Connect Grok to Hermes Agent</title>
-      <link>https://x.ai/news/grok-hermes</link>
-      <description>Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-hermes</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 06:31:59 +0000</lastBuildDate>
     <item>
       <title>Skills in web, iOS, and Android</title>
       <link>https://x.ai/news/grok-skills</link>

@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 22:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:52:08 +0000</lastBuildDate>
     <item>
-      <title>Computer brings data science to every team</title>
-      <link>https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team</link>
-      <description>Make data accessible with Computer. Query Snowflake in plain language, uncover insights, and drive faster decisions.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <title>Computer comes to Excel, Word, PowerPoint, and Outlook</title>
+      <link>https://www.perplexity.ai/hub/blog/computer-comes-to-word-excel-powerpoint-and-outlook</link>
+      <description>Perplexity Computer runs inside Microsoft 365 apps. Draft docs, build models, generate decks, and compose email in-app.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/computer-comes-to-word-excel-powerpoint-and-outlook</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

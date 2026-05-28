@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 22:23:38 +0000</lastBuildDate>
-    <item>
-      <title>We Gave Our Agent a Vent Tool</title>
-      <link>https://lovable.dev/blog/we-gave-our-agent-a-vent-tool</link>
-      <description>How Lovable is self-improving every hour by learning from production friction and building a corpus of problems and solutions, and by letting our main agent send feedback directly to its creators using a vent tool.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/we-gave-our-agent-a-vent-tool</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 06:44:11 +0000</lastBuildDate>
     <item>
       <title>Introducing subagents: Lovable is now better at multitasking</title>
       <link>https://lovable.dev/blog/subagents-in-lovable</link>

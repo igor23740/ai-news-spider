@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 17:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:15:41 +0000</lastBuildDate>
     <item>
       <title>Anthropic appoints KiYoung Choi as Representative Director of Korea</title>
       <link>https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</link>
@@ -22,6 +22,13 @@
       <description>Anthropic opens Milan office to support Italian enterprise, research, and developers</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/milan-office-opening</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic raises $65B in Series H funding at $965B post</title>
+      <link>https://www.anthropic.com/news/series-h</link>
+      <description>Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/series-h</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Opus 4.8</title>

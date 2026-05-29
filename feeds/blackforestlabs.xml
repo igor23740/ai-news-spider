@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 15:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 06:46:40 +0000</lastBuildDate>
     <item>
-      <title>FLUX Erase: Remove anything, leave no trace</title>
-      <link>https://bfl.ai/blog/flux-erase-remove-anything-leave-no-trace</link>
-      <description>FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image.</description>
-      <guid isPermaLink="true">https://bfl.ai/blog/flux-erase-remove-anything-leave-no-trace</guid>
-      <pubDate>Thu, 21 May 2026 08:37:00 +0000</pubDate>
+      <title>FLUX VTO: Virtual Try</title>
+      <link>https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale</link>
+      <description>FLUX Virtual Try-On allows users to seem themselves in outfits before they buy with high accuracy and garment consistency. Gives you sub‑4 second generations across thousands of products at low cost and low latency.</description>
+      <guid isPermaLink="true">https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale</guid>
+      <pubDate>Thu, 28 May 2026 16:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

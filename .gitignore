@@ -7,3 +7,12 @@ __pycache__/
 # Claude-локальные служебные файлы
 CLAUDE.md
 diag/
+
+# рабочие артефакты Claude-сессий (не в публичный репо)
+.agents/
+.github/agents/
+.n8nac/
+AGENTS.md
+debug.md
+CONTRACT_*.md
+*.bak

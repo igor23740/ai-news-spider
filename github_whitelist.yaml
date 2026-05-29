@@ -1,0 +1,62 @@
+# GitHub-репозитории для трека "GitHub releases" → releases.atom → n8n rss_feeds (категория ai-skills)
+# Обновлено 2026-05-30.
+#
+# КРИТЕРИЙ ОТБОРА (правило владельца):
+#   1) Только НАСТОЯЩИЕ GitHub Releases (releases.atom непустой = финализированный артефакт).
+#      НЕ commits.atom (commit-шум), НЕ awesome-списки ссылок, НЕ репо без Releases.
+#   2) Мейнстрим / на слуху (Google, Anthropic, OpenAI и равные им), реально востребованное.
+#   3) prerelease-теги (rc/alpha/beta/dev/preview/snapshot/nightly + языковые rust-/python-)
+#      отсекаются фильтром в Code-ноде "Full Pipeline" — поэтому codex/gemini-cli безопасны.
+#
+# Чистка 2026-05-30 (деактивировано в rss_feeds, 13 шт):
+#   commit-фиды без Releases: anthropics/skills, anthropics/claude-cookbooks, openai/skills,
+#     wshobson/agents, ComposioHQ/awesome-claude-skills, BehiSecc/awesome-claude-skills,
+#     heilcheng/awesome-agent-skills, VoltAgent/awesome-agent-skills,
+#     alirezarezvani/claude-skills, Orchestra-Research/AI-Research-SKILLs;
+#   awesome-агрегаторы: rohitg00/awesome-claude-code-toolkit, sickn33/antigravity-awesome-skills;
+#   мёртвый (V4 вышла, репо без Releases): deepseek-ai/DeepSeek-V3.
+
+repos:
+  # --- Мейнстрим CLI/SDK (добавлено 2026-05-30) ---
+  - repo: anthropics/claude-code
+    vendor: Anthropic
+    feed_url: https://github.com/anthropics/claude-code/releases.atom
+  - repo: openai/codex
+    vendor: OpenAI
+    feed_url: https://github.com/openai/codex/releases.atom
+    note: prerelease (alpha, rust-/python- сборки) отсекается фильтром Full Pipeline
+  - repo: openai/openai-agents-python
+    vendor: OpenAI
+    feed_url: https://github.com/openai/openai-agents-python/releases.atom
+  - repo: openai/codex-plugin-cc
+    vendor: OpenAI
+    feed_url: https://github.com/openai/codex-plugin-cc/releases.atom
+  - repo: google-gemini/gemini-cli
+    vendor: Google
+    feed_url: https://github.com/google-gemini/gemini-cli/releases.atom
+    note: nightly/preview отсекается фильтром Full Pipeline
+  - repo: google/adk-python
+    vendor: Google
+    feed_url: https://github.com/google/adk-python/releases.atom
+
+  # --- Инструменты/фреймворки с реальными релизами (проверено 2026-05-30) ---
+  - repo: cline/cline
+    feed_url: https://github.com/cline/cline/releases.atom
+  - repo: Mintplex-Labs/anything-llm
+    feed_url: https://github.com/Mintplex-Labs/anything-llm/releases.atom
+  - repo: crewAIInc/crewAI
+    feed_url: https://github.com/crewAIInc/crewAI/releases.atom
+  - repo: run-llama/llama_index
+    feed_url: https://github.com/run-llama/llama_index/releases.atom
+  - repo: Aider-AI/aider
+    feed_url: https://github.com/Aider-AI/aider/releases.atom
+  - repo: Significant-Gravitas/AutoGPT
+    feed_url: https://github.com/Significant-Gravitas/AutoGPT/releases.atom
+  - repo: langchain-ai/langchain
+    feed_url: https://github.com/langchain-ai/langchain/releases.atom
+  - repo: ollama/ollama
+    feed_url: https://github.com/ollama/ollama/releases.atom
+  - repo: open-webui/open-webui
+    feed_url: https://github.com/open-webui/open-webui/releases.atom
+  - repo: langgenius/dify
+    feed_url: https://github.com/langgenius/dify/releases.atom

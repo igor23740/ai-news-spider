@@ -56,10 +56,12 @@ sources:
     stealth: true
 
   - slug: runway
-    name: Runway Research
+    name: Runway News
     site: https://runwayml.com
-    index_url: https://runwayml.com/research
-    link_pattern: '/research/[a-z0-9-]+$'
+    index_url: https://runwayml.com/news
+    link_pattern: '/news/[a-z0-9-]+$'
+    stealth: true
+    wait_until: networkidle
 
   - slug: stability
     name: Stability AI News
@@ -71,8 +73,8 @@ sources:
 
   - slug: blackforestlabs
     name: Black Forest Labs
-    site: https://blackforestlabs.ai
-    index_url: https://blackforestlabs.ai/blog
+    site: https://bfl.ai
+    index_url: https://bfl.ai/blog
     link_pattern: '/blog/[a-z0-9-]+$'
     stealth: true
 
@@ -119,7 +121,7 @@ sources:
     name: Reka AI
     site: https://www.reka.ai
     index_url: https://www.reka.ai/news
-    link_pattern: '/news/[a-z0-9-]+$'
+    link_pattern: '/news/[a-z0-9.-]+$'
 
   - slug: seedance
     name: ByteDance Seed

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 10:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:51:25 +0000</lastBuildDate>
     <item>
       <title>Introducing Grok Build</title>
       <link>https://x.ai/news/grok-build-cli</link>
@@ -29,6 +29,13 @@
       <description>Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-build-0-1</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
+      <pubDate>Sun, 31 May 2026 15:51:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

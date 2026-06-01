@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 11:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:35:25 +0000</lastBuildDate>
     <item>
-      <title>Bringing voice AI into the classroom with ElevenLabs</title>
-      <link>https://elevenlabs.io/blog/bringing-voice-ai-into-the-classroom-with-elevenlabs</link>
-      <description>Today, ElevenLabs launched free voice AI access for professors and an interactive Einstein voice agent for immersive learning.</description>
-      <guid isPermaLink="true">https://elevenlabs.io/blog/bringing-voice-ai-into-the-classroom-with-elevenlabs</guid>
-      <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+      <title>Introducing Music v2, our groundbreaking new music model</title>
+      <link>https://elevenlabs.io/blog/introducing-music-v2</link>
+      <description>Better vocals, instrumentation, and arrangement across every genre, improved multilingual support plus capabilities that weren</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/introducing-music-v2</guid>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Dubbing v2: our revolutionary new dubbing model</title>
+      <link>https://elevenlabs.io/blog/introducing-dubbing-v2</link>
+      <description>Introducing Dubbing v2: our revolutionary new dubbing model, which carries the emotion and performance of the original speaker across every language.</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/introducing-dubbing-v2</guid>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing the ElevenLabs Summit home to Warsaw</title>
+      <link>https://elevenlabs.io/blog/warsaw-summit-homecoming</link>
+      <description>Today, we’re hosting 2,500 founders, leaders, researchers, developers, and artists from across Europe for the ElevenLabs Summit in Teatr Wielki.</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/warsaw-summit-homecoming</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

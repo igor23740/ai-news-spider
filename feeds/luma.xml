@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Luma Labs</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/luma.xml</link>
+    <description>Luma Labs — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/luma.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2026 19:34:32 +0000</lastBuildDate>
+    <item>
+      <title>Luma Announces The Open Physical AI Lab: An Open Science Effort to Solve Generalization in Physical AI</title>
+      <link>https://lumalabs.ai/news/luma-open-physical-ai-lab</link>
+      <description>To improve human life, AI systems must be able to help us improve the physical world. What stands between us and that prosperous future is the problem of generalization in physical AI. To solve this problem, we are establishing a new open science physical AI lab at Luma.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-open-physical-ai-lab</guid>
+      <pubDate>Mon, 01 Jun 2026 11:24:45 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

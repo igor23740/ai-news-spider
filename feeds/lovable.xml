@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 14:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 19:38:14 +0000</lastBuildDate>
     <item>
       <title>Introducing subagents: Lovable is now better at multitasking</title>
       <link>https://lovable.dev/blog/subagents-in-lovable</link>
@@ -21,6 +21,13 @@
       <link>https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</link>
       <description>Learn about our new scan profiles, security memory, and security scanning scheduling.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building apps using TanStack Start</title>
+      <link>https://lovable.dev/blog/building-apps-using-tanstack-start</link>
+      <description>Starting May 13, new projects are Server-Side Rendered (SSR) and powered by TanStack Start. This post is for anyone wondering what changed - what</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/building-apps-using-tanstack-start</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

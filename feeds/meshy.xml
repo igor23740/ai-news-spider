@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 21:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 18:31:52 +0000</lastBuildDate>
     <item>
-      <title>How to Make Cocoa Dandy</title>
-      <link>https://www.meshy.ai/blog/dandys-world-cocoa</link>
-      <description>Cocoa is the chocolate-bunny Holiday Toon in Dandy</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/dandys-world-cocoa</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Make a Bassie 3D Model: Meshy, Blender &amp; Roblox - Blog</title>
-      <link>https://www.meshy.ai/blog/dandys-world-bassie</link>
-      <description>How to Make a Bassie 3D Model: Meshy, Blender &amp; Roblox - Blog</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/dandys-world-bassie</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <title>Faithful Contouring: No SDF, No Watertight, 1024³ Voxelization - Blog</title>
+      <link>https://www.meshy.ai/blog/faithful-contouring-near-lossless-3d-voxel-representation</link>
+      <description>Faithful Contouring encodes meshes into sparse voxel tokens — no SDF, no watertighting, no Marching Cubes. 1024³ in ~1s on a single GPU. CVPR 2026 Oral.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/faithful-contouring-near-lossless-3d-voxel-representation</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

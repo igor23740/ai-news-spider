@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:37:36 +0000</lastBuildDate>
     <item>
       <title>Computer comes to Excel, Word, PowerPoint, and Outlook</title>
       <link>https://www.perplexity.ai/hub/blog/computer-comes-to-word-excel-powerpoint-and-outlook</link>
@@ -22,6 +22,13 @@
       <description>Today we announced the next step for Personal Computer: the first hybrid local-server inference orchestrator.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/the-data-center-moves-to-your-machine</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Personal Computer is Coming to Windows</title>
+      <link>https://www.perplexity.ai/hub/blog/personal-computer-is-coming-to-windows</link>
+      <description>Computer for Windows acts on local files, orchestrates Microsoft apps, and works across the web.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/personal-computer-is-coming-to-windows</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

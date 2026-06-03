@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 18:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:37:25 +0000</lastBuildDate>
     <item>
       <title>Introducing Search Toolkit</title>
       <link>https://mistral.ai/news/search-toolkit</link>
@@ -21,7 +21,7 @@
       <link>https://mistral.ai/news/spaces</link>
       <description>The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.</description>
       <guid isPermaLink="true">https://mistral.ai/news/spaces</guid>
-      <pubDate>Wed, 03 Jun 2026 18:37:45 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:37:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

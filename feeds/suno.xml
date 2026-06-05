@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 17:12:11 +0000</lastBuildDate>
     <item>
       <title>The Next Chapter for Suno</title>
       <link>https://suno.com/blog/series-d-announcement</link>
       <description>The Next Chapter for Suno</description>
       <guid isPermaLink="true">https://suno.com/blog/series-d-announcement</guid>
       <pubDate>Wed, 03 Jun 2026 19:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Voice, Reimagined</title>
+      <link>https://suno.com/blog/6-tips-for-voices</link>
+      <description>Your Voice, Reimagined</description>
+      <guid isPermaLink="true">https://suno.com/blog/6-tips-for-voices</guid>
+      <pubDate>Fri, 05 Jun 2026 19:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

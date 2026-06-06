@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 15:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 21:36:06 +0000</lastBuildDate>
     <item>
       <title>Improvements to Teams Pricing</title>
       <link>https://cursor.com/blog/teams-pricing-june-2026</link>
       <description>Increasing usage limits, lowering total costs for heavy-usage customers, and making Teams spend easier to forecast and control.</description>
       <guid isPermaLink="true">https://cursor.com/blog/teams-pricing-june-2026</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What we’ve learned building cloud agents</title>

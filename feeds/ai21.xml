@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 06:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:49:10 +0000</lastBuildDate>
     <item>
       <title>First scale, then enrich: How the right execution strategy helped us reach state-of-the-art on SWE-rebench</title>
       <link>https://www.ai21.com/blog/first-scale-then-enrich-how-the-right-execution-strategy-helped-us-reach-state-of-the-art-on-swe-rebench</link>

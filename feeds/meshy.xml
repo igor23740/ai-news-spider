@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 21:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 06:57:38 +0000</lastBuildDate>
     <item>
       <title>Faithful Contouring: No SDF, No Watertight, 1024³ Voxelization - Blog</title>
       <link>https://www.meshy.ai/blog/faithful-contouring-near-lossless-3d-voxel-representation</link>

@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 11:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 16:03:58 +0000</lastBuildDate>
     <item>
-      <title>FLUX VTO: Virtual Try</title>
-      <link>https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale</link>
-      <description>FLUX Virtual Try-On allows users to seem themselves in outfits before they buy with high accuracy and garment consistency. Gives you sub‑4 second generations across thousands of products at low cost and low latency.</description>
-      <guid isPermaLink="true">https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale</guid>
-      <pubDate>Thu, 28 May 2026 16:37:00 +0000</pubDate>
+      <title>FLUX.2 is now on device: ASUS ProArt laptops now support Klein models</title>
+      <link>https://bfl.ai/blog/flux2-klein-on-device</link>
+      <description>For the first time a FLUX model will ship on consumer hardware. In partnership with ASUS and NVIDIA, creators picking up a new ASUS ProArt laptop will find FLUX.2 [klein] optimized for the device.</description>
+      <guid isPermaLink="true">https://bfl.ai/blog/flux2-klein-on-device</guid>
+      <pubDate>Thu, 04 Jun 2026 00:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

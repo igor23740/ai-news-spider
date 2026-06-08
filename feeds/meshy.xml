@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 21:51:38 +0000</lastBuildDate>
-    <item>
-      <title>Faithful Contouring: No SDF, No Watertight, 1024³ Voxelization - Blog</title>
-      <link>https://www.meshy.ai/blog/faithful-contouring-near-lossless-3d-voxel-representation</link>
-      <description>Faithful Contouring encodes meshes into sparse voxel tokens — no SDF, no watertighting, no Marching Cubes. 1024³ in ~1s on a single GPU. CVPR 2026 Oral.</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/faithful-contouring-near-lossless-3d-voxel-representation</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 07:20:15 +0000</lastBuildDate>
     <item>
       <title>How a High School Art Teacher Uses AI to Turn Student Sketches into 3D Prints with Meshy - Blog</title>
       <link>https://www.meshy.ai/blog/student-sketch-to-3d-print</link>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:33:39 +0000</lastBuildDate>
-    <item>
-      <title>Meshy 3D Agent: The World</title>
-      <link>https://www.meshy.ai/blog/meshy-3d-agent</link>
-      <description>Meshy 3D Agent: The World</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/meshy-3d-agent</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 07:24:02 +0000</lastBuildDate>
     <item>
       <title>How to Make a 3D Roblox Avatar with AI - Blog</title>
       <link>https://www.meshy.ai/blog/roblox-avatar</link>
@@ -35,6 +28,13 @@
       <link>https://www.meshy.ai/blog/free-stl-files-for-3d-printing</link>
       <description>Find the best sites to download free STL files for 3D printing! This guide covers top sources like Thingiverse, Printables, Meshy, and more for easy, customizable models. Perfect for beginners or pros looking to bring 3D print ideas to life.</description>
       <guid isPermaLink="true">https://www.meshy.ai/blog/free-stl-files-for-3d-printing</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Convert Text to STL (Step-by-Step Guide) - Blog</title>
+      <link>https://www.meshy.ai/blog/text-to-stl</link>
+      <description>Learn how to convert text to STL step by step - from prompts to exporting, print-ready repair, and slicing. Plus the best AI text-to-STL tools, tested.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/text-to-stl</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

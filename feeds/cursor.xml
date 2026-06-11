@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 07:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:52:53 +0000</lastBuildDate>
     <item>
       <title>Direct agents with visual prompts in Design Mode</title>
       <link>https://cursor.com/blog/design-mode</link>
@@ -22,6 +22,13 @@
       <description>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</description>
       <guid isPermaLink="true">https://cursor.com/blog/bugbot-updates-june-2026</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governing agent autonomy with Auto-review</title>
+      <link>https://cursor.com/blog/auto-review</link>
+      <description>Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/auto-review</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

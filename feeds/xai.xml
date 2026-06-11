@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 22:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:52:34 +0000</lastBuildDate>
     <item>
-      <title>Grok Becomes the Voice of Vapi</title>
-      <link>https://x.ai/news/grok-vapi</link>
-      <description>Bringing frontier voice quality to millions of Vapi agents.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-vapi</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok Imagine 1.5 Preview</title>
-      <link>https://x.ai/news/grok-imagine-1-5</link>
-      <description>grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-imagine-1-5</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Grok Build Plugin Marketplace</title>
+      <link>https://x.ai/news/grok-plugin-marketplace</link>
+      <description>Launching the built-in plugin marketplace for Grok Build.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-plugin-marketplace</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

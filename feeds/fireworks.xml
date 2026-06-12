@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:32:00 +0000</lastBuildDate>
     <item>
-      <title>NVIDIA Nemotron 3 Ultra is live on Fireworks, day zero</title>
-      <link>https://fireworks.ai/blog/nemotron-3-ultra</link>
-      <description>Run NVIDIA Nemotron 3 Ultra on Fireworks. Optimize autonomous agents with 1M context and frontier reasoning. Get day-zero support on the fastest infrastructure.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/nemotron-3-ultra</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <title>MiniMax M3 is live: long context + native multimodality at 1/20th the price</title>
+      <link>https://fireworks.ai/blog/minimax-m3-launch</link>
+      <description>MiniMax M3 is now available on Fireworks AI with Day-0 support — delivering the first open-weight model to combine frontier-level coding, native multimodal understanding (images and video), and a 1M-token context window in a single model. Powered by MiniMax Sparse Attention (MSA), M3 achieves up to 15× faster decoding at long context compared to M2.7, with per-token compute dropping to 1/20th at 1M tokens. On coding and agentic benchmarks, M3 leads all open-source models and surpasses…</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/minimax-m3-launch</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:22:25 +0000</lastBuildDate>
-    <item>
-      <title>Direct agents with visual prompts in Design Mode</title>
-      <link>https://cursor.com/blog/design-mode</link>
-      <description>Point, draw, or narrate UI changes in the browser while agents edit the code underneath.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/design-mode</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 07:01:21 +0000</lastBuildDate>
     <item>
       <title>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</title>
       <link>https://cursor.com/blog/bugbot-updates-june-2026</link>
       <description>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</description>
       <guid isPermaLink="true">https://cursor.com/blog/bugbot-updates-june-2026</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Governing agent autonomy with Auto-review</title>

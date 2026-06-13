@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 22:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 06:44:52 +0000</lastBuildDate>
+    <item>
+      <title>Qwen 3.7 Plus is now live on Fireworks</title>
+      <link>https://fireworks.ai/blog/qwen-3p7-plus</link>
+      <description>Use state-of-the-art, open-source LLMs and image models at blazing fast speed, or fine-tune and deploy your own at no additional cost with Fireworks AI!</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/qwen-3p7-plus</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MiniMax M3 is live: long context + native multimodality at 1/20th the price</title>
       <link>https://fireworks.ai/blog/minimax-m3-launch</link>
       <description>MiniMax M3 is now available on Fireworks AI with Day-0 support — delivering the first open-weight model to combine frontier-level coding, native multimodal understanding (images and video), and a 1M-token context window in a single model. Powered by MiniMax Sparse Attention (MSA), M3 achieves up to 15× faster decoding at long context compared to M2.7, with per-token compute dropping to 1/20th at 1M tokens. On coding and agentic benchmarks, M3 leads all open-source models and surpasses…</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/minimax-m3-launch</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2.7 Code on Fireworks: Better Agents, Lower Cost per Task, Available Day-0</title>
+      <link>https://fireworks.ai/blog/kimi-k2p7-code</link>
+      <description>Fireworks is launching Day-0 support for Kimi K2.7 Code, the latest model in Moonshot’s K2 coding series. Designed for long-horizon agentic coding, K2.7 Code leverages the established 1T parameter, 256K context window architecture while delivering a significant efficiency breakthrough. The standout feature of K2.7 Code is its reasoning efficiency: it utilizes approximately 30% fewer reasoning tokens than the previous K2.6 version, yet achieves higher scores across coding benchmarks, including…</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/kimi-k2p7-code</guid>
+      <pubDate>Fri, 12 Jun 2026 21:31:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

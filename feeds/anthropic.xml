@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:26:41 +0000</lastBuildDate>
     <item>
       <title>DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
       <link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
@@ -28,6 +28,20 @@
       <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
       <description>We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Results from first Anthropic Public Record</title>
+      <link>https://www.anthropic.com/news/anthropic-public-record</link>
+      <description>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+      <link>https://www.anthropic.com/news/fable-mythos-access</link>
+      <description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

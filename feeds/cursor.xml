@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:27:27 +0000</lastBuildDate>
     <item>
       <title>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</title>
       <link>https://cursor.com/blog/bugbot-updates-june-2026</link>
       <description>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</description>
       <guid isPermaLink="true">https://cursor.com/blog/bugbot-updates-june-2026</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Governing agent autonomy with Auto-review</title>
@@ -28,7 +28,7 @@
       <link>https://cursor.com/blog/wayfair</link>
       <description>With Cursor handling experiment execution, Wayfair compressed months of ML research into days. Five researchers tested over 110 model variants and cut tag-validation model costs by 94%.</description>
       <guid isPermaLink="true">https://cursor.com/blog/wayfair</guid>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

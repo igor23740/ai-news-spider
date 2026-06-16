@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:34:34 +0000</lastBuildDate>
     <item>
       <title>Qwen 3.7 Plus is now live on Fireworks</title>
       <link>https://fireworks.ai/blog/qwen-3p7-plus</link>
@@ -29,6 +29,13 @@
       <description>Fireworks is launching Day-0 support for Kimi K2.7 Code, the latest model in Moonshot’s K2 coding series. Designed for long-horizon agentic coding, K2.7 Code leverages the established 1T parameter, 256K context window architecture while delivering a significant efficiency breakthrough. The standout feature of K2.7 Code is its reasoning efficiency: it utilizes approximately 30% fewer reasoning tokens than the previous K2.6 version, yet achieves higher scores across coding benchmarks, including…</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/kimi-k2p7-code</guid>
       <pubDate>Fri, 12 Jun 2026 21:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.2 is live on Fireworks inference, day zero.</title>
+      <link>https://fireworks.ai/blog/glm-5p2</link>
+      <description>Experience the power of GLM 5.2, now live on Fireworks. As the premier choice for coding and long-horizon agentic tasks, GLM 5.2 is built to handle complex workflows with a robust 1M-token context window. Whether you’re managing long-running autonomous agents or high-stakes coding projects, this MIT-licensed model delivers frontier-grade performance on the Fireworks production stack. We’ve validated GLM 5.2 on our own infrastructure, achieving industry-leading results on benchmarks like…</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/glm-5p2</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

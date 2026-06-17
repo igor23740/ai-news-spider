@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 22:27:27 +0000</lastBuildDate>
-    <item>
-      <title>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</title>
-      <link>https://cursor.com/blog/bugbot-updates-june-2026</link>
-      <description>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</description>
-      <guid isPermaLink="true">https://cursor.com/blog/bugbot-updates-june-2026</guid>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 17:31:07 +0000</lastBuildDate>
     <item>
       <title>Governing agent autonomy with Auto-review</title>
       <link>https://cursor.com/blog/agent-autonomy-auto-review</link>
       <description>Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary.</description>
       <guid isPermaLink="true">https://cursor.com/blog/agent-autonomy-auto-review</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Wayfair cut ML model costs by 90% (twice!) with Cursor</title>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 17:31:07 +0000</lastBuildDate>
-    <item>
-      <title>Governing agent autonomy with Auto-review</title>
-      <link>https://cursor.com/blog/agent-autonomy-auto-review</link>
-      <description>Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/agent-autonomy-auto-review</guid>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 17:47:12 +0000</lastBuildDate>
     <item>
       <title>How Wayfair cut ML model costs by 90% (twice!) with Cursor</title>
       <link>https://cursor.com/blog/wayfair</link>

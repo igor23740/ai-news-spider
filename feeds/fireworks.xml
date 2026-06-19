@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 22:37:29 +0000</lastBuildDate>
-    <item>
-      <title>Qwen 3.7 Plus is now live on Fireworks</title>
-      <link>https://fireworks.ai/blog/qwen-3p7-plus</link>
-      <description>Use state-of-the-art, open-source LLMs and image models at blazing fast speed, or fine-tune and deploy your own at no additional cost with Fireworks AI!</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/qwen-3p7-plus</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MiniMax M3 is live: long context + native multimodality at 1/20th the price</title>
-      <link>https://fireworks.ai/blog/minimax-m3-launch</link>
-      <description>MiniMax M3 is now available on Fireworks AI with Day-0 support — delivering the first open-weight model to combine frontier-level coding, native multimodal understanding (images and video), and a 1M-token context window in a single model. Powered by MiniMax Sparse Attention (MSA), M3 achieves up to 15× faster decoding at long context compared to M2.7, with per-token compute dropping to 1/20th at 1M tokens. On coding and agentic benchmarks, M3 leads all open-source models and surpasses…</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/minimax-m3-launch</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jun 2026 07:45:36 +0000</lastBuildDate>
     <item>
       <title>Kimi K2.7 Code on Fireworks: Better Agents, Lower Cost per Task, Available Day-0</title>
       <link>https://fireworks.ai/blog/kimi-k2p7-code</link>

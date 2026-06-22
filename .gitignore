@@ -1,7 +1,17 @@
 __pycache__/
 *.pyc
 .venv/
+# секреты (жёсткое правило: никогда в публичный репо)
 .env
+.env.*
+*.env
+*.key
+*.pem
+*.pfx
+*.p12
+secrets.json
+credentials.json
+
 .idea/
 .vscode/
 # Claude-локальные служебные файлы
@@ -16,3 +26,6 @@ AGENTS.md
 debug.md
 CONTRACT_*.md
 *.bak
+
+# n8n UI-экспорты workflow (рабочие бэкапы, не в публичный репо)
+*.json

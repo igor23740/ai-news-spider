@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 18:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:58:29 +0000</lastBuildDate>
     <item>
-      <title>Reka and Moonvalley Join Forces to Advance Models and Infrastructure for Physical AI</title>
-      <link>https://reka.ai/news/reka-and-moonvalley-join-forces-to-advance-models-and-infrastructure-for-physical-ai</link>
-      <description>San Francisco, CA — June 4 — Reka, an AI research lab building foundational intelligence for the physical world, has joined forces with Moonvalley, adding a team of 50 multimodal AI researchers and engineers to accelerate development of next-generation video AI and physical reasoning capabilities.</description>
-      <guid isPermaLink="true">https://reka.ai/news/reka-and-moonvalley-join-forces-to-advance-models-and-infrastructure-for-physical-ai</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PhysicalRealismBench</title>
-      <link>https://reka.ai/news/physicalrealismbench-attributable-physical-realism-evaluation-for-video-world-models</link>
-      <description>We release PhysicalRealismBench-U, a physics-first benchmark for evaluating physical understanding in VLMs — built on synthetic data with known ground truth, so anyone can measure how well their models reason about physics.</description>
-      <guid isPermaLink="true">https://reka.ai/news/physicalrealismbench-attributable-physical-realism-evaluation-for-video-world-models</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <title>CS2-10k: A Large-Scale Egocentric Counter</title>
+      <link>https://reka.ai/news/cs2-10k-a-large-scale-egocentric-counter-strike-2-dataset</link>
+      <description>11,000+ hours of professional gameplay with per-frame action annotations for world model training</description>
+      <guid isPermaLink="true">https://reka.ai/news/cs2-10k-a-large-scale-egocentric-counter-strike-2-dataset</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

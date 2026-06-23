@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:07:14 +0000</lastBuildDate>
     <item>
       <title>Directing in Beats: Orchestrating Multi</title>
       <link>https://www.hedra.com/blog/directing-seedance-2-5-with-beats</link>
@@ -22,6 +22,13 @@
       <description>How to Make AI Images Look Like Real Photos (With Prompting Alone)</description>
       <guid isPermaLink="true">https://www.hedra.com/blog/make-ai-images-look-like-real-photos-prompting</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From 5 Months to 15 Days: How Exact Agency Saves Campaigns and Lands Clients with Hedra</title>
+      <link>https://www.hedra.com/blog/exact-agency-interview</link>
+      <description>From 5 Months to 15 Days: How Exact Agency Saves Campaigns and Lands Clients with Hedra</description>
+      <guid isPermaLink="true">https://www.hedra.com/blog/exact-agency-interview</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

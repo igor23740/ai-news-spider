@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 12:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:29:49 +0000</lastBuildDate>
     <item>
-      <title>First scale, then enrich: How the right execution strategy helped us reach state-of-the-art on SWE-rebench</title>
-      <link>https://www.ai21.com/blog/first-scale-then-enrich-how-the-right-execution-strategy-helped-us-reach-state-of-the-art-on-swe-rebench</link>
-      <description>In brief We present a new state-of-the-art result on the SWE-rebench benchmark: a 60.9% issue resolve rate for 123 issues between December and March, which surpasses the previous best published result on this same slice. This achievement came from rethinking the agent’s context extraction phase – a counterintuitive design choice we pursued and refined. Instead […]</description>
-      <guid isPermaLink="true">https://www.ai21.com/blog/first-scale-then-enrich-how-the-right-execution-strategy-helped-us-reach-state-of-the-art-on-swe-rebench</guid>
-      <pubDate>Thu, 04 Jun 2026 13:36:26 +0000</pubDate>
+      <title>Chunk size is query-dependent: a simple multi-scale approach to RAG retrieval</title>
+      <link>https://www.ai21.com/lp/blog/query-dependent-chunking</link>
+      <description>Stop using fixed chunk sizes. Learn how multi-scale indexing improves RAG retrieval by up to 37% without retraining your embedding models.</description>
+      <guid isPermaLink="true">https://www.ai21.com/lp/blog/query-dependent-chunking</guid>
+      <pubDate>Wed, 24 Jun 2026 11:06:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

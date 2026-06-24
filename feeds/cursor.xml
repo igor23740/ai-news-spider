@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:39:37 +0000</lastBuildDate>
     <item>
       <title>Coinbase reduces time from idea to production by 90% with Cursor</title>
       <link>https://cursor.com/blog/coinbase</link>
       <description>Over 2,400 developers at Coinbase use Cursor as a part of an agent-first engineering model. 75% of all PRs are created by agents, with the average engineer merging 55% more PRs since the beginning of the year.</description>
       <guid isPermaLink="true">https://cursor.com/blog/coinbase</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

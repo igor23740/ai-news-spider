@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 06:32:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:15:59 +0000</lastBuildDate>
     <item>
       <title>Explore the markets with Interactive Brokers and Grok</title>
       <link>https://x.ai/news/grok-interactive-brokers</link>
       <description>Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-interactive-brokers</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Grok Business and Grok Enterprise</title>
-      <link>https://x.ai/news/grok-business</link>
-      <description>The best assistant in the world is now Enterprise ready.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
-      <pubDate>Thu, 25 Jun 2026 06:31:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

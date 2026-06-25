@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 22:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:39:33 +0000</lastBuildDate>
     <item>
-      <title>GLM 5.2 is live on Fireworks inference, day zero.</title>
-      <link>https://fireworks.ai/blog/glm-5p2</link>
-      <description>Experience the power of GLM 5.2, now live on Fireworks. As the premier choice for coding and long-horizon agentic tasks, GLM 5.2 is built to handle complex workflows with a robust 1M-token context window. Whether you’re managing long-running autonomous agents or high-stakes coding projects, this MIT-licensed model delivers frontier-grade performance on the Fireworks production stack. We’ve validated GLM 5.2 on our own infrastructure, achieving industry-leading results on benchmarks like…</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/glm-5p2</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Frontier AI at a fraction of the cost: open-source worker agents with a closed</title>
+      <link>https://fireworks.ai/blog/frontier-open-source-worker-with-closed-source-advisor</link>
+      <description>Boost your agentic AI performance while slashing costs with a hybrid "worker-advisor" architecture. Our latest research at Fireworks AI demonstrates that coupling an open-source worker model (like Kimi-K2.6 or GLM-5.2) with a "read-only" frontier model reviewer (Claude Opus 4.8) consistently lifts resolve rates across diverse benchmarks, including SWE-bench Pro, Terminal-Bench 2.1, and the Legal Agent Benchmark.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/frontier-open-source-worker-with-closed-source-advisor</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:03:10 +0000</lastBuildDate>
-    <item>
-      <title>Directing in Beats: Orchestrating Multi</title>
-      <link>https://www.hedra.com/blog/directing-seedance-2-5-with-beats</link>
-      <description>Directing in Beats: Orchestrating Multi</description>
-      <guid isPermaLink="true">https://www.hedra.com/blog/directing-seedance-2-5-with-beats</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 06:40:36 +0000</lastBuildDate>
     <item>
       <title>How to Make AI Images Look Like Real Photos (With Prompting Alone)</title>
       <link>https://www.hedra.com/blog/make-ai-images-look-like-real-photos-prompting</link>
       <description>How to Make AI Images Look Like Real Photos (With Prompting Alone)</description>
       <guid isPermaLink="true">https://www.hedra.com/blog/make-ai-images-look-like-real-photos-prompting</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make AI Images Believable (With Reference Images)</title>
+      <link>https://www.hedra.com/blog/make-ai-images-believable-with-reference-images</link>
+      <description>How to Make AI Images Believable (With Reference Images)</description>
+      <guid isPermaLink="true">https://www.hedra.com/blog/make-ai-images-believable-with-reference-images</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From 5 Months to 15 Days: How Exact Agency Saves Campaigns and Lands Clients with Hedra</title>

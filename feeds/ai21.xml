@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:31:21 +0000</lastBuildDate>
     <item>
       <title>Merging weak agents into a state-of-the</title>
       <link>https://www.ai21.com/blog/merging-weak-agents-into-a-state-of-the-art-deep-researcher</link>
       <description>DeepResearch Bench II (DRB II) is a benchmark that scores deep research agents against 9,430 expert-written rubrics across 132 tasks. We reached #1 with a TotalScore of 64.38 - +3.2 over the previous best reported result. It takes the outputs of weaker agents (leaderboard ranks 7–13, none scored above 45) and merges the</description>
       <guid isPermaLink="true">https://www.ai21.com/blog/merging-weak-agents-into-a-state-of-the-art-deep-researcher</guid>
       <pubDate>Wed, 24 Jun 2026 08:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spend isn’t going down. What now?</title>
+      <link>https://www.ai21.com/blog/spend-isnt-going-down-what-now</link>
+      <description>As I write this, rumblings of an impending tokenpocalypse are making their rounds, as providers have announced – and walk back – moves from subscription to token-based billing. Nobody knows how it will land. But the scare alone prompted an overdue conversation about cost.</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/spend-isnt-going-down-what-now</guid>
+      <pubDate>Thu, 25 Jun 2026 09:44:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

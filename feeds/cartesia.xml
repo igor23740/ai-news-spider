@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Cartesia</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/cartesia.xml</link>
+    <description>Cartesia — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/cartesia.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jun 2026 06:49:16 +0000</lastBuildDate>
+    <item>
+      <title>Cartesia \ A Beginner</title>
+      <link>https://www.cartesia.ai/blog/voice-terminology</link>
+      <description>A plain-language glossary of the 20 key terms you need to understand, evaluate, and build conversational voice AI.</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/voice-terminology</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartesia \ A Guide to Choosing Voice AI Models</title>
+      <link>https://www.cartesia.ai/blog/choosing-voice-ai-models</link>
+      <description>A practical framework for evaluating ASR, TTS, and turn-detection models against your real-world use case — not lab conditions.</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/choosing-voice-ai-models</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

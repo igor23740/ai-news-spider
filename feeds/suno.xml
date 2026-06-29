@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:29:25 +0000</lastBuildDate>
     <item>
       <title>Introducing Spark: Supporting the Next Generation of Independent Artists</title>
       <link>https://suno.com/blog/introducing-spark</link>
@@ -22,6 +22,13 @@
       <description>The pianist and composer reflects on melody, notation, remixing, and using Suno to hear his music at orchestral scale.</description>
       <guid isPermaLink="true">https://suno.com/blog/eric-christian</guid>
       <pubDate>Fri, 26 Jun 2026 15:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Steffanina on owning the music behind the movement</title>
+      <link>https://suno.com/blog/matt-steffanina</link>
+      <description>The dancer, choreographer, and DJ reflects on building a global dance community and using Suno to bring new ideas to life faster.</description>
+      <guid isPermaLink="true">https://suno.com/blog/matt-steffanina</guid>
+      <pubDate>Fri, 26 Jun 2026 18:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

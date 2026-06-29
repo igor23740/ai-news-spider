@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 17:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:58:52 +0000</lastBuildDate>
     <item>
       <title>Which tokens does a hybrid model predict better?</title>
       <link>https://allenai.org/blog/hybrid-token-prediction</link>
       <description>New token-level analyses of Olmo 3 and Olmo Hybrid show that hybrid models predict meaning-bearing, context-dependent tokens better than transformers, while transformers retain an edge on verbatim copying.</description>
       <guid isPermaLink="true">https://allenai.org/blog/hybrid-token-prediction</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DiScoFormer: One transformer for density and score, across distributions</title>
+      <link>https://allenai.org/blog/discoformer</link>
+      <description>DiScoFormer is a transformer-based density and score estimator that can infer both quantities from a finite sample in one forward pass, generalizing classical KDE while staying accurate in high-dimensional and out-of-distribution settings without retraining for each new distribution.</description>
+      <guid isPermaLink="true">https://allenai.org/blog/discoformer</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

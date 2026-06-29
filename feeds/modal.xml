@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 17:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:00:51 +0000</lastBuildDate>
     <item>
       <title>Introducing Modal Auto Endpoints: Optimized inference you actually own</title>
       <link>https://modal.com/blog/introducing-auto-endpoints</link>
@@ -24,7 +24,7 @@
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Routing for serverless servers with Pingora, Envoy, and Spanner</title>
+      <title>Proxying inference requests in 6ms with Pingora, Envoy, and Spanner</title>
       <link>https://modal.com/blog/serverless-servers</link>
       <description>A deep dive inside our new ultra-low-latency primitive.</description>
       <guid isPermaLink="true">https://modal.com/blog/serverless-servers</guid>

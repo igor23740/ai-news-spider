@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 16:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:04:30 +0000</lastBuildDate>
     <item>
       <title>Introducing Spark: Supporting the Next Generation of Independent Artists</title>
       <link>https://suno.com/blog/introducing-spark</link>
@@ -29,6 +29,13 @@
       <description>The dancer, choreographer, and DJ reflects on building a global dance community and using Suno to bring new ideas to life faster.</description>
       <guid isPermaLink="true">https://suno.com/blog/matt-steffanina</guid>
       <pubDate>Fri, 26 Jun 2026 18:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Dream Relic sees sound and gets it stuck in your head</title>
+      <link>https://suno.com/blog/dream-relic</link>
+      <description>Dream Relic reflects on surreal visuals, emotional world-building, and using Suno to give his cinematic universe a sound.</description>
+      <guid isPermaLink="true">https://suno.com/blog/dream-relic</guid>
+      <pubDate>Wed, 01 Jul 2026 03:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

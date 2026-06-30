@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 16:48:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:04:04 +0000</lastBuildDate>
     <item>
       <title>Achieve state-of-the-art inference latencies with speculative decoding</title>
       <link>https://modal.com/blog/achieve-sota-specdec</link>
@@ -22,6 +22,13 @@
       <description>A deep dive inside our new ultra-low-latency primitive.</description>
       <guid isPermaLink="true">https://modal.com/blog/serverless-servers</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic integration with Modal brings scalable compute to Claude Science</title>
+      <link>https://modal.com/blog/modal-integration-brings-scalable-compute-to-claude-science</link>
+      <description>Announcing our integration with Claude Science, bringing Modal</description>
+      <guid isPermaLink="true">https://modal.com/blog/modal-integration-brings-scalable-compute-to-claude-science</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

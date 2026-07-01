@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 21:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:05:13 +0000</lastBuildDate>
     <item>
-      <title>Introducing Workspace Insights: See every project, govern with confidence</title>
-      <link>https://lovable.dev/blog/workspace-insights-govern-your-workspace</link>
-      <description>Workspace Insights brings every Enterprise project into one view in Security Center — see what</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/workspace-insights-govern-your-workspace</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <title>How Nursa built a new product in 48 hours and changed how its entire company ships software</title>
+      <link>https://lovable.dev/blog/how-nursa-built-a-new-product-in-48-hours-and-changed-how-its-entire-company-ships-software</link>
+      <description>Nursa is a healthcare staffing marketplace connecting 5,000+ facilities to 500,000+ nurses. After VP of Product Nenad Ivanovic built a net-new enterprise product in a single weekend using Lovable, the CEO went all in: giving all 200+ employees access. Teams from finance to compliance are building with Lovable and Nursa is set to retire over 10 SaaS contracts.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-nursa-built-a-new-product-in-48-hours-and-changed-how-its-entire-company-ships-software</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

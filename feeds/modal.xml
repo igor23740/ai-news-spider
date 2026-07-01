@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 22:04:04 +0000</lastBuildDate>
-    <item>
-      <title>Achieve state-of-the-art inference latencies with speculative decoding</title>
-      <link>https://modal.com/blog/achieve-sota-specdec</link>
-      <description>How Modal and Decagon worked together to cut inference latency - and you can too.</description>
-      <guid isPermaLink="true">https://modal.com/blog/achieve-sota-specdec</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 07:01:41 +0000</lastBuildDate>
     <item>
       <title>Proxying inference requests in 6ms with Pingora, Envoy, and Spanner</title>
       <link>https://modal.com/blog/serverless-servers</link>

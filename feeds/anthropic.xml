@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 06:50:38 +0000</lastBuildDate>
+    <item>
+      <title>Redeploying Claude Fable 5</title>
+      <link>https://www.anthropic.com/news/redeploying-fable-5</link>
+      <description>Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Science, an AI workbench for scientists</title>
       <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>

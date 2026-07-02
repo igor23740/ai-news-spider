@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 06:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:17:20 +0000</lastBuildDate>
     <item>
       <title>Best Tolerances for 3D Printing LEGO-Compatible Bricks - Blog</title>
       <link>https://www.meshy.ai/blog/lego-compatible-3d-print-tolerances</link>
       <description>Learn the exact tolerance settings and slicer offsets that give LEGO-compatible bricks proper clutch power on Bambu Lab and Ender 3 printers.</description>
       <guid isPermaLink="true">https://www.meshy.ai/blog/lego-compatible-3d-print-tolerances</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photo to 3D Model: Create &amp; Sell Designs with AI</title>
+      <link>https://www.meshy.ai/blog/create-custom-designs-to-sell</link>
+      <description>Learn how to turn any photo into a sellable 3D model with Meshy AI. Upload, customize, and export designs to 3D print or sell as unique products.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/create-custom-designs-to-sell</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 3D Model Generation for Education: How Thitikorn Transformed Classroom Learning with Meshy AI - Blog</title>
+      <link>https://www.meshy.ai/blog/ai-assisted-3d-learning</link>
+      <description>Learn how a Thai university lecturer uses Meshy to help students turn 2D sketches into 3D printed models, making AI-assisted 3D creation accessible in the classroom.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/ai-assisted-3d-learning</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

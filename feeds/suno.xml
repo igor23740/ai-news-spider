@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:18:39 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Spark: Supporting the Next Generation of Independent Artists</title>
-      <link>https://suno.com/blog/introducing-spark</link>
-      <description>Spark is designed to help independent artists bring their music projects to life.</description>
-      <guid isPermaLink="true">https://suno.com/blog/introducing-spark</guid>
-      <pubDate>Thu, 25 Jun 2026 14:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 16:32:08 +0000</lastBuildDate>
     <item>
       <title>Eric Christian on hearing the orchestra inside a melody</title>
       <link>https://suno.com/blog/eric-christian</link>

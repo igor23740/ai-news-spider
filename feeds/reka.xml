@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:45:15 +0000</lastBuildDate>
     <item>
-      <title>CS2-10k: A Large-Scale Egocentric Counter</title>
-      <link>https://reka.ai/news/cs2-10k-a-large-scale-egocentric-counter-strike-2-dataset</link>
-      <description>11,000+ hours of professional gameplay with per-frame action annotations for world model training</description>
-      <guid isPermaLink="true">https://reka.ai/news/cs2-10k-a-large-scale-egocentric-counter-strike-2-dataset</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <title>WorldModelGym: a decision</title>
+      <link>https://reka.ai/news/worldmodelgym</link>
+      <description>To achieve their goals, agents, whether biological or artificial, build approximate models of their environment to anticipate the consequences of their actions. In research, these world models are compressed spatial and temporal representations [1] of an environment’s transition dynamics: given a state and an action, they predict the next state and reward. By unrolling these predictions, the model simulates how the world evolves, effectively allowing the agent to</description>
+      <guid isPermaLink="true">https://reka.ai/news/worldmodelgym</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

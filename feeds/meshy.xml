@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 07:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:35:00 +0000</lastBuildDate>
     <item>
       <title>Photo to 3D Model: Create &amp; Sell Designs with AI</title>
       <link>https://www.meshy.ai/blog/create-custom-designs-to-sell</link>
       <description>Learn how to turn any photo into a sellable 3D model with Meshy AI. Upload, customize, and export designs to 3D print or sell as unique products.</description>
       <guid isPermaLink="true">https://www.meshy.ai/blog/create-custom-designs-to-sell</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Fix Non-Manifold Edges in STL Files for 3D Printing - Blog</title>
+      <link>https://www.meshy.ai/blog/fix-non-manifold-edges-stl-repair</link>
+      <description>Non-manifold edges break Bambu Studio and Orca Slicer. Learn why AI models produce them and fix them in STL files with Meshy</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/fix-non-manifold-edges-stl-repair</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI 3D Model Generation for Education: How Thitikorn Transformed Classroom Learning with Meshy AI - Blog</title>

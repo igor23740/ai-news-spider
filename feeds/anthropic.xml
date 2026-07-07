@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 21:53:06 +0000</lastBuildDate>
-    <item>
-      <title>Claude Science, an AI workbench for scientists</title>
-      <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
-      <description>Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Sonnet 5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
-      <description>Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redeploying Claude Fable 5</title>
-      <link>https://www.anthropic.com/news/redeploying-fable-5</link>
-      <description>Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 06:28:38 +0000</lastBuildDate>
     <item>
       <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
       <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>

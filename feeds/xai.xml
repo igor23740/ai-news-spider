@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 16:57:55 +0000</lastBuildDate>
-    <item>
-      <title>Introducing the Voice Agent Builder</title>
-      <link>https://x.ai/news/grok-voice-agent-builder</link>
-      <description>Create a personalized voice agent in under 2 minutes without a single line of code.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-voice-agent-builder</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 05:35:58 +0000</lastBuildDate>
     <item>
       <title>21 New Flagship Grok Voices</title>
       <link>https://x.ai/news/new-flagship-voices</link>
       <description>New multilingual voices for Grok Voice, plus improved naturalness for the original five.</description>
       <guid isPermaLink="true">https://x.ai/news/new-flagship-voices</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
+      <pubDate>Wed, 08 Jul 2026 05:35:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

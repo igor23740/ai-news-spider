@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 05:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:48:23 +0000</lastBuildDate>
     <item>
       <title>How to Fix Non-Manifold Edges in STL Files for 3D Printing - Blog</title>
       <link>https://www.meshy.ai/blog/fix-non-manifold-edges-stl-repair</link>
@@ -22,6 +22,13 @@
       <description>Learn how a Thai university lecturer uses Meshy to help students turn 2D sketches into 3D printed models, making AI-assisted 3D creation accessible in the classroom.</description>
       <guid isPermaLink="true">https://www.meshy.ai/blog/ai-assisted-3d-learning</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auto Split Is Here: Make 3D Models Printable in Seconds - Blog</title>
+      <link>https://www.meshy.ai/blog/auto-split-3d-printing</link>
+      <description>Split 3D models into printable parts in 40 seconds with Meshy Auto Split. Watertight cuts, auto-arranged build plate, one-click export to your slicer.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/auto-split-3d-printing</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

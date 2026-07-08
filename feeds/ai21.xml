@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 06:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:23:35 +0000</lastBuildDate>
     <item>
-      <title>Spend isn’t going down. What now?</title>
-      <link>https://www.ai21.com/lp/blog/token-spend-isnt-going-down-you-need-more-than-naive-routing-to-manage-it-gated</link>
-      <description>As I write this, rumblings of an impending tokenpocalypse are making their rounds, as providers have announced – and walk back – moves from subscription to token-based billing. Nobody knows how it will land. But the scare alone prompted an overdue conversation about cost.</description>
-      <guid isPermaLink="true">https://www.ai21.com/lp/blog/token-spend-isnt-going-down-you-need-more-than-naive-routing-to-manage-it-gated</guid>
-      <pubDate>Tue, 30 Jun 2026 11:21:46 +0000</pubDate>
+      <title>Improving Best-of-N with Budget</title>
+      <link>https://www.ai21.com/blog/improving-best-of-n-with-budget-aware-execution-for-swe-agents</link>
+      <description>In reality, task difficulty follows a heavy-tailed distribution: a meaningful fraction of tasks are solved on low effort, while others require a large budget.</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/improving-best-of-n-with-budget-aware-execution-for-swe-agents</guid>
+      <pubDate>Tue, 07 Jul 2026 15:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

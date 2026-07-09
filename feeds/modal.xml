@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 17:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 06:37:02 +0000</lastBuildDate>
     <item>
-      <title>Multi-token Residual Prediction</title>
-      <link>https://modal.com/blog/multi-token-residual-prediction</link>
-      <description>Multi-token Residual Prediction</description>
-      <guid isPermaLink="true">https://modal.com/blog/multi-token-residual-prediction</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <title>How to price serverless GPUs</title>
+      <link>https://modal.com/blog/how-to-price-serverless</link>
+      <description>To compare rates for serverless and reserved GPUs, look at your application</description>
+      <guid isPermaLink="true">https://modal.com/blog/how-to-price-serverless</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

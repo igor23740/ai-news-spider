@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:10:48 +0000</lastBuildDate>
     <item>
-      <title>Cartesia \ A Beginner</title>
-      <link>https://www.cartesia.ai/blog/voice-terminology</link>
-      <description>A plain-language glossary of the 20 key terms you need to understand, evaluate, and build conversational voice AI.</description>
-      <guid isPermaLink="true">https://www.cartesia.ai/blog/voice-terminology</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartesia \ A Guide to Choosing Voice AI Models</title>
-      <link>https://www.cartesia.ai/blog/choosing-voice-ai-models</link>
-      <description>A practical framework for evaluating ASR, TTS, and turn-detection models against your real-world use case — not lab conditions.</description>
-      <guid isPermaLink="true">https://www.cartesia.ai/blog/choosing-voice-ai-models</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Cartesia \ Introducing Ink-2: The #1</title>
+      <link>https://www.cartesia.ai/blog/ink-2</link>
+      <description>Cartesia \ Introducing Ink-2: The #1</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/ink-2</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

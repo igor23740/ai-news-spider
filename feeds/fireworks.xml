@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:03:06 +0000</lastBuildDate>
     <item>
       <title>How I shipped a month of engineering work in four days with GLM 5.2 Fast</title>
       <link>https://fireworks.ai/blog/glm5p2-fast-an-engineering-productivity-story</link>
@@ -18,9 +18,9 @@
     </item>
     <item>
       <title>How Gumloop Scaled Open</title>
-      <link>https://fireworks.ai/blog/gum-loop</link>
+      <link>https://fireworks.ai/blog/gumloop</link>
       <description>Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks AI. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are now viable for complex, real-world AI workloads.1</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/gum-loop</guid>
+      <guid isPermaLink="true">https://fireworks.ai/blog/gumloop</guid>
       <pubDate>Thu, 09 Jul 2026 15:47:30 +0000</pubDate>
     </item>
   </channel>

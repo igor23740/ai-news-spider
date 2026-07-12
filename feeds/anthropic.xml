@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 05:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:07:38 +0000</lastBuildDate>
     <item>
       <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities</title>
       <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
@@ -35,6 +35,13 @@
       <link>https://www.anthropic.com/news/ust-claude</link>
       <description>Anthropic is an AI safety and research company that</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inviting hard questions</title>
+      <link>https://www.anthropic.com/news/hard-questions</link>
+      <description>Inviting hard questions</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

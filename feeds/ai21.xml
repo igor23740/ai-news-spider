@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:05:35 +0000</lastBuildDate>
     <item>
       <title>Improving Best-of-N with Budget</title>
       <link>https://www.ai21.com/blog/improving-best-of-n-with-budget-aware-execution-for-swe-agents</link>

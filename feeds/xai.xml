@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 05:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:38:54 +0000</lastBuildDate>
     <item>
       <title>Introducing Grok 4.5</title>
       <link>https://x.ai/news/grok-4-5</link>
       <description>Introducing Grok 4.5</description>
       <guid isPermaLink="true">https://x.ai/news/grok-4-5</guid>
-      <pubDate>Mon, 13 Jul 2026 05:51:52 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 11:38:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
+      <pubDate>Mon, 13 Jul 2026 11:38:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

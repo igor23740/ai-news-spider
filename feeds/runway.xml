@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 10:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:06:24 +0000</lastBuildDate>
     <item>
       <title>Runway News | AVTensor: A High</title>
       <link>https://runwayml.com/news/avtensor-a-high-performance-rust-media-decoder-for-training-pipelines</link>

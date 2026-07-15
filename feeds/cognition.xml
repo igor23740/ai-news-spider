@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 05:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:30:28 +0000</lastBuildDate>
     <item>
       <title>Measuring the Trustworthiness of Open-Source</title>
       <link>https://cognition.com/blog/measuring-open-source-model-trustworthiness</link>
@@ -35,7 +35,7 @@
       <link>https://cognition.com/blog/one-year-of-building-together</link>
       <description>One year ago, Cognition and Windsurf came together over the craziest 72 hours of our lives. Here’s what we’ve built together since.</description>
       <guid isPermaLink="true">https://cognition.com/blog/one-year-of-building-together</guid>
-      <pubDate>Wed, 15 Jul 2026 05:22:44 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 10:29:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

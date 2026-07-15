@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:29:33 +0000</lastBuildDate>
     <item>
       <title>What Is Seedance 2.5 and What Can It Do</title>
       <link>https://www.krea.ai/blog/what-is-seedance-2-5</link>
@@ -28,6 +28,20 @@
       <link>https://www.krea.ai/blog/seedream-5-0-pro-on-krea-12-complex-infographic-reasoning-examples-2026</link>
       <description>Seedream 5.0 Pro on Krea: 12 complex infographic reasoning examples (2026) showing how to plan hierarchy, label accuracy, and targeted edits.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/seedream-5-0-pro-on-krea-12-complex-infographic-reasoning-examples-2026</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>15 Powerful Seedream 5.0 Pro Prompts for Photorealism, Product Shots, Portraits &amp; More (Krea</title>
+      <link>https://www.krea.ai/blog/15-powerful-seedream-5-0-pro-prompts-for-photorealism-product-shots-portraits-more</link>
+      <description>Seedream 5.0 Pro prompts for photorealism, product shots, portraits, and more. Get Krea-ready prompt jobs for sharper renders.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/15-powerful-seedream-5-0-pro-prompts-for-photorealism-product-shots-portraits-more</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>15 Architectural Styles to Create With Seedream 5.0 Pro on Krea in 2026</title>
+      <link>https://www.krea.ai/blog/15-architectural-styles-to-create-with-seedream-5-0-pro-on-krea-in-2026</link>
+      <description>Create 15 architectural styles with Seedream 5.0 Pro on Krea in 2026, using references, anchors, and layers for consistent, revision-ready renders.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/15-architectural-styles-to-create-with-seedream-5-0-pro-on-krea-in-2026</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

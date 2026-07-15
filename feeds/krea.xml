@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 16:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:15:02 +0000</lastBuildDate>
     <item>
       <title>What Is Seedance 2.5 and What Can It Do</title>
       <link>https://www.krea.ai/blog/what-is-seedance-2-5</link>
       <description>Everything new in Seedance 2.5: how it compares to Seedance 2.0, what changed with references and region editing, example prompts, and how to use it on Krea.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/what-is-seedance-2-5</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedream 5.0 Pro on Krea for Product Photography: 15 Pro</title>
+      <link>https://www.krea.ai/blog/seedream-5-0-pro-on-krea-for-product-photography-15-pro-level-examples-2026</link>
+      <description>Seedream 5.0 Pro on Krea for product photography: 15 pro-level examples showing precise material, color, and label edits for approval.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedream-5-0-pro-on-krea-for-product-photography-15-pro-level-examples-2026</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedream 5.0 Pro on Krea: 12 Complex Infographic Reasoning Examples (2026)</title>
+      <link>https://www.krea.ai/blog/seedream-5-0-pro-on-krea-12-complex-infographic-reasoning-examples-2026</link>
+      <description>Seedream 5.0 Pro on Krea: 12 complex infographic reasoning examples (2026) showing how to plan hierarchy, label accuracy, and targeted edits.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedream-5-0-pro-on-krea-12-complex-infographic-reasoning-examples-2026</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

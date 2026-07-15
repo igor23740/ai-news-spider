@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 17:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:24:05 +0000</lastBuildDate>
     <item>
-      <title>How Dream Relic sees sound and gets it stuck in your head</title>
-      <link>https://suno.com/blog/dream-relic</link>
-      <description>Dream Relic reflects on surreal visuals, emotional world-building, and using Suno to give his cinematic universe a sound.</description>
-      <guid isPermaLink="true">https://suno.com/blog/dream-relic</guid>
-      <pubDate>Wed, 01 Jul 2026 03:47:00 +0000</pubDate>
+      <title>sad alex on songwriting, short</title>
+      <link>https://suno.com/blog/sad-alex</link>
+      <description>sad alex reflects on internet-native songwriting, creative autonomy, and using Suno as a creative sketchpad.</description>
+      <guid isPermaLink="true">https://suno.com/blog/sad-alex</guid>
+      <pubDate>Tue, 14 Jul 2026 20:18:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 15:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:33:22 +0000</lastBuildDate>
     <item>
       <title>Recraft Studio vs. Adobe Firefly: AI Image Tool Comparison (2026)</title>
       <link>https://www.recraft.ai/blog/recraft-studio-vs-adobe-firefly</link>
       <description>Recraft Studio vs. Adobe Firefly: AI Image Tool Comparison (2026)</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/recraft-studio-vs-adobe-firefly</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recraft V4.1 vs Seedream 5.0 Pro: Same Prompts, Compared</title>
+      <link>https://www.recraft.ai/blog/recraft-v4-1-vs-seedream-5-0-pro</link>
+      <description>Recraft V4.1 vs Seedream 5.0 Pro: Same Prompts, Compared</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/recraft-v4-1-vs-seedream-5-0-pro</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

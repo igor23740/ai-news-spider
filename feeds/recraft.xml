@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 21:30:40 +0000</lastBuildDate>
-    <item>
-      <title>Vector Editor | Edit AI</title>
-      <link>https://www.recraft.ai/blog/vector-editor</link>
-      <description>Vector Editor | Edit AI</description>
-      <guid isPermaLink="true">https://www.recraft.ai/blog/vector-editor</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 05:28:32 +0000</lastBuildDate>
     <item>
       <title>Recraft Studio vs. Adobe Firefly: AI Image Tool Comparison (2026)</title>
       <link>https://www.recraft.ai/blog/recraft-studio-vs-adobe-firefly</link>

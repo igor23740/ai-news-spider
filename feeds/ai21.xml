@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 10:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:33:58 +0000</lastBuildDate>
     <item>
-      <title>Improving Best-of-N with Budget</title>
-      <link>https://www.ai21.com/blog/improving-best-of-n-with-budget-aware-execution-for-swe-agents</link>
-      <description>In reality, task difficulty follows a heavy-tailed distribution: a meaningful fraction of tasks are solved on low effort, while others require a large budget.</description>
-      <guid isPermaLink="true">https://www.ai21.com/blog/improving-best-of-n-with-budget-aware-execution-for-swe-agents</guid>
-      <pubDate>Tue, 07 Jul 2026 15:46:27 +0000</pubDate>
+      <title>Better and cheaper together: Open models explore, frontier models patch</title>
+      <link>https://www.ai21.com/blog/better-and-cheaper-together-open-models-explore-frontier-models-patch</link>
+      <description>Better and cheaper together: Open models explore, frontier models patch</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/better-and-cheaper-together-open-models-explore-frontier-models-patch</guid>
+      <pubDate>Wed, 15 Jul 2026 13:38:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

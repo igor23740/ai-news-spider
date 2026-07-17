@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 21:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:27:32 +0000</lastBuildDate>
     <item>
       <title>Seedream 5.0 Pro on Krea for Product Photography: 15 Pro</title>
       <link>https://www.krea.ai/blog/seedream-5-0-pro-on-krea-for-product-photography-15-pro-level-examples-2026</link>
@@ -36,6 +36,13 @@
       <description>Create 15 architectural styles with Seedream 5.0 Pro on Krea in 2026, using references, anchors, and layers for consistent, revision-ready renders.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/15-architectural-styles-to-create-with-seedream-5-0-pro-on-krea-in-2026</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 5 Best AI Video Models on Krea in 2026</title>
+      <link>https://www.krea.ai/blog/the-5-best-ai-video-models-on-krea-in-2026</link>
+      <description>Explore the best AI video models on Krea in 2026, ranked for quality, character continuity, motion, audio, and creative control.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/the-5-best-ai-video-models-on-krea-in-2026</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

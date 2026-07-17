@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 21:38:14 +0000</lastBuildDate>
-    <item>
-      <title>Optimizing MiniMax M3 Sparse Attention on NVIDIA Blackwell</title>
-      <link>https://fireworks.ai/blog/kernel-optimization-for-minimax-m3-on-nvidia-blackwell</link>
-      <description>Fireworks built a KV-stationary sparse-attention kernel for MiniMax M3 on NVIDIA Blackwell (SM100), reaching ~980 TFLOP/s: 1.9–2.4× a query-stationary baseline and ~1.6× open-source MSA. The post walks through the Q-outer vs KV-outer design space, an I/O roofline with the reuse crossover (nsb/N &lt; 2.85), and the kernel optimizations: contiguous partial-O stores with a gathered combine, a 3-warp cp.async query gather, a shortened softmax→store pipeline, load-balanced split-Q scheduling, D2H…</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/kernel-optimization-for-minimax-m3-on-nvidia-blackwell</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 05:34:00 +0000</lastBuildDate>
     <item>
       <title>Fireworks Secures $1.5 Billion in Series D Funding</title>
       <link>https://fireworks.ai/blog/series-d-announcement</link>

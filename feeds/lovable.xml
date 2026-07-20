@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:15:30 +0000</lastBuildDate>
     <item>
       <title>Introducing Lovable’s Supabase Integration 2.0</title>
       <link>https://lovable.dev/blog/lovable-supabase-integration-second-version</link>

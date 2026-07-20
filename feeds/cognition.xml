@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:48:07 +0000</lastBuildDate>
     <item>
-      <title>Making Fable Cheaper Than Opus</title>
-      <link>https://cognition.com/blog/making-fable-cheaper-than-opus</link>
-      <description>Fable 5 costs twice as much per token as Opus 4.8. But when we ran both models on FrontierCode 1.1 using our new Fusion architecture, Fable cost less — and scored higher. This post explains why, and what that means for pricing agentic work.</description>
-      <guid isPermaLink="true">https://cognition.com/blog/making-fable-cheaper-than-opus</guid>
-      <pubDate>Mon, 13 Jul 2026 17:00:00 +0000</pubDate>
+      <title>Welcoming TierZero to Cognition</title>
+      <link>https://cognition.com/blog/welcoming-tierzero</link>
+      <description>Anhang and Yun have gone deep on everything that keeps software running once it ships, and we are excited to bring their work on automations into Devin.</description>
+      <guid isPermaLink="true">https://cognition.com/blog/welcoming-tierzero</guid>
+      <pubDate>Mon, 20 Jul 2026 21:47:27 +0000</pubDate>
     </item>
     <item>
       <title>One Year of Building Together</title>
       <link>https://cognition.com/blog/one-year-of-building-together</link>
       <description>One year ago, Cognition and Windsurf came together over the craziest 72 hours of our lives. Here’s what we’ve built together since.</description>
       <guid isPermaLink="true">https://cognition.com/blog/one-year-of-building-together</guid>
-      <pubDate>Mon, 20 Jul 2026 16:16:52 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 21:47:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

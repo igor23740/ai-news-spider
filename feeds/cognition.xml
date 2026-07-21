@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 05:44:05 +0000</lastBuildDate>
-    <item>
-      <title>Welcoming TierZero to Cognition</title>
-      <link>https://cognition.com/blog/welcoming-tierzero</link>
-      <description>Anhang and Yun have gone deep on everything that keeps software running once it ships, and we are excited to bring their work on automations into Devin.</description>
-      <guid isPermaLink="true">https://cognition.com/blog/welcoming-tierzero</guid>
-      <pubDate>Tue, 21 Jul 2026 05:43:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 10:48:36 +0000</lastBuildDate>
     <item>
       <title>One Year of Building Together</title>
       <link>https://cognition.com/blog/one-year-of-building-together</link>
       <description>One year ago, Cognition and Windsurf came together over the craziest 72 hours of our lives. Here’s what we’ve built together since.</description>
       <guid isPermaLink="true">https://cognition.com/blog/one-year-of-building-together</guid>
-      <pubDate>Tue, 21 Jul 2026 05:43:26 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 10:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcoming TierZero to Cognition</title>
+      <link>https://cognition.com/blog/welcoming-tierzero</link>
+      <description>Anhang and Yun have gone deep on everything that keeps software running once it ships, and we are excited to bring their work on automations into Devin.</description>
+      <guid isPermaLink="true">https://cognition.com/blog/welcoming-tierzero</guid>
+      <pubDate>Tue, 21 Jul 2026 10:47:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

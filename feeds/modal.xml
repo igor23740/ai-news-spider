@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:47:50 +0000</lastBuildDate>
     <item>
       <title>Inkling by Thinking Machines now available on Modal</title>
       <link>https://modal.com/blog/inkling-by-thinking-machines-labs-now-available-on-modal</link>
@@ -22,6 +22,13 @@
       <description>How (and why) we built a scheduling system that can scale to 1 million concurrent sandboxes (per workspace) in seconds.</description>
       <guid isPermaLink="true">https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devin Outposts on Modal</title>
+      <link>https://modal.com/blog/devin-outposts-run-devin-in-modal-sandoxes</link>
+      <description>Devin, built by Cognition, is an AI software engineer: it plans, writes, tests, and ships code semi-autonomously. With Outposts, Devin can now run its work in Modal sandboxes.</description>
+      <guid isPermaLink="true">https://modal.com/blog/devin-outposts-run-devin-in-modal-sandoxes</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

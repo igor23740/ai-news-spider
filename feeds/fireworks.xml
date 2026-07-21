@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:45:58 +0000</lastBuildDate>
     <item>
       <title>Fireworks Secures $1.5 Billion in Series D Funding</title>
       <link>https://fireworks.ai/blog/series-d-announcement</link>
       <description>Use state-of-the-art, open-source LLMs and image models at blazing fast speed, or fine-tune and deploy your own at no additional cost with Fireworks AI!</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/series-d-announcement</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA.</title>
+      <link>https://fireworks.ai/blog/kimik3-fable</link>
+      <description>Benchmarking over 1,000 agentic tasks demonstrates that routing between the open-source Kimi K3 model and the closed Fable 5 model creates a new state-of-the-art (SoTA) approach that surpasses the performance of either model alone. While both models perform competitively in general benchmarks, they possess distinct specializations—K3 excels in terminal, symbolic math, and dev tooling, whereas Fable leads in web, data visualization, and multi-language breadth. By architecting a router to…</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/kimik3-fable</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

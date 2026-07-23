@@ -8,216 +8,216 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 05:40:02 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Lovable’s Supabase Integration 2.0</title>
-      <link>https://lovable.dev/blog/lovable-supabase-integration-second-version</link>
-      <description>Smoother Supabase development with Lovable’s enhanced integration, featuring automated edge function log reading, customizable user flows, and robust support for new capabilities.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/lovable-supabase-integration-second-version</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 16:15:22 +0000</lastBuildDate>
     <item>
       <title>Introducing Visual Edits</title>
       <link>https://lovable.dev/blog/introducing-visual-edits</link>
       <description>Gain a Figma-like editing experience in Lovable, allowing instant tweaks to sizes, colors, and elements without prompting the AI.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/introducing-visual-edits</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Versioning 2.0 to Lovable</title>
       <link>https://lovable.dev/blog/versioning-with-lovable-two-point-zero</link>
       <description>Restore to earlier versions of your app more easily by using bookmarks and our improved history view.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/versioning-with-lovable-two-point-zero</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Versioning, Dev Mode &amp; Lovable Livestream with Clerk</title>
       <link>https://lovable.dev/blog/versioning-dev-mode</link>
       <description>Versioning, Dev Mode &amp; Lovable Livestream with Clerk</description>
       <guid isPermaLink="true">https://lovable.dev/blog/versioning-dev-mode</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Agent Mode (Beta): enabling Lovable to think, plan, and take actions autonomously</title>
       <link>https://lovable.dev/blog/agent-mode-beta</link>
       <description>Introducing Agent Mode (Beta): enabling Lovable to think, plan, and take actions autonomously</description>
       <guid isPermaLink="true">https://lovable.dev/blog/agent-mode-beta</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovable Raises $200M, Valued at $1.8B, Just Eight Months After Launch</title>
       <link>https://lovable.dev/blog/200m-series-a-fundraise</link>
       <description>Lovable Raises $200M, Valued at $1.8B, Just Eight Months After Launch</description>
       <guid isPermaLink="true">https://lovable.dev/blog/200m-series-a-fundraise</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>$100M ARR &amp; Lovable Agent</title>
       <link>https://lovable.dev/blog/agent</link>
       <description>$100M ARR &amp; Lovable Agent</description>
       <guid isPermaLink="true">https://lovable.dev/blog/agent</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovable Goes Back to School</title>
       <link>https://lovable.dev/blog/back-to-school-discount</link>
       <description>Lovable Goes Back to School</description>
       <guid isPermaLink="true">https://lovable.dev/blog/back-to-school-discount</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Lovable File Uploads</title>
       <link>https://lovable.dev/blog/lovable-file-uploads</link>
       <description>Drop files directly into Lovable and turn them into apps and websites.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/lovable-file-uploads</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Lovable Cloud and AI</title>
       <link>https://lovable.dev/blog/lovable-cloud</link>
       <description>Lovable Cloud is a built-in backend for Lovable apps. With it you can build apps that save your data, let users sign up and log in, and connect safely with other services just by telling Lovable what you want done. No external dashboards or configuration screens. Everything just works, right within your Lovable project.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/lovable-cloud</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI usage in Lovable apps through Lovable AI is FREE (with Google Gemini models) until October 6th!</title>
       <link>https://lovable.dev/blog/free-lovable-ai</link>
       <description>AI usage in Lovable apps through Lovable AI is FREE (with Google Gemini models) until October 6th!</description>
       <guid isPermaLink="true">https://lovable.dev/blog/free-lovable-ai</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Shopify Integration with Lovable: What You Need to Know</title>
       <link>https://lovable.dev/blog/shopify-integration</link>
       <description>Learn how to integrate Shopify with no-code and AI tools to build smarter ecommerce apps.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/shopify-integration</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Build apps from a link with Lovable Build with URL</title>
       <link>https://lovable.dev/blog/introducing-lovable-api-build-with-url</link>
       <description>Build apps from a link with Lovable Build with URL</description>
       <guid isPermaLink="true">https://lovable.dev/blog/introducing-lovable-api-build-with-url</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>One year of Lovable: Welcome to the age of the builder</title>
       <link>https://lovable.dev/blog/one-year-of-lovable</link>
       <description>One year of Lovable: Welcome to the age of the builder</description>
       <guid isPermaLink="true">https://lovable.dev/blog/one-year-of-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovable acquires Molnett and expands our platform team</title>
       <link>https://lovable.dev/blog/lovable-welcomes-molnett</link>
       <description>Lovable acquires Molnett and expands our platform team</description>
       <guid isPermaLink="true">https://lovable.dev/blog/lovable-welcomes-molnett</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovable Now Supports Claude Opus 4.5</title>
       <link>https://lovable.dev/blog/claude-opus-4-5-in-chat</link>
       <description>Lovable Now Supports Claude Opus 4.5</description>
       <guid isPermaLink="true">https://lovable.dev/blog/claude-opus-4-5-in-chat</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Better planning, better apps: Chat mode &amp; Follow-up questions</title>
       <link>https://lovable.dev/blog/chat-mode-and-questions</link>
       <description>Better planning, better apps: Chat mode &amp; Follow-up questions</description>
       <guid isPermaLink="true">https://lovable.dev/blog/chat-mode-and-questions</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Perplexity, ElevenLabs, Firecrawl, and Miro: now in Lovable</title>
       <link>https://lovable.dev/blog/ai-connectors</link>
       <description>Perplexity, ElevenLabs, Firecrawl, and Miro: now in Lovable</description>
       <guid isPermaLink="true">https://lovable.dev/blog/ai-connectors</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovable raises $330M to power the age of the builder</title>
       <link>https://lovable.dev/blog/series-b</link>
       <description>Lovable raises $330M to power the age of the builder</description>
       <guid isPermaLink="true">https://lovable.dev/blog/series-b</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Build more. Manage less.</title>
       <link>https://lovable.dev/blog/a-smarter-lovable</link>
       <description>Lovable now handles more complex builds more autonomously with less back-and-forth. Hand off ambitious ideas, queue up your thinking, and ship with confidence.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/a-smarter-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Opus 4.6 now in Lovable</title>
       <link>https://lovable.dev/blog/opus-4-6-now-in-lovable</link>
       <description>Claude Opus 4.6 now in Lovable</description>
       <guid isPermaLink="true">https://lovable.dev/blog/opus-4-6-now-in-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Go beyond building apps with Lovable</title>
       <link>https://lovable.dev/blog/go-beyond-building-full-stack-apps-with-lovable</link>
       <description>You can now analyze data, create and edit files, generate business docs, and turn things like spreadsheets into working apps without ever leaving Lovable.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/go-beyond-building-full-stack-apps-with-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovable partners with Aikido to offer affordable pentesting for builders</title>
       <link>https://lovable.dev/blog/announcing-pentesting</link>
       <description>Introduced Penetration Testing for all Lovable projects.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/announcing-pentesting</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Opus 4.7 now in Lovable</title>
       <link>https://lovable.dev/blog/opus-4-7-now-in-lovable</link>
       <description>Claude Opus 4.7 now in Lovable</description>
       <guid isPermaLink="true">https://lovable.dev/blog/opus-4-7-now-in-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wiz findings now in Lovable</title>
       <link>https://lovable.dev/blog/wiz-findings-now-in-lovable</link>
       <description>Wiz security scanning is now native to Lovable — findings surface in every project</description>
       <guid isPermaLink="true">https://lovable.dev/blog/wiz-findings-now-in-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Turn repeated instructions into reusable skills in Lovable</title>
       <link>https://lovable.dev/blog/introducing-skills</link>
       <description>Learn how skills in Lovable let you save reusable instructions as markdown files, so you stop repeating yourself every time you build.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/introducing-skills</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</title>
       <link>https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</link>
       <description>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</description>
       <guid isPermaLink="true">https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing subagents: Lovable is now better at multitasking</title>
       <link>https://lovable.dev/blog/subagents-in-lovable</link>
       <description>Lovable can now create subagents to help it research, explore, and search your project in parallel.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/subagents-in-lovable</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Lovable protects your apps automatically</title>
       <link>https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</link>
       <description>Learn about our new scan profiles, security memory, and security scanning scheduling.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Workspace Insights: See every project, govern with confidence</title>
       <link>https://lovable.dev/blog/workspace-insights-govern-your-workspace</link>
       <description>Workspace Insights brings every Enterprise project into one view in Security Center — see what</description>
       <guid isPermaLink="true">https://lovable.dev/blog/workspace-insights-govern-your-workspace</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Lovable app now works inside ChatGPT and Claude</title>
+      <link>https://lovable.dev/blog/agent-integrations</link>
+      <description>Starting today, you can make your Lovable app available inside AI tools — your users can use it directly in ChatGPT, Claude, or their AI tool of choice.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/agent-integrations</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

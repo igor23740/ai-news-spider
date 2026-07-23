@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:41:59 +0000</lastBuildDate>
     <item>
       <title>Cognition Signs MOU with U.S. Department of Energy to Join The Genesis Mission</title>
       <link>https://cognition.com/blog/cognition-doe-genesis-mission</link>
@@ -17,25 +17,25 @@
       <pubDate>Wed, 22 Jul 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>One Year of Building Together</title>
-      <link>https://cognition.com/blog/one-year-of-building-together</link>
-      <description>One year ago, Cognition and Windsurf came together over the craziest 72 hours of our lives. Here’s what we’ve built together since.</description>
-      <guid isPermaLink="true">https://cognition.com/blog/one-year-of-building-together</guid>
-      <pubDate>Thu, 23 Jul 2026 16:16:41 +0000</pubDate>
+      <title>Welcoming The Interaction Company</title>
+      <link>https://cognition.com/blog/interaction</link>
+      <description>Today, we’re welcoming The Interaction Company of California, the makers of Poke, to Cognition.</description>
+      <guid isPermaLink="true">https://cognition.com/blog/interaction</guid>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcoming TierZero to Cognition</title>
       <link>https://cognition.com/blog/welcoming-tierzero</link>
       <description>Anhang and Yun have gone deep on everything that keeps software running once it ships, and we are excited to bring their work on automations into Devin.</description>
       <guid isPermaLink="true">https://cognition.com/blog/welcoming-tierzero</guid>
-      <pubDate>Thu, 23 Jul 2026 16:16:42 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 21:41:17 +0000</pubDate>
     </item>
     <item>
-      <title>Welcoming The Interaction Company</title>
-      <link>https://cognition.com/blog/interaction</link>
-      <description>Today, we’re welcoming The Interaction Company of California, the makers of Poke, to Cognition.</description>
-      <guid isPermaLink="true">https://cognition.com/blog/interaction</guid>
-      <pubDate>Thu, 23 Jul 2026 17:00:00 +0000</pubDate>
+      <title>One Year of Building Together</title>
+      <link>https://cognition.com/blog/one-year-of-building-together</link>
+      <description>One year ago, Cognition and Windsurf came together over the craziest 72 hours of our lives. Here’s what we’ve built together since.</description>
+      <guid isPermaLink="true">https://cognition.com/blog/one-year-of-building-together</guid>
+      <pubDate>Thu, 23 Jul 2026 21:41:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 21:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:44:16 +0000</lastBuildDate>
     <item>
       <title>Best AI Video Models in 2026: Seedance, Omni Flash, Kling &amp; More</title>
       <link>https://www.hedra.com/blog/best-ai-video-models</link>
@@ -22,6 +22,13 @@
       <description>Last updated: July 2026. Living ranking of the best AI video generators (platforms) teams use for production.</description>
       <guid isPermaLink="true">https://www.hedra.com/blog/best-ai-video-generators</guid>
       <pubDate>Fri, 17 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Turn Garden Photos Into a Finished Wedding Concept Video With Hedra Agent</title>
+      <link>https://www.hedra.com/blog/how-to-turn-garden-photos-into-a-finished-wedding-concept-video-with-hedra-agent</link>
+      <description>Quick answer: Hedra Agent lets event and wedding planners turn a folder of raw venue photos into a styled concept video in six steps: upload photos to…</description>
+      <guid isPermaLink="true">https://www.hedra.com/blog/how-to-turn-garden-photos-into-a-finished-wedding-concept-video-with-hedra-agent</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

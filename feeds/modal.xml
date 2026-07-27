@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 12:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:50:34 +0000</lastBuildDate>
     <item>
       <title>Devin Outposts on Modal</title>
       <link>https://modal.com/blog/devin-outposts-run-devin-in-modal-sandoxes</link>
       <description>Devin, built by Cognition, is an AI software engineer: it plans, writes, tests, and ships code semi-autonomously. With Outposts, Devin can now run its work in Modal sandboxes.</description>
       <guid isPermaLink="true">https://modal.com/blog/devin-outposts-run-devin-in-modal-sandoxes</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3 by Moonshot now available on Modal</title>
+      <link>https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal</link>
+      <description>Kimi K3, a 2.8 trillion parameter multimodal model by Moonshot, along with a custom-trained DFlash speculator, is now available on Modal.</description>
+      <guid isPermaLink="true">https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

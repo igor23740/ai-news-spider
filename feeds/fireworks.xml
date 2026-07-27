@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:48:41 +0000</lastBuildDate>
     <item>
       <title>Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA.</title>
       <link>https://fireworks.ai/blog/kimik3-fable</link>
       <description>Benchmarking over 1,000 agentic tasks demonstrates that routing between the open-source Kimi K3 model and the closed Fable 5 model creates a new state-of-the-art (SoTA) approach that surpasses the performance of either model alone. While both models perform competitively in general benchmarks, they possess distinct specializations—K3 excels in terminal, symbolic math, and dev tooling, whereas Fable leads in web, data visualization, and multi-language breadth. By architecting a router to…</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/kimik3-fable</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3 on Fireworks: Frontier Intelligence You Can Own</title>
+      <link>https://fireworks.ai/blog/kimik3-on-fireworks</link>
+      <description>Kimi K3 on Fireworks AI brings frontier-level intelligence to an open-weight 2.8-trillion parameter model, delivering matching performance to closed alternatives like Opus 5 at up to 5x lower cost per task. Hosted with US-based serverless endpoints and Zero Data Retention (ZDR), Fireworks AI gives developers full roadmap ownership, day-0 API access, and pay-per-token serverless fine-tuning. With #1 global rankings in front-end code, top-tier legal analysis, and specialized long-horizon agentic…</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/kimik3-on-fireworks</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

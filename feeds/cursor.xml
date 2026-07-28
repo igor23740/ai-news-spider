@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:37:02 +0000</lastBuildDate>
     <item>
       <title>Introducing Cursor Router</title>
       <link>https://cursor.com/blog/router</link>
@@ -18,10 +18,10 @@
     </item>
     <item>
       <title>Introducing Cursor Start</title>
-      <link>https://cursor.com/blog/cursor-start-plan</link>
+      <link>https://cursor.com/blog/cursor-start-india</link>
       <description>Cursor Start is a new plan for developers in India</description>
-      <guid isPermaLink="true">https://cursor.com/blog/cursor-start-plan</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://cursor.com/blog/cursor-start-india</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 21:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:27:35 +0000</lastBuildDate>
     <item>
-      <title>What building Shippy taught us about building agents</title>
-      <link>https://allenai.org/blog/shippy-deep-dive</link>
-      <description>Building Shippy taught us that reliable agents depend less on the model itself than on deterministic tools, explicit guardrails, isolated infrastructure, and evaluations grounded in real-world workflows and live data.</description>
-      <guid isPermaLink="true">https://allenai.org/blog/shippy-deep-dive</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <title>The OlmoEarth Platform: Geospatial inference at planetary scale</title>
+      <link>https://allenai.org/blog/olmoearth-infrastructure</link>
+      <description>How we built the OlmoEarth Platform to fine-tune geospatial models and run continent-scale satellite inference while managing massive data pipelines, distributed compute, and automatically recovering from failures at scale.</description>
+      <guid isPermaLink="true">https://allenai.org/blog/olmoearth-infrastructure</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

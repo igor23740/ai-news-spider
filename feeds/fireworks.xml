@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 21:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:43:07 +0000</lastBuildDate>
+    <item>
+      <title>Trilogy’s Playbook for Open</title>
+      <link>https://fireworks.ai/blog/trilogy-coe-playbook-for-cybersecurity</link>
+      <description>Trilogy’s new AI Cybersecurity Playbook centers on Kimi K3, leveraging open weights to ensure defenders have reliable, high-volume inference options. By moving beyond closed models, organizations gain the deployment flexibility—from managed endpoints to dedicated capacity—needed to scale security workflows like repository auditing and alert triage. This approach keeps infrastructure under engineering control while integrating powerful model reasoning directly into the defensive stack.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/trilogy-coe-playbook-for-cybersecurity</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kimi K3 on Fireworks: Frontier Intelligence You Can Own</title>
       <link>https://fireworks.ai/blog/kimik3-on-fireworks</link>

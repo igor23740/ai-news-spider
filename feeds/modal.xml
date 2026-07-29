@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 21:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:44:57 +0000</lastBuildDate>
     <item>
       <title>Kimi K3 by Moonshot now available on Modal</title>
       <link>https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal</link>
       <description>Kimi K3, a 2.8 trillion parameter multimodal model by Moonshot, along with a custom-trained DFlash speculator, is now available on Modal.</description>
       <guid isPermaLink="true">https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A note on the Hugging Face agent incident</title>
+      <link>https://modal.com/blog/a-note-on-the-hugging-face-agent-incident</link>
+      <description>Hugging Face published a technical timeline of a recent agent intrusion. Modal</description>
+      <guid isPermaLink="true">https://modal.com/blog/a-note-on-the-hugging-face-agent-incident</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

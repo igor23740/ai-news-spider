@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 10:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:16:58 +0000</lastBuildDate>
     <item>
       <title>Welcoming The Interaction Company</title>
       <link>https://cognition.com/blog/interaction</link>
@@ -28,14 +28,14 @@
       <link>https://cognition.com/blog/one-year-of-building-together</link>
       <description>One year ago, Cognition and Windsurf came together over the craziest 72 hours of our lives. Here’s what we’ve built together since.</description>
       <guid isPermaLink="true">https://cognition.com/blog/one-year-of-building-together</guid>
-      <pubDate>Thu, 30 Jul 2026 10:47:30 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 16:16:14 +0000</pubDate>
     </item>
     <item>
       <title>Welcoming TierZero to Cognition</title>
       <link>https://cognition.com/blog/welcoming-tierzero</link>
       <description>Anhang and Yun have gone deep on everything that keeps software running once it ships, and we are excited to bring their work on automations into Devin.</description>
       <guid isPermaLink="true">https://cognition.com/blog/welcoming-tierzero</guid>
-      <pubDate>Thu, 30 Jul 2026 10:47:31 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 16:16:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 21:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:07:17 +0000</lastBuildDate>
     <item>
       <title>Introducing Cursor Start</title>
       <link>https://cursor.com/blog/cursor-start-india</link>
       <description>Cursor Start is a new plan for developers in India</description>
       <guid isPermaLink="true">https://cursor.com/blog/cursor-start-india</guid>
       <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we set up our cloud agent environment</title>
+      <link>https://cursor.com/blog/cloud-agent-environment</link>
+      <description>Getting our monorepo working for cloud agents taught us that the development environment is a product in its own right, only one whose users are agents.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-environment</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:26:48 +0000</lastBuildDate>
     <item>
-      <title>sad alex on songwriting, short</title>
-      <link>https://suno.com/blog/sad-alex</link>
-      <description>sad alex reflects on internet-native songwriting, creative autonomy, and using Suno as a creative sketchpad.</description>
-      <guid isPermaLink="true">https://suno.com/blog/sad-alex</guid>
-      <pubDate>Tue, 14 Jul 2026 20:18:47 +0000</pubDate>
+      <title>Hit Publish. Here’s why.</title>
+      <link>https://suno.com/blog/tips-for-publishing</link>
+      <description>You made something great. Now let millions of Suno listeners hear it.</description>
+      <guid isPermaLink="true">https://suno.com/blog/tips-for-publishing</guid>
+      <pubDate>Fri, 31 Jul 2026 14:53:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

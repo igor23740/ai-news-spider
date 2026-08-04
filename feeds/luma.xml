@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 16:32:22 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Luma Pages to organize your boards</title>
-      <link>https://lumalabs.ai/news/new-luma-pages</link>
-      <description>New Pages feature inside Luma lets you organize your boards int sections w</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/new-luma-pages</guid>
-      <pubDate>Tue, 28 Jul 2026 18:49:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 21:49:07 +0000</lastBuildDate>
     <item>
       <title>How to Edit Text in an Image with AI - Change the Copy, Keep the Design</title>
       <link>https://lumalabs.ai/news/edit-text-image-with-ai</link>
@@ -85,6 +78,13 @@
       <description>Compare Luma vs Synthesia in 2026. See differences in AI video, creative workflows, avatars, HDR output, and which platform fits your team best.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-synthesia</guid>
       <pubDate>Tue, 04 Aug 2026 15:45:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesia Alternatives 2026</title>
+      <link>https://lumalabs.ai/news/synthesia-alternatives</link>
+      <description>Discover the best Synthesia alternatives in 2026. Compare Luma, HeyGen, and more for AI video creation, cinematic content, training, and brand campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/synthesia-alternatives</guid>
+      <pubDate>Tue, 04 Aug 2026 17:07:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

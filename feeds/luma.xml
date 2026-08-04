@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 05:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:08:00 +0000</lastBuildDate>
     <item>
       <title>Pika Alternatives 2026</title>
       <link>https://lumalabs.ai/news/pika-alternatives</link>
@@ -134,6 +134,13 @@
       <description>Discover 40 AI creative workflow efficiency statistics for 2026, including productivity gains, ROI, automation trends, and faster campaign delivery insights.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-creative-workflow-efficiency-statistics</guid>
       <pubDate>Tue, 04 Aug 2026 03:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>24 Generative AI Adoption Statistics for Creative Teams in 2026</title>
+      <link>https://lumalabs.ai/news/generative-ai-adoption-statistics</link>
+      <description>Explore 24 generative AI adoption statistics for 2026, covering creative workflows, productivity, ROI, and how teams speed campaign production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/generative-ai-adoption-statistics</guid>
+      <pubDate>Tue, 04 Aug 2026 08:42:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

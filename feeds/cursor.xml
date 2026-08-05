@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 21:34:52 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Cursor Start</title>
-      <link>https://cursor.com/blog/cursor-start-india</link>
-      <description>Cursor Start is a new plan for developers in India</description>
-      <guid isPermaLink="true">https://cursor.com/blog/cursor-start-india</guid>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 05:29:05 +0000</lastBuildDate>
     <item>
       <title>How we set up our cloud agent environment</title>
       <link>https://cursor.com/blog/cloud-agent-environment</link>
       <description>Getting our monorepo working for cloud agents taught us that the development environment is a product in its own right, only one whose users are agents.</description>
       <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-environment</guid>
       <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</title>
+      <link>https://cursor.com/blog/mixture-of-kittens</link>
+      <description>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</description>
+      <guid isPermaLink="true">https://cursor.com/blog/mixture-of-kittens</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

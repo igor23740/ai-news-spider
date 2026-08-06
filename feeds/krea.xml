@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 21:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:32:26 +0000</lastBuildDate>
     <item>
-      <title>From almost to Doodles</title>
-      <link>https://www.krea.ai/blog/from-almost-to-doodles</link>
-      <description>How Doodles found a visually literate model in Krea 2 and taught it their style.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/from-almost-to-doodles</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <title>MiniMax H3: What’s New, Benefits, and 6 Prompts to Try in 2026</title>
+      <link>https://www.krea.ai/blog/minimax-h3-what-s-new-benefits-and-6-prompts-to-try-in-2026</link>
+      <description>MiniMax H3 delivers better control for short AI video. Explore new features, key benefits, and 6 prompts to try in 2026.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/minimax-h3-what-s-new-benefits-and-6-prompts-to-try-in-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best MiniMax H3 Prompts for AI Film, Influencers, and Omni</title>
+      <link>https://www.krea.ai/blog/10-best-minimax-h3-prompts-for-ai-film-influencers-and-omni-reference-2026</link>
+      <description>Discover 10 MiniMax H3 prompts for AI film, influencers, and omni-reference setups that keep timing, audio, and references coherent in 2026.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/10-best-minimax-h3-prompts-for-ai-film-influencers-and-omni-reference-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Train in cluster, infer anywhere</title>

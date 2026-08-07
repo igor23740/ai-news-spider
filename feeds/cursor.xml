@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:31:04 +0000</lastBuildDate>
-    <item>
-      <title>How we set up our cloud agent environment</title>
-      <link>https://cursor.com/blog/cloud-agent-environment</link>
-      <description>Getting our monorepo working for cloud agents taught us that the development environment is a product in its own right, only one whose users are agents.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-environment</guid>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 00:57:33 +0000</lastBuildDate>
     <item>
       <title>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</title>
       <link>https://cursor.com/blog/mixture-of-kittens</link>
       <description>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</description>
       <guid isPermaLink="true">https://cursor.com/blog/mixture-of-kittens</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cursor Router chooses the right model for the task</title>
+      <link>https://cursor.com/blog/how-cursor-router-works</link>
+      <description>Auto Intelligence now delivers above Fable-level satisfaction at 68% lower cost. Here</description>
+      <guid isPermaLink="true">https://cursor.com/blog/how-cursor-router-works</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

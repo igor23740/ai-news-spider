@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 03:53:27 +0000</lastBuildDate>
     <item>
       <title>How to Edit Text in an Image with AI - Change the Copy, Keep the Design</title>
       <link>https://lumalabs.ai/news/edit-text-image-with-ai</link>
@@ -85,6 +85,13 @@
       <description>Discover the best Synthesia alternatives in 2026. Compare Luma, HeyGen, and more for AI video creation, cinematic content, training, and brand campaigns.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/synthesia-alternatives</guid>
       <pubDate>Tue, 04 Aug 2026 17:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>MiniMax H3 Available Now</title>
+      <link>https://lumalabs.ai/news/minimax-h3-now-available-in-luma-agents</link>
+      <description>MiniMax H3 Available Now</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/minimax-h3-now-available-in-luma-agents</guid>
+      <pubDate>Thu, 06 Aug 2026 18:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

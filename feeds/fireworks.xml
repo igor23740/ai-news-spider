@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 21:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 03:56:09 +0000</lastBuildDate>
     <item>
-      <title>Kimi K3 on Fireworks: Frontier Intelligence You Can Own</title>
-      <link>https://fireworks.ai/blog/kimik3-on-fireworks</link>
-      <description>Kimi K3 on Fireworks AI brings frontier-level intelligence to an open-weight 2.8-trillion parameter model, delivering matching performance to closed alternatives like Opus 5 at up to 5x lower cost per task. Hosted with US-based serverless endpoints and Zero Data Retention (ZDR), Fireworks AI gives developers full roadmap ownership, day-0 API access, and pay-per-token serverless fine-tuning. With #1 global rankings in front-end code, top-tier legal analysis, and specialized long-horizon agentic…</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/kimik3-on-fireworks</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Your AI Performance Stack is Fireworks Models with Voyage AI embeddings</title>
+      <link>https://fireworks.ai/blog/voyage-ai-models-now-on-fireworks</link>
+      <description>Fireworks is the first and only dedicated inference platform Voyage AI by MongoDB has partnered with. The full Voyage lineup now runs natively on Fireworks: the Voyage 4 family, voyage-multimodal-3.5, and rerank-2.5.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/voyage-ai-models-now-on-fireworks</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

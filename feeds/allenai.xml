@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 21:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 03:56:16 +0000</lastBuildDate>
     <item>
-      <title>The OlmoEarth Platform: Geospatial inference at planetary scale</title>
-      <link>https://allenai.org/blog/olmoearth-infrastructure</link>
-      <description>How we built the OlmoEarth Platform to fine-tune geospatial models and run continent-scale satellite inference while managing massive data pipelines, distributed compute, and automatically recovering from failures at scale.</description>
-      <guid isPermaLink="true">https://allenai.org/blog/olmoearth-infrastructure</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
+      <link>https://allenai.org/blog/tutormoments</link>
+      <description>TutorMoments is an open, replay-based evaluation framework that tests whether AI tutors can recognize when to support a student and when to hold back and encourage deeper reasoning.</description>
+      <guid isPermaLink="true">https://allenai.org/blog/tutormoments</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

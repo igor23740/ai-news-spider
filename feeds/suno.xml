@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:17:38 +0000</lastBuildDate>
     <item>
-      <title>Hit Publish. Here’s why.</title>
-      <link>https://suno.com/blog/tips-for-publishing</link>
-      <description>You made something great. Now let millions of Suno listeners hear it.</description>
-      <guid isPermaLink="true">https://suno.com/blog/tips-for-publishing</guid>
-      <pubDate>Fri, 31 Jul 2026 14:53:17 +0000</pubDate>
+      <title>An update to our downloads policy and Terms of Service</title>
+      <link>https://suno.com/blog/suno-updates-tos</link>
+      <description>Explaining upcoming changes that will take effect on September 3, 2026</description>
+      <guid isPermaLink="true">https://suno.com/blog/suno-updates-tos</guid>
+      <pubDate>Mon, 10 Aug 2026 18:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

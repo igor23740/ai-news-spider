@@ -8,27 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:33:56 +0000</lastBuildDate>
-    <item>
-      <title>Luma vs Synthesia 2026</title>
-      <link>https://lumalabs.ai/news/luma-vs-synthesia</link>
-      <description>Compare Luma vs Synthesia in 2026. See differences in AI video, creative workflows, avatars, HDR output, and which platform fits your team best.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-synthesia</guid>
-      <pubDate>Tue, 04 Aug 2026 15:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synthesia Alternatives 2026</title>
-      <link>https://lumalabs.ai/news/synthesia-alternatives</link>
-      <description>Discover the best Synthesia alternatives in 2026. Compare Luma, HeyGen, and more for AI video creation, cinematic content, training, and brand campaigns.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/synthesia-alternatives</guid>
-      <pubDate>Tue, 04 Aug 2026 17:07:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 21:15:05 +0000</lastBuildDate>
     <item>
       <title>MiniMax H3 Available Now</title>
       <link>https://lumalabs.ai/news/minimax-h3-now-available-in-luma-agents</link>
       <description>MiniMax H3 Available Now</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/minimax-h3-now-available-in-luma-agents</guid>
       <pubDate>Thu, 06 Aug 2026 18:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best AI Background Changers for Product and Brand Imagery (2026)</title>
+      <link>https://lumalabs.ai/news/ai-background-changers-product-brand-imagery</link>
+      <description>Discover the 7 best AI background changers for product and brand imagery in 2026. Compare tools for ecommerce, campaigns, automation, and brand consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-background-changers-product-brand-imagery</guid>
+      <pubDate>Tue, 11 Aug 2026 15:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Object Removal and Replacement: How to Edit One Object, Not the Whole Image</title>
+      <link>https://lumalabs.ai/news/ai-object-removal-replacement</link>
+      <description>Learn how AI object removal and replacement lets you edit products, backgrounds, and text without changing the rest of an image. Discover precision editing.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-object-removal-replacement</guid>
+      <pubDate>Tue, 11 Aug 2026 15:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Best AI Image Editors for Precision Editing, Ranked (2026)</title>
+      <link>https://lumalabs.ai/news/ai-image-editors-precision-editing</link>
+      <description>Compare the 7 best AI image editors for precision editing in 2026. Discover top tools for professional retouching, AI masking, layers, and campaign workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-image-editors-precision-editing</guid>
+      <pubDate>Tue, 11 Aug 2026 15:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove Text from an Image with AI (Without Wrecking What</title>
+      <link>https://lumalabs.ai/news/remove-text-image-with-ai</link>
+      <description>Remove text from images with AI while preserving backgrounds, lighting, and quality. Discover tools and techniques for fast, seamless edits and localization.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/remove-text-image-with-ai</guid>
+      <pubDate>Tue, 11 Aug 2026 15:51:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Luma Scenes</title>
+      <link>https://lumalabs.ai/news/introducing-luma-scenes</link>
+      <description>Luma Scenes. One workflow for text to video or image to video. Storyboard, key frames, timing all reviewed before a single render.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/introducing-luma-scenes</guid>
+      <pubDate>Tue, 11 Aug 2026 18:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

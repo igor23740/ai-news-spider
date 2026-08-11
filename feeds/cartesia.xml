@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 21:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:18:55 +0000</lastBuildDate>
     <item>
-      <title>Cartesia \ Introducing Ink-2: The #1</title>
-      <link>https://www.cartesia.ai/blog/ink-2</link>
-      <description>Cartesia \ Introducing Ink-2: The #1</description>
-      <guid isPermaLink="true">https://www.cartesia.ai/blog/ink-2</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Cartesia | New to Ink</title>
+      <link>https://www.cartesia.ai/blog/keyterm-prompting</link>
+      <description>Two new Ink-2 features: keyterm prompting, which improves transcription accuracy on domain-specific entities, and configurable turn detection, which tunes endpointing for speed or accuracy.</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/keyterm-prompting</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

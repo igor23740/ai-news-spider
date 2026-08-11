@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:03:37 +0000</lastBuildDate>
-    <item>
-      <title>Hedra for Developers: Our models, now available through API, SDK, CLI &amp; MCP</title>
-      <link>https://www.hedra.com/blog/hedra-for-developers-our-models-now-an-api</link>
-      <description>Hedra is a research and infrastructure company in San Francisco building general visual intelligence.</description>
-      <guid isPermaLink="true">https://www.hedra.com/blog/hedra-for-developers-our-models-now-an-api</guid>
-      <pubDate>Tue, 04 Aug 2026 05:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best AI Image Generation APIs in 2026: Hedra, WaveSpeed, fal, and Runware</title>
-      <link>https://www.hedra.com/blog/best-ai-image-generation-apis-2026</link>
-      <description>Image generation APIs now cover far more than text-to-image. Production teams need to compare generation, editing, references, typography, latency…</description>
-      <guid isPermaLink="true">https://www.hedra.com/blog/best-ai-image-generation-apis-2026</guid>
-      <pubDate>Tue, 04 Aug 2026 06:04:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best AI Video Generation APIs in 2026: Hedra, WaveSpeed, fal, and Runware</title>
-      <link>https://www.hedra.com/blog/best-ai-video-generation-apis-2026</link>
-      <description>Choosing an AI video API is less about finding one universal winner than matching models, controls, latency, reliability, and cost to a real workload.</description>
-      <guid isPermaLink="true">https://www.hedra.com/blog/best-ai-video-generation-apis-2026</guid>
-      <pubDate>Tue, 04 Aug 2026 06:04:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 09:37:14 +0000</lastBuildDate>
     <item>
       <title>Texas Rangers Revolutionize Fan Engagement with Hedra</title>
       <link>https://www.hedra.com/blog/texas-rangers-revolutionize-fan-engagement-with-hedra</link>

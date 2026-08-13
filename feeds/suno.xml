@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:20:56 +0000</lastBuildDate>
     <item>
       <title>An update to our downloads policy and Terms of Service</title>
       <link>https://suno.com/blog/suno-updates-tos</link>
@@ -22,6 +22,13 @@
       <description>Part of our upcoming launch of our first music model developed with the music industry</description>
       <guid isPermaLink="true">https://suno.com/blog/suno-partnership-bmg</guid>
       <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Studio 2.0</title>
+      <link>https://suno.com/blog/studio-2</link>
+      <description>The browser-based DAW that lets you move at the speed of your ideas</description>
+      <guid isPermaLink="true">https://suno.com/blog/studio-2</guid>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

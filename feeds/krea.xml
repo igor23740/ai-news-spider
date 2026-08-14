@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:38:12 +0000</lastBuildDate>
-    <item>
-      <title>Bending the Kubernetes scheduler</title>
-      <link>https://www.krea.ai/blog/bending-the-kubernetes-scheduler</link>
-      <description>How we make the default Kubernetes scheduler pack GPU workloads into the cluster first and spill to overflow capacity only when it</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/bending-the-kubernetes-scheduler</guid>
-      <pubDate>Fri, 07 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 15:25:30 +0000</lastBuildDate>
     <item>
       <title>Cozy Interior Design: What Makes a Space Feel Warm, Calm, and Lived In</title>
       <link>https://www.krea.ai/blog/cozy-interior-design-what-makes-a-space-feel-warm-calm-and-lived-in</link>

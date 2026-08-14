@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 05:57:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:45:07 +0000</lastBuildDate>
     <item>
-      <title>Video to 3D Model AI: How It Actually Works - Blog</title>
-      <link>https://www.meshy.ai/blog/video-to-3d-model-ai</link>
-      <description>Video to 3D Model AI: How It Actually Works - Blog</description>
-      <guid isPermaLink="true">https://www.meshy.ai/blog/video-to-3d-model-ai</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Meshy 7: 3D Geometry Alignment Benchmark</title>
+      <link>https://www.meshy.ai/blog/meshy-7-image-to-3d-geometry-alignment</link>
+      <description>Meshy 7 is our new image-to-3D model, tuned for geometry alignment: how closely the generated 3D shape matches your input image. Benchmark and results inside.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/meshy-7-image-to-3d-geometry-alignment</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

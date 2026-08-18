@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:21:10 +0000</lastBuildDate>
-    <item>
-      <title>$100M ARR &amp; Lovable Agent</title>
-      <link>https://lovable.dev/blog/agent</link>
-      <description>$100M ARR &amp; Lovable Agent</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/agent</guid>
-      <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lovable Goes Back to School</title>
-      <link>https://lovable.dev/blog/back-to-school-discount</link>
-      <description>Lovable Goes Back to School</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/back-to-school-discount</guid>
-      <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Lovable File Uploads</title>
-      <link>https://lovable.dev/blog/lovable-file-uploads</link>
-      <description>Drop files directly into Lovable and turn them into apps and websites.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/lovable-file-uploads</guid>
-      <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Lovable Cloud and AI</title>
-      <link>https://lovable.dev/blog/lovable-cloud</link>
-      <description>Lovable Cloud is a built-in backend for Lovable apps. With it you can build apps that save your data, let users sign up and log in, and connect safely with other services just by telling Lovable what you want done. No external dashboards or configuration screens. Everything just works, right within your Lovable project.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/lovable-cloud</guid>
-      <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI usage in Lovable apps through Lovable AI is FREE (with Google Gemini models) until October 6th!</title>
-      <link>https://lovable.dev/blog/free-lovable-ai</link>
-      <description>AI usage in Lovable apps through Lovable AI is FREE (with Google Gemini models) until October 6th!</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/free-lovable-ai</guid>
-      <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shopify Integration with Lovable: What You Need to Know</title>
-      <link>https://lovable.dev/blog/shopify-integration</link>
-      <description>Learn how to integrate Shopify with no-code and AI tools to build smarter ecommerce apps.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/shopify-integration</guid>
-      <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 09:11:22 +0000</lastBuildDate>
     <item>
       <title>Build apps from a link with Lovable Build with URL</title>
       <link>https://lovable.dev/blog/introducing-lovable-api-build-with-url</link>
@@ -218,6 +176,48 @@
       <description>Lovable is partnering with Cerebras to build toward dramatically reduced response times by 2027, so you spend less time waiting and more time building.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/cerebras-partnership</guid>
       <pubDate>Wed, 12 Aug 2026 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to integrate Replicate with Lovable?</title>
+      <link>https://lovable.dev/blog/2025-01-24-supercharge-your-ai-projects-lovable-x-replicate-integration</link>
+      <description>Explore how Lovable and Replicate empower developers to create smarter, more dynamic applications by seamlessly integrating AI models for real-time multimedia generation and simplified workflows.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-24-supercharge-your-ai-projects-lovable-x-replicate-integration</guid>
+      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Wedding Website?</title>
+      <link>https://lovable.dev/blog/best-wedding-website-builder</link>
+      <description>Discover how to make a wedding website that keeps your guests informed, organized, and excited for your big day in less than 20 minutes.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/best-wedding-website-builder</guid>
+      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Stunning Portfolio Website in Minutes with Lovable</title>
+      <link>https://lovable.dev/blog/digital-portfolio-website-examples</link>
+      <description>Create a professional, polished portfolio effortlessly with Lovable. Get step-by-step guidance, follow best practices, and use ready-made prompts to launch your portfolio in minutes—no coding required!</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/digital-portfolio-website-examples</guid>
+      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Website from Scratch: Complete Beginner Guide</title>
+      <link>https://lovable.dev/blog/how-to-build-website-from-scratch-guide</link>
+      <description>How to Build a Website from Scratch: Complete Beginner Guide</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-to-build-website-from-scratch-guide</guid>
+      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use an AI Form Builder to Create Secure Login and Sign-up Forms</title>
+      <link>https://lovable.dev/blog/ai-form-builder-authentication-login</link>
+      <description>Learn how to streamline authentication with Lovable AI’s form builder, automating secure login and sign-up processes with seamless Supabase integration.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/ai-form-builder-authentication-login</guid>
+      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make a Social Media App Using AI-Powered Development</title>
+      <link>https://lovable.dev/blog/how-to-make-a-social-media-app-using-ai</link>
+      <description>Learn how to build a fully functional AI-powered social media app with Lovable, streamlining development with no-code and automated coding solutions.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-to-make-a-social-media-app-using-ai</guid>
+      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:18:51 +0000</lastBuildDate>
     <item>
       <title>6 Best AI Background Changers for Product and Brand Imagery (2026)</title>
       <link>https://lumalabs.ai/news/ai-background-changers-product-brand-imagery</link>
@@ -113,6 +113,20 @@
       <description>We spoke to Vinod Padmanabhan, founder and director at FOID AI Studio, about walking away from a two decade career as a traditional director across more than 20 international markets, building his entire production pipeline around Luma</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/how-foid-ai-studio-uses-luma-to-direct-without-limits</guid>
       <pubDate>Fri, 14 Aug 2026 17:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luma vs Leonardo AI 2026</title>
+      <link>https://lumalabs.ai/news/luma-vs-leonardo-ai</link>
+      <description>Luma vs Leonardo AI: compare AI video and image generation, editing, campaign workflows, and creative tools to find the best fit for your team.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-leonardo-ai</guid>
+      <pubDate>Tue, 18 Aug 2026 00:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luma vs Adobe Firefly (2026)</title>
+      <link>https://lumalabs.ai/news/luma-vs-adobe-firefly</link>
+      <description>Luma vs Adobe Firefly: compare AI video, image generation, editing, HDR workflows, Creative Cloud integration, and campaign tools for creative teams.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-adobe-firefly</guid>
+      <pubDate>Tue, 18 Aug 2026 00:05:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

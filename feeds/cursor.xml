@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:16:27 +0000</lastBuildDate>
     <item>
       <title>Introducing Grok 4.6</title>
       <link>https://cursor.com/blog/grok-4-6</link>
@@ -17,10 +17,10 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cursor earns AIUC-1 certification for agent security and reliability</title>
-      <link>https://cursor.com/blog/aiuc-1</link>
-      <description>Cursor is now AIUC-1 certified after an independent audit of our controls and adversarial testing of our agents.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/aiuc-1</guid>
+      <title>Cloud agents start 3x faster with builds</title>
+      <link>https://cursor.com/blog/builds</link>
+      <description>Builds are ready-to-use copies of your development environment that Cursor prepares in the background, so cloud agents start up to 3x faster at no additional cost.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/builds</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -31,10 +31,10 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloud agents start 3x faster with builds</title>
-      <link>https://cursor.com/blog/builds</link>
-      <description>Builds are ready-to-use copies of your development environment that Cursor prepares in the background, so cloud agents start up to 3x faster at no additional cost.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/builds</guid>
+      <title>Cursor earns AIUC-1 certification for agent security and reliability</title>
+      <link>https://cursor.com/blog/aiuc-1</link>
+      <description>Cursor is now AIUC-1 certified after an independent audit of our controls and adversarial testing of our agents.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/aiuc-1</guid>
       <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>

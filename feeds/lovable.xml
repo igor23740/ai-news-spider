@@ -8,56 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:14:49 +0000</lastBuildDate>
-    <item>
-      <title>How to Build a Website from Scratch: Complete Beginner Guide</title>
-      <link>https://lovable.dev/blog/how-to-build-website-from-scratch-guide</link>
-      <description>How to Build a Website from Scratch: Complete Beginner Guide</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/how-to-build-website-from-scratch-guide</guid>
-      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use an AI Form Builder to Create Secure Login and Sign-up Forms</title>
-      <link>https://lovable.dev/blog/ai-form-builder-authentication-login</link>
-      <description>Learn how to streamline authentication with Lovable AI’s form builder, automating secure login and sign-up processes with seamless Supabase integration.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/ai-form-builder-authentication-login</guid>
-      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Make a Social Media App Using AI-Powered Development</title>
-      <link>https://lovable.dev/blog/how-to-make-a-social-media-app-using-ai</link>
-      <description>Learn how to build a fully functional AI-powered social media app with Lovable, streamlining development with no-code and automated coding solutions.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/how-to-make-a-social-media-app-using-ai</guid>
-      <pubDate>Tue, 18 Aug 2026 03:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rebranding: GPT Engineer to Lovable</title>
-      <link>https://lovable.dev/blog/2025-01-13-rebranding-gpt-engineer-to-lovable</link>
-      <description>Empowering users to build high-quality software faster without coding.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-13-rebranding-gpt-engineer-to-lovable</guid>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident Jan 2: Github outage</title>
-      <link>https://lovable.dev/blog/incident-github-outage</link>
-      <description>Incident report for the GitHub outage on January 2-3, 2025</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/incident-github-outage</guid>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redefining Software Creation from the Heart of Stockholm 🇸🇪</title>
-      <link>https://lovable.dev/blog/2025-01-21-how-lovable-is-redefining-software-creation-from-the-heart-of-stockholm</link>
-      <description>Get an inside look at Lovable through the eyes of a team member, exploring what makes it a remarkable place to work, innovate, and shape the future of tech.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-21-how-lovable-is-redefining-software-creation-from-the-heart-of-stockholm</guid>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero to $10M ARR in 2 months</title>
-      <link>https://lovable.dev/blog/2025-01-29-zero-to-10m-arr-in-2-months</link>
-      <description>Discover how Lovable went from an open-source experiment to a market leader, cracking growth through innovative integrations, community-driven features, and a product-first approach.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-29-zero-to-10m-arr-in-2-months</guid>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 21:00:48 +0000</lastBuildDate>
     <item>
       <title>Announcing $15m added funding to build the last piece of software</title>
       <link>https://lovable.dev/blog/fundraise-series-a-announcement</link>
@@ -218,6 +169,55 @@
       <description>The model picker is a dead end</description>
       <guid isPermaLink="true">https://lovable.dev/blog/the-model-picker-is-a-dead-end</guid>
       <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to integrate Replicate with Lovable?</title>
+      <link>https://lovable.dev/blog/2025-01-24-supercharge-your-ai-projects-lovable-x-replicate-integration</link>
+      <description>Explore how Lovable and Replicate empower developers to create smarter, more dynamic applications by seamlessly integrating AI models for real-time multimedia generation and simplified workflows.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-24-supercharge-your-ai-projects-lovable-x-replicate-integration</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Wedding Website?</title>
+      <link>https://lovable.dev/blog/best-wedding-website-builder</link>
+      <description>Discover how to make a wedding website that keeps your guests informed, organized, and excited for your big day in less than 20 minutes.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/best-wedding-website-builder</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Stunning Portfolio Website in Minutes with Lovable</title>
+      <link>https://lovable.dev/blog/digital-portfolio-website-examples</link>
+      <description>Create a professional, polished portfolio effortlessly with Lovable. Get step-by-step guidance, follow best practices, and use ready-made prompts to launch your portfolio in minutes—no coding required!</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/digital-portfolio-website-examples</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Website from Scratch: Complete Beginner Guide</title>
+      <link>https://lovable.dev/blog/how-to-build-website-from-scratch-guide</link>
+      <description>How to Build a Website from Scratch: Complete Beginner Guide</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-to-build-website-from-scratch-guide</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use an AI Form Builder to Create Secure Login and Sign-up Forms</title>
+      <link>https://lovable.dev/blog/ai-form-builder-authentication-login</link>
+      <description>Learn how to streamline authentication with Lovable AI’s form builder, automating secure login and sign-up processes with seamless Supabase integration.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/ai-form-builder-authentication-login</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make a Social Media App Using AI-Powered Development</title>
+      <link>https://lovable.dev/blog/how-to-make-a-social-media-app-using-ai</link>
+      <description>Learn how to build a fully functional AI-powered social media app with Lovable, streamlining development with no-code and automated coding solutions.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-to-make-a-social-media-app-using-ai</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP 101: What it is and how it works in Lovable</title>
+      <link>https://lovable.dev/blog/mcp-101</link>
+      <description>A breakdown of what MCP is and three ways we use it in Lovable.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/mcp-101</guid>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

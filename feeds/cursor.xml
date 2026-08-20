@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:04:08 +0000</lastBuildDate>
-    <item>
-      <title>Cloud agents start 3x faster with builds</title>
-      <link>https://cursor.com/blog/builds</link>
-      <description>Builds are ready-to-use copies of your development environment that Cursor prepares in the background, so cloud agents start up to 3x faster at no additional cost.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/builds</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cursor earns AIUC-1 certification for agent security and reliability</title>
-      <link>https://cursor.com/blog/aiuc-1</link>
-      <description>Cursor is now AIUC-1 certified after an independent audit of our controls and adversarial testing of our agents.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/aiuc-1</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firetiger joins Cursor</title>
-      <link>https://cursor.com/blog/firetiger</link>
-      <description>Firetiger builds agents that work on software once it reaches production. They</description>
-      <guid isPermaLink="true">https://cursor.com/blog/firetiger</guid>
-      <pubDate>Thu, 13 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 15:07:57 +0000</lastBuildDate>
     <item>
       <title>Cursor is now a part of SpaceX</title>
       <link>https://cursor.com/blog/joining-spacex</link>

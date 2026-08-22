@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:22:37 +0000</lastBuildDate>
     <item>
-      <title>Introducing Studio 2.0</title>
-      <link>https://suno.com/blog/studio-2</link>
-      <description>The browser-based DAW that lets you move at the speed of your ideas</description>
-      <guid isPermaLink="true">https://suno.com/blog/studio-2</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 +0000</pubDate>
+      <title>Your music deserves a face</title>
+      <link>https://suno.com/blog/tips-for-complete-profile</link>
+      <description>Suno is where your music lives. Make it where your artistic identity lives too.</description>
+      <guid isPermaLink="true">https://suno.com/blog/tips-for-complete-profile</guid>
+      <pubDate>Fri, 21 Aug 2026 16:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

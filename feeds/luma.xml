@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:59:05 +0000</lastBuildDate>
     <item>
       <title>Luma vs Leonardo AI 2026</title>
       <link>https://lumalabs.ai/news/luma-vs-leonardo-ai</link>
@@ -50,6 +50,62 @@
       <description>Learn how to prompt realistic AI face swaps in 2026 with step-by-step examples covering image quality, blending, video, realism, and ethical use.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/prompt-ai-face-swap</guid>
       <pubDate>Wed, 19 Aug 2026 05:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Marketing Teams in 2026: 9 Tools Compared</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-marketing-teams</link>
+      <description>Compare the 9 best AI video generators for marketing teams in 2026, including Luma, Runway, Kling, HeyGen, and more for campaigns, editing, and localization.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-marketing-teams</guid>
+      <pubDate>Mon, 24 Aug 2026 15:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Product Demos 2026</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-product-demos</link>
+      <description>Compare the best AI video generators for product demos in 2026, from Luma and Runway to Synthesia and Creatify, for faster, high-quality product videos.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-product-demos</guid>
+      <pubDate>Mon, 24 Aug 2026 15:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Ads in 2026: Tools That Actually Convert</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-ads</link>
+      <description>Compare the best AI video generators for ads in 2026, from Luma and Creatify to Arcads and HeyGen, for high-converting, scalable campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-ads</guid>
+      <pubDate>Mon, 24 Aug 2026 15:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Ecommerce: Turn Product Photos Into Video</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-ecommerce</link>
+      <description>Discover the best AI video generators for ecommerce in 2026. Turn product photos into engaging videos, ads, and localized content at scale.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-ecommerce</guid>
+      <pubDate>Mon, 24 Aug 2026 16:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Social Media Content in 2026</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-social-media-content</link>
+      <description>Compare the best AI video generators for social media in 2026, from Luma and Veo to Runway and CapCut, for faster content creation and campaign scaling.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-social-media-content</guid>
+      <pubDate>Mon, 24 Aug 2026 16:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Agencies 2026: Built for Client Volume</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-agencies</link>
+      <description>Compare the best AI video generators for agencies in 2026, with tools for client campaigns, high-volume production, revisions, localization, and brand consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-agencies</guid>
+      <pubDate>Mon, 24 Aug 2026 17:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for Creative Teams Who Care About Craft 2026</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-creative-teams</link>
+      <description>Compare the best AI video generators for creative teams in 2026, with tools for cinematic quality, precise control, professional workflows, and campaign production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-creative-teams</guid>
+      <pubDate>Mon, 24 Aug 2026 17:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generator for YouTube 2026: Long-Form, Shorts, and B-Roll</title>
+      <link>https://lumalabs.ai/news/ai-video-generator-youtube</link>
+      <description>Discover the best AI video generators for YouTube in 2026. Compare tools for long-form videos, Shorts, B-roll, editing, and creative control.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generator-youtube</guid>
+      <pubDate>Mon, 24 Aug 2026 17:49:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

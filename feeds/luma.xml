@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:59:05 +0000</lastBuildDate>
-    <item>
-      <title>Luma vs Leonardo AI 2026</title>
-      <link>https://lumalabs.ai/news/luma-vs-leonardo-ai</link>
-      <description>Luma vs Leonardo AI: compare AI video and image generation, editing, campaign workflows, and creative tools to find the best fit for your team.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-leonardo-ai</guid>
-      <pubDate>Tue, 18 Aug 2026 00:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luma vs Adobe Firefly (2026)</title>
-      <link>https://lumalabs.ai/news/luma-vs-adobe-firefly</link>
-      <description>Luma vs Adobe Firefly: compare AI video, image generation, editing, HDR workflows, Creative Cloud integration, and campaign tools for creative teams.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-adobe-firefly</guid>
-      <pubDate>Tue, 18 Aug 2026 00:05:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 03:29:50 +0000</lastBuildDate>
     <item>
       <title>How to Prompt Realistic AI Videos: 12 Prompts That Don</title>
       <link>https://lumalabs.ai/news/prompt-realistic-ai-videos</link>

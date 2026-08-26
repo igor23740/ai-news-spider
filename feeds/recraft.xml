@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:52:06 +0000</lastBuildDate>
     <item>
       <title>Put Your Design on Real Products with Recraft</title>
       <link>https://www.recraft.ai/blog/how-to-put-your-design-on-real-products</link>
@@ -28,6 +28,13 @@
       <link>https://www.recraft.ai/blog/how-to-restore-old-photos-with-ai</link>
       <description>How to Restore Old Photos with AI: Step-by</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-restore-old-photos-with-ai</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recraft V4 Styles: Style it once, every image matches</title>
+      <link>https://www.recraft.ai/blog/recraft-v4-styles</link>
+      <description>Recraft V4 Styles: Style it once, every image matches</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/recraft-v4-styles</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

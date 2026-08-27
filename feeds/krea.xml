@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 23:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:15:02 +0000</lastBuildDate>
     <item>
       <title>Seedance 2.5 vs Seedance 2.0: Tested on a Real Fashion Brief</title>
       <link>https://www.krea.ai/blog/seedance-2-5-vs-seedance-2-0-tested-on-a-real-fashion-brief</link>
@@ -50,6 +50,62 @@
       <description>Call the Kling 3.0 API on Krea: endpoint, working JavaScript and Python, measured prices and render times, and the multi_prompt field that directs timed shots.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/kling-3-0-api-access-guide-pricing-code-examples-for-multi-shot-ai-video</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 7 Best Free AI Image Generators in 2026</title>
+      <link>https://www.krea.ai/blog/best-free-ai-image-generators-in-2026</link>
+      <description>Compare the best free AI image generators in 2026 — Krea, ChatGPT, Gemini, Ideogram, Leonardo, Copilot, and Canva — by what their free tiers actually let you make.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-free-ai-image-generators-in-2026</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best AI Tools for Architectural Rendering in 2026</title>
+      <link>https://www.krea.ai/blog/best-ai-tools-for-architectural-rendering-in-2026</link>
+      <description>Compare the best AI architectural rendering tools in 2026 — Krea, Veras, D5 Render, LookX, and Midjourney — matched to each stage of a real archviz workflow.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-tools-for-architectural-rendering-in-2026</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 6 Best AI Image Upscalers in 2026</title>
+      <link>https://www.krea.ai/blog/best-ai-image-upscalers-in-2026</link>
+      <description>Compare the best AI image upscalers in 2026 — Krea Enhancer, Magnific, Topaz Gigapixel, Upscayl, Adobe Super Resolution, and Let</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-image-upscalers-in-2026</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Top 10 AI Tools in 2026, by What You Actually Make</title>
+      <link>https://www.krea.ai/blog/top-10-ai-tools-in-2026-by-what-you-make</link>
+      <description>The top 10 AI tools in 2026, organized by job — writing, images, video, code, meetings, research, and automation — with one winner, one alternative, and a starter prompt for each.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/top-10-ai-tools-in-2026-by-what-you-make</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT vs Midjourney: Which AI Image Generator Should You Use in 2026?</title>
+      <link>https://www.krea.ai/blog/chatgpt-vs-midjourney-which-ai-image-generator-in-2026</link>
+      <description>An honest head-to-head of ChatGPT and Midjourney in 2026 — prompt understanding vs aesthetic ceiling, real pricing (Midjourney has no free tier), and when a third option wins.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/chatgpt-vs-midjourney-which-ai-image-generator-in-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Canva Alternatives for AI</title>
+      <link>https://www.krea.ai/blog/canva-alternatives-for-ai-first-design-in-2026</link>
+      <description>The best Canva alternatives in 2026 — Krea, Figma, Adobe Express, Gamma, Microsoft Designer, Picsart, and Kittl — ranked by what you actually make, with verified free tiers.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/canva-alternatives-for-ai-first-design-in-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best Free AI Video Generators in 2026</title>
+      <link>https://www.krea.ai/blog/best-free-ai-video-generators-in-2026</link>
+      <description>Compare the real free routes to AI video in 2026 — Google Flow (Veo), Kling, Hailuo, Pika, and Krea — by daily credits, clip length, watermarks, and what happens after Sora</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-free-ai-video-generators-in-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Product Photography in 2026: Tools, Prompts, and a Working Pipeline</title>
+      <link>https://www.krea.ai/blog/ai-product-photography-in-2026-tools-prompts-pipeline</link>
+      <description>How e-commerce teams make AI product photos in 2026 — a generate-edit-upscale pipeline with Krea, plus Photoroom, Flair.ai, and Claid compared, with copy-paste prompts.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/ai-product-photography-in-2026-tools-prompts-pipeline</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

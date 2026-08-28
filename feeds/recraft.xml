@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 04:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:31:50 +0000</lastBuildDate>
     <item>
       <title>Testing Recraft V4.1 and Krea 2</title>
       <link>https://www.recraft.ai/blog/testing-recraft-v4-1-and-krea-2</link>
       <description>Testing Recraft V4.1 and Krea 2</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/testing-recraft-v4-1-and-krea-2</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Restore Old Photos with AI: Step-by</title>
-      <link>https://www.recraft.ai/blog/how-to-restore-old-photos-with-ai</link>
-      <description>How to Restore Old Photos with AI: Step-by</description>
-      <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-restore-old-photos-with-ai</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Recraft V4 Styles: Style it once, every image matches</title>

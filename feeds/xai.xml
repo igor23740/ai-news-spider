@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:43:47 +0000</lastBuildDate>
+    <item>
+      <title>Grok Bot is now included with more plans</title>
+      <link>https://x.ai/news/grok-bot-more-plans</link>
+      <description>Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-bot-more-plans</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Grok 4.6 on Microsoft Foundry</title>
       <link>https://x.ai/news/grok-4-6-microsoft-foundry</link>
@@ -17,11 +24,18 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grok Bot is now included with more plans</title>
-      <link>https://x.ai/news/grok-bot-more-plans</link>
-      <description>Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-bot-more-plans</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Grok Bot now works with X</title>
+      <link>https://x.ai/news/grok-bot-and-x</link>
+      <description>Grok Bot now works with X</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-bot-and-x</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok 4.5</title>
+      <link>https://x.ai/news/grok-4-5</link>
+      <description>Introducing Grok 4.5</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-4-5</guid>
+      <pubDate>Sat, 29 Aug 2026 22:43:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

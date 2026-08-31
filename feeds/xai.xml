@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:47:53 +0000</lastBuildDate>
     <item>
       <title>Grok Bot is now included with more plans</title>
       <link>https://x.ai/news/grok-bot-more-plans</link>
@@ -29,13 +29,6 @@
       <description>Grok Bot now works with X</description>
       <guid isPermaLink="true">https://x.ai/news/grok-bot-and-x</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Grok 4.5</title>
-      <link>https://x.ai/news/grok-4-5</link>
-      <description>Introducing Grok 4.5</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-4-5</guid>
-      <pubDate>Sun, 30 Aug 2026 22:51:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

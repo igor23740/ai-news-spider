@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:26:41 +0000</lastBuildDate>
     <item>
       <title>Post-training Kimi K3 with Harvey for long</title>
       <link>https://fireworks.ai/blog/post-training-kimi-k3-with-harvey-for-long-horizon-legal-work</link>
       <description>Harvey recently announced its first model, Tenet, post-trained in collaboration with Fireworks for long-horizon legal work.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/post-training-kimi-k3-with-harvey-for-long-horizon-legal-work</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Training API now generally available</title>
+      <link>https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available</link>
+      <description>Today, Fireworks is announcing the general availability of our Training API and Fireworks Lab, completing three paths designed to help teams build their own specialized intelligence.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

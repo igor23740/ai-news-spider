@@ -8,70 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:42:51 +0000</lastBuildDate>
-    <item>
-      <title>Seedance 2.5 vs Seedance 2.0: Tested on a Real Fashion Brief</title>
-      <link>https://www.krea.ai/blog/seedance-2-5-vs-seedance-2-0-tested-on-a-real-fashion-brief</link>
-      <description>Seedance 2.5 vs Seedance 2.0, tested on Krea with a real fashion brief: matched generations checking truth to the clothes, prompt alignment, multi-reference handling, take length, and native resolution.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-vs-seedance-2-0-tested-on-a-real-fashion-brief</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seedance 2.5 vs Kling 3.0: Which AI Video Model Should You Choose?</title>
-      <link>https://www.krea.ai/blog/seedance-2-5-vs-kling-3-0-which-ai-video-model-should-you-choose</link>
-      <description>Seedance 2.5 vs Kling 3.0: compare AI video model limits, references, duration, resolution, and pricing to pick the right one fast.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-vs-kling-3-0-which-ai-video-model-should-you-choose</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seedance 2.5 Makes a Full 30</title>
-      <link>https://www.krea.ai/blog/seedance-2-5-makes-a-full-30-second-ugc-ad-in-one-shot-2026-guide</link>
-      <description>Make a full 30-second UGC video ad in one Seedance 2.5 generation from two reference images. The exact prompts, the script rules, and measured render times.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-makes-a-full-30-second-ugc-ad-in-one-shot-2026-guide</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seedance 2.5 API Access: Guide, Features, Code Examples for long</title>
-      <link>https://www.krea.ai/blog/seedance-2-5-api-access-guide-features-code-examples-for-long-form-video</link>
-      <description>Seedance 2.5 API access: 30 second single-shot generations, 30 reference images, and how it differs from Seedance 2.0, with runnable code and measured render times.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-api-access-guide-features-code-examples-for-long-form-video</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seedance 2.0 API Access: Guide, Pricing, Code Examples for video generation</title>
-      <link>https://www.krea.ai/blog/seedance-2-0-api-access-guide-pricing-code-examples-for-video-generation</link>
-      <description>Seedance 2.0 API access on Krea: the endpoint, a runnable file, every parameter, measured generation times, and what a 1080p clip actually costs.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-0-api-access-guide-pricing-code-examples-for-video-generation</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kling 3.0 API Access: Guide, Pricing, Code Examples for multi</title>
-      <link>https://www.krea.ai/blog/kling-3-0-api-access-guide-pricing-code-examples-for-multi-shot-ai-video</link>
-      <description>Call the Kling 3.0 API on Krea: endpoint, working JavaScript and Python, measured prices and render times, and the multi_prompt field that directs timed shots.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/kling-3-0-api-access-guide-pricing-code-examples-for-multi-shot-ai-video</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 7 Best Free AI Image Generators in 2026</title>
-      <link>https://www.krea.ai/blog/best-free-ai-image-generators-in-2026</link>
-      <description>Compare the best free AI image generators in 2026 — Krea, ChatGPT, Gemini, Ideogram, Leonardo, Copilot, and Canva — by what their free tiers actually let you make.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/best-free-ai-image-generators-in-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Best AI Tools for Architectural Rendering in 2026</title>
-      <link>https://www.krea.ai/blog/best-ai-tools-for-architectural-rendering-in-2026</link>
-      <description>Compare the best AI architectural rendering tools in 2026 — Krea, Veras, D5 Render, LookX, and Midjourney — matched to each stage of a real archviz workflow.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-tools-for-architectural-rendering-in-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 6 Best AI Image Upscalers in 2026</title>
-      <link>https://www.krea.ai/blog/best-ai-image-upscalers-in-2026</link>
-      <description>Compare the best AI image upscalers in 2026 — Krea Enhancer, Magnific, Topaz Gigapixel, Upscayl, Adobe Super Resolution, and Let</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-image-upscalers-in-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 07:15:19 +0000</lastBuildDate>
     <item>
       <title>The Top 10 AI Tools in 2026, by What You Actually Make</title>
       <link>https://www.krea.ai/blog/top-10-ai-tools-in-2026-by-what-you-make</link>

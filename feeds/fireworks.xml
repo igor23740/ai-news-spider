@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:50:00 +0000</lastBuildDate>
-    <item>
-      <title>Post-training Kimi K3 with Harvey for long</title>
-      <link>https://fireworks.ai/blog/post-training-kimi-k3-with-harvey-for-long-horizon-legal-work</link>
-      <description>Harvey recently announced its first model, Tenet, post-trained in collaboration with Fireworks for long-horizon legal work.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/post-training-kimi-k3-with-harvey-for-long-horizon-legal-work</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 07:20:43 +0000</lastBuildDate>
     <item>
       <title>Training API now generally available</title>
       <link>https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available</link>

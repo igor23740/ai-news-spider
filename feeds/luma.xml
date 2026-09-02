@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:17:12 +0000</lastBuildDate>
     <item>
       <title>Best AI Video Generator for TikTok: 7 Tools for Native-Feeling Content</title>
       <link>https://lumalabs.ai/news/ai-video-generator-tiktok</link>
@@ -120,6 +120,13 @@
       <description>Explore features, pricing, AI video models, camera controls, limitations, and how it compares with Luma for creative teams.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/higgsfield-review</guid>
       <pubDate>Tue, 01 Sep 2026 19:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luma AI to Launch Native Arabic-Language Interface for Saudi and Arabic-Speaking Creative Community</title>
+      <link>https://lumalabs.ai/news/luma-ai-to-launch-native-arabic-language-interface-for-saudi-and-arabic-speaking-creative-community</link>
+      <description>The launch will extend Arabic-language support beyond prompting and output to the full Luma Agents interface</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-ai-to-launch-native-arabic-language-interface-for-saudi-and-arabic-speaking-creative-community</guid>
+      <pubDate>Wed, 02 Sep 2026 05:54:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

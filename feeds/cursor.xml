@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:45:02 +0000</lastBuildDate>
     <item>
-      <title>IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years</title>
-      <link>https://cursor.com/blog/imdex</link>
-      <description>Global mining technology leader, IMDEX, is using Cursor to consolidate fragmented geological data systems and re-platform legacy applications at 10x the pace of its pre-AI development model.</description>
-      <guid isPermaLink="true">https://cursor.com/blog/imdex</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Nokia analyzes 50M+ lines of code in two weeks with Cursor</title>
+      <link>https://cursor.com/blog/nokia</link>
+      <description>Two engineers analyzed more than 50 million lines of code in two weeks, work that would have taken a dozen or more experts several months with custom tooling.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/nokia</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Run cloud agents on machines you manage</title>
+      <link>https://cursor.com/blog/self-hosted-machines</link>
+      <description>Cursor cloud agents can now execute on pools of Self-Hosted Machines you manage.</description>
+      <guid isPermaLink="true">https://cursor.com/blog/self-hosted-machines</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

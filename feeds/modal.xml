@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:42 +0000</lastBuildDate>
     <item>
-      <title>Qwen3.8-2.4T-A95B now available on Modal</title>
-      <link>https://modal.com/blog/qwen3-8-2-4t-a95b-now-available-on-modal</link>
-      <description>Qwen3.8-2.4T-A95B by Alibaba, with a 1M token context window, is now available via Modal Auto Endpoints.</description>
-      <guid isPermaLink="true">https://modal.com/blog/qwen3-8-2-4t-a95b-now-available-on-modal</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Modal is expanding in Europe with our new London office</title>
+      <link>https://modal.com/blog/modal-europe-expansion</link>
+      <description>Modal is expanding, and hiring on all fronts across Europe.</description>
+      <guid isPermaLink="true">https://modal.com/blog/modal-europe-expansion</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

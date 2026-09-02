@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:57:29 +0000</lastBuildDate>
     <item>
       <title>From Logo to Brand Kit: How to Create a Brand Identity</title>
       <link>https://www.recraft.ai/blog/from-logo-to-full-brand-kit</link>
       <description>From Logo to Brand Kit: How to Create a Brand Identity</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/from-logo-to-full-brand-kit</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Design a Poster With AI</title>
+      <link>https://www.recraft.ai/blog/how-to-design-a-poster-with-ai</link>
+      <description>How to Design a Poster With AI</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-design-a-poster-with-ai</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

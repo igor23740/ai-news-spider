@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:28:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:04:04 +0000</lastBuildDate>
     <item>
       <title>How to Make AI Ads (and UGC Ads) for Free in 2026</title>
       <link>https://www.krea.ai/blog/how-to-make-ai-ads-and-ugc-ads-for-free-in-2026</link>
@@ -43,6 +43,20 @@
       <description>How to make a white background for photos in 2026 — compare Krea, Canva, Photoroom, remove.bg, and Adobe Express, with exact steps, prompts, and Amazon</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/how-to-make-a-white-background-for-photos-in-2026</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance 2.5 vs Veo 3.1: Which Is Better? Full Comparison (2026)</title>
+      <link>https://www.krea.ai/blog/seedance-2-5-vs-veo-3-1-which-is-better-full-comparison-2026</link>
+      <description>Seedance 2.5 vs Veo 3.1 comparison (2026): learn which AI video model fits speaking shots, resolution, take length, and budget.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-vs-veo-3-1-which-is-better-full-comparison-2026</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make AI Ads That Actually Sell in 2026</title>
+      <link>https://www.krea.ai/blog/how-to-make-ai-ads-that-actually-sell-in-2026</link>
+      <description>Learn how to make AI ads that actually sell in 2026 with a 7-step creative mix, testing rules, and buyer-risk proof.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/how-to-make-ai-ads-that-actually-sell-in-2026</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

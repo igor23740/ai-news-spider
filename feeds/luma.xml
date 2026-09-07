@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:53:38 +0000</lastBuildDate>
     <item>
       <title>Seedance Review 2026: Features, Pricing, and Limitations</title>
       <link>https://lumalabs.ai/news/seedance-review</link>
@@ -113,6 +113,27 @@
       <description>Discover 18 realistic AI image prompts for lifelike portraits, products, interiors, food, and campaigns. Create natural-looking images without the typical AI artifacts.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/realistic-ai-image-prompts</guid>
       <pubDate>Sun, 06 Sep 2026 03:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora in 2026: Is OpenAI</title>
+      <link>https://lumalabs.ai/news/sora-openai-video-generator</link>
+      <description>Learn why OpenAI shut down Sora in 2026, what users need to do before data deletion, and which AI video tools offer production-ready alternatives for teams now.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/sora-openai-video-generator</guid>
+      <pubDate>Mon, 07 Sep 2026 16:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pika 2026: Is It Worth It for AI Video Generation?</title>
+      <link>https://lumalabs.ai/news/pika-ai-video-generation</link>
+      <description>See whether Pika is worth using for AI video generation in 2026, including its strengths, limitations, pricing, editing, and professional campaign use cases.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/pika-ai-video-generation</guid>
+      <pubDate>Mon, 07 Sep 2026 16:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>InVideo AI 2026: Features and Limitations</title>
+      <link>https://lumalabs.ai/news/invideo-ai</link>
+      <description>Discover InVideo AI in 2026, including its features, limitations, pricing, editing capabilities, and how it compares for professional video production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/invideo-ai</guid>
+      <pubDate>Mon, 07 Sep 2026 16:38:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:24:04 +0000</lastBuildDate>
     <item>
       <title>Biosecurity at the frontier</title>
       <link>https://x.ai/news/biosafety-at-the-frontier</link>
@@ -36,13 +36,6 @@
       <description>We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-bot-procurement</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Grok 4.5</title>
-      <link>https://x.ai/news/grok-4-5</link>
-      <description>Introducing Grok 4.5</description>
-      <guid isPermaLink="true">https://x.ai/news/grok-4-5</guid>
-      <pubDate>Mon, 07 Sep 2026 07:27:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

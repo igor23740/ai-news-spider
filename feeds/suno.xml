@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:55:16 +0000</lastBuildDate>
     <item>
-      <title>Your music deserves a face</title>
-      <link>https://suno.com/blog/tips-for-complete-profile</link>
-      <description>Suno is where your music lives. Make it where your artistic identity lives too.</description>
-      <guid isPermaLink="true">https://suno.com/blog/tips-for-complete-profile</guid>
-      <pubDate>Fri, 21 Aug 2026 16:41:00 +0000</pubDate>
+      <title>A New Partnership with Believe and TuneCore</title>
+      <link>https://suno.com/blog/believe-partnership</link>
+      <description>Working with our industry partners to support a healthy music ecosystem</description>
+      <guid isPermaLink="true">https://suno.com/blog/believe-partnership</guid>
+      <pubDate>Tue, 08 Sep 2026 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

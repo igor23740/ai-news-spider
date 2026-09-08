@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:04:49 +0000</lastBuildDate>
     <item>
       <title>How to Design a Poster With AI</title>
       <link>https://www.recraft.ai/blog/how-to-design-a-poster-with-ai</link>
       <description>How to Design a Poster With AI</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-design-a-poster-with-ai</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>State of AI Image Generation in 2026: G2 Data Recap</title>
+      <link>https://www.recraft.ai/blog/what-2-000-g2-reviews-reveal-about-the-state-of-ai-image-generation</link>
+      <description>State of AI Image Generation in 2026: G2 Data Recap</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/what-2-000-g2-reviews-reveal-about-the-state-of-ai-image-generation</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

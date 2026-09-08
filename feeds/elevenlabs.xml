@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:02:30 +0000</lastBuildDate>
     <item>
-      <title>Ashley Kramer joins ElevenLabs as Chief Revenue Officer</title>
-      <link>https://elevenlabs.io/blog/cro</link>
-      <description>Ashley Kramer joins ElevenLabs as CRO to accelerate the company</description>
-      <guid isPermaLink="true">https://elevenlabs.io/blog/cro</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <title>Ethan Tandowsky joins ElevenLabs as Chief Financial Officer</title>
+      <link>https://elevenlabs.io/blog/cfo</link>
+      <description>Ethan will scale our financial infrastructure and shape how we invest in research, product, and global expansion to support our long-term growth.</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/cfo</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

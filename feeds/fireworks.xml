@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:48:29 +0000</lastBuildDate>
     <item>
-      <title>Training API now generally available</title>
-      <link>https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available</link>
-      <description>Today, Fireworks is announcing the general availability of our Training API and Fireworks Lab, completing three paths designed to help teams build their own specialized intelligence.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Making the leap to specialized intelligence</title>
+      <link>https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence</link>
+      <description>The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence</guid>
+      <pubDate>Thu, 09 Sep 2027 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

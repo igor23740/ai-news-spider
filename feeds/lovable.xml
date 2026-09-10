@@ -8,216 +8,216 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:55:20 +0000</lastBuildDate>
     <item>
-      <title>Introducing Lovable Cloud and AI</title>
-      <link>https://lovable.dev/blog/lovable-cloud</link>
-      <description>Lovable Cloud is a built-in backend for Lovable apps. With it you can build apps that save your data, let users sign up and log in, and connect safely with other services just by telling Lovable what you want done. No external dashboards or configuration screens. Everything just works, right within your Lovable project.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/lovable-cloud</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>From Idea to Reality: How Bilal Built Aneta, an AI-Powered HR Agent, with Lovable</title>
+      <link>https://lovable.dev/blog/2025-01-21-from-idea-to-reality-how-bilal-built-aneta-an-ai-powered-hr-agent-with-lovable</link>
+      <description>Discover how Bilal turned his vision for Aneta, an AI-powered HR engagement platform, into a full-fledged product in just one month using Lovable’s groundbreaking development tools.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-21-from-idea-to-reality-how-bilal-built-aneta-an-ai-powered-hr-agent-with-lovable</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI usage in Lovable apps through Lovable AI is FREE (with Google Gemini models) until October 6th!</title>
-      <link>https://lovable.dev/blog/free-lovable-ai</link>
-      <description>AI usage in Lovable apps through Lovable AI is FREE (with Google Gemini models) until October 6th!</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/free-lovable-ai</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How a Venture Capitalist Rebuilt His Website and Internal Data Platform with Lovable</title>
+      <link>https://lovable.dev/blog/2025-01-23-how-a-venture-capitalist-rebuilt-his-website-and-internal-data-platform-with-lovable</link>
+      <description>A venture capitalist shares his journey of discovering Lovable, leveraging its unique features to rebuild his website, optimize backend systems, and boost productivity tenfold.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-23-how-a-venture-capitalist-rebuilt-his-website-and-internal-data-platform-with-lovable</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Shopify Integration with Lovable: What You Need to Know</title>
-      <link>https://lovable.dev/blog/shopify-integration</link>
-      <description>Learn how to integrate Shopify with no-code and AI tools to build smarter ecommerce apps.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/shopify-integration</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How a Canadian Infanteer Built 10 Apps in Record Time with Lovable.dev</title>
+      <link>https://lovable.dev/blog/2025-01-20-how-a-canadian-infanteer-built-10-apps-in-record-time-with-lovable-dev</link>
+      <description>Discover how Tomas, a Canadian infanteer and developer, leveraged Lovable to create and launch 10 apps, including the innovative DummyForms, while mastering front-end and back-end development.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-20-how-a-canadian-infanteer-built-10-apps-in-record-time-with-lovable-dev</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Build apps from a link with Lovable Build with URL</title>
-      <link>https://lovable.dev/blog/introducing-lovable-api-build-with-url</link>
-      <description>Build apps from a link with Lovable Build with URL</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/introducing-lovable-api-build-with-url</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>From Idea to Full-Blown Product in a Month</title>
+      <link>https://lovable.dev/blog/2025-01-30-from-idea-to-full-blown-product-in-a-month</link>
+      <description>Discover how Tom, a holistic health expert with no coding background, built and launched Elora Health in just one month using Lovable, navigating challenges, AI iterations, and an unexpected journey into software development.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-30-from-idea-to-full-blown-product-in-a-month</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>One year of Lovable: Welcome to the age of the builder</title>
-      <link>https://lovable.dev/blog/one-year-of-lovable</link>
-      <description>One year of Lovable: Welcome to the age of the builder</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/one-year-of-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>From Fashion to Founding: How Talisha Found a Home in Lovable’s Community</title>
+      <link>https://lovable.dev/blog/2025-01-31-from-fashion-to-founding-how-talisha-found-a-home-in-lovables-community</link>
+      <description>Lovable community champion Talisha (@RealTalishaW) shares her journey from fashion design to software engineering, her love for AI-driven development, and how Lovable became her go-to tool for building and innovating.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-31-from-fashion-to-founding-how-talisha-found-a-home-in-lovables-community</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable acquires Molnett and expands our platform team</title>
-      <link>https://lovable.dev/blog/lovable-welcomes-molnett</link>
-      <description>Lovable acquires Molnett and expands our platform team</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/lovable-welcomes-molnett</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>Building HealthSync in Hours</title>
+      <link>https://lovable.dev/blog/building-healthsync-in-hours-1</link>
+      <description>Discover how Harsh Patel turned a health-tracking dream into reality—in just a single afternoon—using Lovable’s AI-driven development platform.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/building-healthsync-in-hours-1</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable Now Supports Claude Opus 4.5</title>
-      <link>https://lovable.dev/blog/claude-opus-4-5-in-chat</link>
-      <description>Lovable Now Supports Claude Opus 4.5</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/claude-opus-4-5-in-chat</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>A Cornell Student’s Perspective on Building with LLMs</title>
+      <link>https://lovable.dev/blog/building-with-llm-cornell-student</link>
+      <description>Discover how a Cornell University student with minimal coding experience is leveraging AI and Lovable to transform ideation into practical, real-world projects.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/building-with-llm-cornell-student</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Better planning, better apps: Chat mode &amp; Follow-up questions</title>
-      <link>https://lovable.dev/blog/chat-mode-and-questions</link>
-      <description>Better planning, better apps: Chat mode &amp; Follow-up questions</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/chat-mode-and-questions</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>Building the Future of No-Code: A Candid Chat with Smash Capital’s Kate</title>
+      <link>https://lovable.dev/blog/smash-capital-lovable-ai</link>
+      <description>Discover how a seasoned software investor and self-proclaimed “non-technical” builder brought her passion project to life using Lovable—and why she believes it’s a game-changer for no-code development.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/smash-capital-lovable-ai</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Perplexity, ElevenLabs, Firecrawl, and Miro: now in Lovable</title>
-      <link>https://lovable.dev/blog/ai-connectors</link>
-      <description>Perplexity, ElevenLabs, Firecrawl, and Miro: now in Lovable</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/ai-connectors</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>Building an AI-Powered Financial Wellness: Step by Step Guide</title>
+      <link>https://lovable.dev/blog/ai-powered-financial-wellness</link>
+      <description>A team used Lovable AI to rapidly build an AI-powered financial wellness platform with real-time budgeting, personalized investment recommendations, and seamless backend and UI integrations.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/ai-powered-financial-wellness</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable raises $330M to power the age of the builder</title>
-      <link>https://lovable.dev/blog/series-b</link>
-      <description>Lovable raises $330M to power the age of the builder</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/series-b</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Lovable Transformed Umar</title>
+      <link>https://lovable.dev/blog/uottohack-umar-app-development</link>
+      <description>Lovable streamlines app development with AI-powered UI generation, seamless backend setup, and GitHub integration.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/uottohack-umar-app-development</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Build more. Manage less.</title>
-      <link>https://lovable.dev/blog/a-smarter-lovable</link>
-      <description>Lovable now handles more complex builds more autonomously with less back-and-forth. Hand off ambitious ideas, queue up your thinking, and ship with confidence.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/a-smarter-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>Reimagining Healthcare Innovation with NHS</title>
+      <link>https://lovable.dev/blog/reimagining-healthcare-innovation-nhs</link>
+      <description>Dive into the inspiring journey of Arun, an NHS pharmacist who overcame coding barriers to develop 20+ healthcare apps with Lovable, sparking hackathons and a wave of clinical innovation.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/reimagining-healthcare-innovation-nhs</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 4.6 now in Lovable</title>
-      <link>https://lovable.dev/blog/opus-4-6-now-in-lovable</link>
-      <description>Claude Opus 4.6 now in Lovable</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/opus-4-6-now-in-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Rezaul Supercharged Lovable with Voice Input, Prompt Libraries, and More</title>
+      <link>https://lovable.dev/blog/supercharge-lovable-chrome-extension</link>
+      <description>Learn how network engineer and weekend developer Rezaul built a powerful Chrome extension—complete with voice input, prompt libraries, SEO tools, and more—that takes Lovable to the next level.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/supercharge-lovable-chrome-extension</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Go beyond building apps with Lovable</title>
-      <link>https://lovable.dev/blog/go-beyond-building-full-stack-apps-with-lovable</link>
-      <description>You can now analyze data, create and edit files, generate business docs, and turn things like spreadsheets into working apps without ever leaving Lovable.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/go-beyond-building-full-stack-apps-with-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How One Recruiter Built an AI Hiring Platform with Lovable</title>
+      <link>https://lovable.dev/blog/ai-hiring-platform-recruiter</link>
+      <description>How a top recruiter used Lovable to build an AI-driven hiring platform, cutting development time from months to days and reshaping the future of hiring.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/ai-hiring-platform-recruiter</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable partners with Aikido to offer affordable pentesting for builders</title>
-      <link>https://lovable.dev/blog/announcing-pentesting</link>
-      <description>Introduced Penetration Testing for all Lovable projects.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/announcing-pentesting</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Mindaugas Built Backchannel with Lovable</title>
+      <link>https://lovable.dev/blog/from-recruitment-to-innovation-backchannel</link>
+      <description>How Mindaugas used Lovable to build Backchannel without coding experience, proving that AI-driven tools are reshaping education and product development.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/from-recruitment-to-innovation-backchannel</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 4.7 now in Lovable</title>
-      <link>https://lovable.dev/blog/opus-4-7-now-in-lovable</link>
-      <description>Claude Opus 4.7 now in Lovable</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/opus-4-7-now-in-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>From 3D Artist to AI Maker: How Zohar Vanunu Built a Full SaaS Platform with Lovable</title>
+      <link>https://lovable.dev/blog/zohar-vanunu-magican-ai-maker</link>
+      <description>Zohar Vanunu used Lovable to turn AI ideas into a real platform, a national course, and a new career.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/zohar-vanunu-magican-ai-maker</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Wiz findings now in Lovable</title>
-      <link>https://lovable.dev/blog/wiz-findings-now-in-lovable</link>
-      <description>Wiz security scanning is now native to Lovable — findings surface in every project</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/wiz-findings-now-in-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Lovable Empowered Grammy Nominated Music Producer and Filmmaker Mike Burns to Build an AI Filmmaking Studio Platform</title>
+      <link>https://lovable.dev/blog/mike-burns-ai-filmmaking-studio-platform</link>
+      <description>Grammy-nominated filmmaker Mike Burns used Lovable—without any coding experience—to build MVP, an AI-powered filmmaking studio that</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/mike-burns-ai-filmmaking-studio-platform</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Turn repeated instructions into reusable skills in Lovable</title>
-      <link>https://lovable.dev/blog/introducing-skills</link>
-      <description>Learn how skills in Lovable let you save reusable instructions as markdown files, so you stop repeating yourself every time you build.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/introducing-skills</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>From command line to community impact: How Shalini Ananda built Fire Fairness with Lovable</title>
+      <link>https://lovable.dev/blog/from-command-line-to-community-impact</link>
+      <description>How Shalini Ananda created a fire equity engine to support victims of the 2025 Los Angeles wildfires by using Lovable.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/from-command-line-to-community-impact</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</title>
-      <link>https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</link>
-      <description>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Sabrine used Lovable to Fight Gender-Based Violence in Brazil</title>
+      <link>https://lovable.dev/blog/how-sabrine-matos-built-plinq</link>
+      <description>Sabrine Matos turned an urgent social issue facing women in Brazil into real-world impact by using Lovable. Without a technical background, she built Plinq — a women</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-sabrine-matos-built-plinq</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing subagents: Lovable is now better at multitasking</title>
-      <link>https://lovable.dev/blog/subagents-in-lovable</link>
-      <description>Lovable can now create subagents to help it research, explore, and search your project in parallel.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/subagents-in-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Lumoo used Lovable to transform the fashion industry from the inside out</title>
+      <link>https://lovable.dev/blog/lumoo-ai-fashion-platform</link>
+      <description>Henrik Skagerlind Fasth and Peter Thörngren turned decades of fashion and retail experience into Lumoo, a centralized content creation platform transforming how fashion brands create, manage, and scale digital content.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/lumoo-ai-fashion-platform</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Lovable protects your apps automatically</title>
-      <link>https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</link>
-      <description>Learn about our new scan profiles, security memory, and security scanning scheduling.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Thinkific uses Lovable to prototype the future</title>
+      <link>https://lovable.dev/blog/thinkific</link>
+      <description>How Thinkific uses Lovable to prototype the future</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/thinkific</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Workspace Insights: See every project, govern with confidence</title>
-      <link>https://lovable.dev/blog/workspace-insights-govern-your-workspace</link>
-      <description>Workspace Insights brings every Enterprise project into one view in Security Center — see what</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/workspace-insights-govern-your-workspace</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How AppDirect turned non-technical teams into builders with Lovable</title>
+      <link>https://lovable.dev/blog/appdirect</link>
+      <description>How AppDirect turned non-technical teams into builders with Lovable</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/appdirect</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Your Lovable app now works inside ChatGPT and Claude</title>
-      <link>https://lovable.dev/blog/agent-integrations</link>
-      <description>Starting today, you can make your Lovable app available inside AI tools — your users can use it directly in ChatGPT, Claude, or their AI tool of choice.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/agent-integrations</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Sentry uses Lovable to build what can’t be bought</title>
+      <link>https://lovable.dev/blog/sentry</link>
+      <description>How Sentry uses Lovable to build what can’t be bought</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/sentry</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable is the first coding agent platform to earn AIUC-1 certification</title>
-      <link>https://lovable.dev/blog/aiuc-1</link>
-      <description>Lovable is the first AI coding agent platform to achieve AIUC-1, the industry</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/aiuc-1</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How n8n accelerates product development with Lovable</title>
+      <link>https://lovable.dev/blog/n8n</link>
+      <description>How n8n accelerates product development with Lovable</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/n8n</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Enterprise features July roundup</title>
-      <link>https://lovable.dev/blog/enterprise-features-july-roundup</link>
-      <description>A roundup of recent Lovable releases that give enterprise admins governance and control — AIUC-1 certification, reusable authentication, publishing controls, Workspace Insights, security scanning, and cleanup of abandoned apps.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/enterprise-features-july-roundup</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Delivery Hero Green-Lights Features 66% Faster with Lovable</title>
+      <link>https://lovable.dev/blog/deliveryhero</link>
+      <description>How Delivery Hero Green-Lights Features 66% Faster with Lovable</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/deliveryhero</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable apps can now work with your users</title>
-      <link>https://lovable.dev/blog/app-user-connectors</link>
-      <description>App user connectors let each person using your Lovable app connect their own tools, so it runs on their data with the permissions they already have.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/app-user-connectors</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How ElevenLabs Builds Mind-Blowing Demos with Lovable</title>
+      <link>https://lovable.dev/blog/elevenlabs</link>
+      <description>How ElevenLabs Builds Mind-Blowing Demos with Lovable</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/elevenlabs</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>A dedicated security page for every business built on Lovable</title>
-      <link>https://lovable.dev/blog/trust-centers-for-business</link>
-      <description>Every app published on Lovable now gets a trust center — a dedicated security page at your app</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/trust-centers-for-business</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>From Buy to Build: How eXp Realty cancelled millions in SaaS contracts for custom software built with Lovable</title>
+      <link>https://lovable.dev/blog/exprealty</link>
+      <description>From Buy to Build: How eXp Realty cancelled millions in SaaS contracts for custom software built with Lovable</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/exprealty</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable + Cerebras: investing in infrastructure that keeps up with your ideas</title>
-      <link>https://lovable.dev/blog/cerebras-partnership</link>
-      <description>Lovable is partnering with Cerebras to build toward dramatically reduced response times by 2027, so you spend less time waiting and more time building.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/cerebras-partnership</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How a startup replaced a $40,000 Salesforce contract with a Lovable-built CRM</title>
+      <link>https://lovable.dev/blog/how-a-startup-replaced-a-salesforce-contract-with-a-lovable-built-crm</link>
+      <description>How a startup replaced a $40,000 Salesforce contract with a Lovable-built CRM</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-a-startup-replaced-a-salesforce-contract-with-a-lovable-built-crm</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>We just raised $400M in Series C funding to help people run their businesses</title>
-      <link>https://lovable.dev/blog/series-c</link>
-      <description>Lovable has raised $400 million in Series C funding at a $13.3 billion valuation, led by Menlo Ventures and the Scaleup Europe Fund, managed by EQT.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/series-c</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Lovable built a product launch tracker</title>
+      <link>https://lovable.dev/blog/how-lovable-built-a-product-launch-tracker</link>
+      <description>How Lovable built a product launch tracker</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-built-a-product-launch-tracker</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lovable now builds with Fable 5.1</title>
-      <link>https://lovable.dev/blog/fable-5-1-now-in-lovable</link>
-      <description>Lovable now builds with Fable 5.1</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/fable-5-1-now-in-lovable</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Lovable built an industry intelligence tool</title>
+      <link>https://lovable.dev/blog/how-lovable-built-an-industry-intelligence-tool</link>
+      <description>How Lovable built an industry intelligence tool</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-built-an-industry-intelligence-tool</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing drafts: an easier way to collaborate and explore new ideas</title>
-      <link>https://lovable.dev/blog/introducing-drafts</link>
-      <description>Now you and your team can explore different versions of your project in parallel while keeping your live app unchanged.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/introducing-drafts</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+      <title>How Nursa built a new product in 48 hours and changed how its entire company ships software</title>
+      <link>https://lovable.dev/blog/how-nursa-built-a-new-product-in-48-hours-and-changed-how-its-entire-company-ships-software</link>
+      <description>Nursa is a healthcare staffing marketplace connecting 5,000+ facilities to 500,000+ nurses. After VP of Product Nenad Ivanovic built a net-new enterprise product in a single weekend using Lovable, the CEO went all in: giving all 200+ employees access. Teams from finance to compliance are building with Lovable and Nursa is set to retire over 10 SaaS contracts.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-nursa-built-a-new-product-in-48-hours-and-changed-how-its-entire-company-ships-software</guid>
+      <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

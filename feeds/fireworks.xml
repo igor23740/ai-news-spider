@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:55:48 +0000</lastBuildDate>
+    <item>
+      <title>Gen-1 Slides: Opus 5</title>
+      <link>https://fireworks.ai/blog/gen-1-slides-opus-5-level-decks-at-a-fraction-of-the-cost</link>
+      <description>Genspark partnered with Fireworks Lab to post-train MiniMax M3 into Gen-1 Slides, a model that produces Opus 5-level decks at roughly one-tenth the cost per finished deck.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/gen-1-slides-opus-5-level-decks-at-a-fraction-of-the-cost</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Making the leap to specialized intelligence</title>
       <link>https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence</link>

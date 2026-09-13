@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:26:07 +0000</lastBuildDate>
     <item>
       <title>Ethan Tandowsky joins ElevenLabs as Chief Financial Officer</title>
       <link>https://elevenlabs.io/blog/cfo</link>
       <description>Ethan will scale our financial infrastructure and shape how we invest in research, product, and global expansion to support our long-term growth.</description>
       <guid isPermaLink="true">https://elevenlabs.io/blog/cfo</guid>
       <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs and Universal Music Group enter strategic agreement</title>
+      <link>https://elevenlabs.io/blog/umg</link>
+      <description>Multi-year licensing agreement and strategic collaboration, starting with launch of a new AI-powered music platform for fans.</description>
+      <guid isPermaLink="true">https://elevenlabs.io/blog/umg</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

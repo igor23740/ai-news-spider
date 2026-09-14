@@ -8,13 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:35:54 +0000</lastBuildDate>
     <item>
       <title>What Is Krea Agent? A Plain Guide to Krea</title>
       <link>https://www.krea.ai/blog/what-is-krea-agent</link>
       <description>Krea Agent is an AI agent for creative production. You describe the work, it picks the models, generates images, video and audio, edits the results, and files them in a shared context library. Here is what it does, how it works, who gets it, and where it stops.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/what-is-krea-agent</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>getimg.ai Review 2026: Is It Free, Is It Safe, and How to Use It (Plus 3 Alternatives)</title>
+      <link>https://www.krea.ai/blog/getimg-ai-review-is-it-free-safe-and-how-to-use-it-in-2026</link>
+      <description>What getimg.ai does, whether it still has a free plan, what its privacy policy says, a settings recipe, and how it compares to Krea, Leonardo.Ai, and Ideogram — verified September 2026.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/getimg-ai-review-is-it-free-safe-and-how-to-use-it-in-2026</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best AI Video Enhancers in 2026: Turn Blurry or Old Video into HD and 4K (6 Tools Compared)</title>
+      <link>https://www.krea.ai/blog/best-ai-video-enhancers-in-2026-blurry-video-to-hd-and-4k</link>
+      <description>Topaz Video, Krea Video Upscale, CapCut, TensorPix, AVCLabs, and Video2X compared for old and blurry footage: what upscaling really does, prices, free limits, and settings recipes, verified September 2026.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-video-enhancers-in-2026-blurry-video-to-hd-and-4k</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best AI Photo Enhancers in 2026: Fix Blurry, Low</title>
+      <link>https://www.krea.ai/blog/best-ai-photo-enhancers-in-2026</link>
+      <description>Krea Enhancer, Remini, Topaz Photo, Adobe Lightroom, Let</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-photo-enhancers-in-2026</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

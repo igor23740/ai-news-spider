@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:05:00 +0000</lastBuildDate>
     <item>
-      <title>Making the leap to specialized intelligence</title>
-      <link>https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence</link>
-      <description>The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence</guid>
-      <pubDate>Thu, 09 Sep 2027 00:00:00 +0000</pubDate>
+      <title>Phylo brings frontier AI to more scientists with open models on Fireworks</title>
+      <link>https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks</link>
+      <description>Phylo cut inference cost 60% while doubling users month-on-month, running Biomni Lab</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

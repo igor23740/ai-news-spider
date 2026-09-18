@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:32:37 +0000</lastBuildDate>
     <item>
       <title>Memory in Grok Build</title>
       <link>https://x.ai/news/grok-build-memory</link>
       <description>Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.</description>
       <guid isPermaLink="true">https://x.ai/news/grok-build-memory</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="true">https://x.ai/news/grok-business</guid>
+      <pubDate>Fri, 18 Sep 2026 07:32:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

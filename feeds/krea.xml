@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:28:07 +0000</lastBuildDate>
     <item>
       <title>Free Stock Photos vs. AI</title>
       <link>https://www.krea.ai/blog/free-stock-photos-vs-ai-generated-images-in-2026</link>
@@ -36,6 +36,34 @@
       <description>Krea Agent now has a timeline video editor. Put generated clips on a timeline, cut them, extend a clip with a new generation, add audio, and export one MP4. A step-by-step guide.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/how-to-edit-video-with-krea-agent</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Stable Diffusion Free in 2026? Where to Get It and What It Costs</title>
+      <link>https://www.krea.ai/blog/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026</link>
+      <description>Which Stable Diffusion models are free, what the Community License</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Midjourney Free in 2026? Pricing, Video, and Free Alternatives</title>
+      <link>https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026</link>
+      <description>Whether Midjourney has a free tier today, what Basic, Standard, Pro, and Mega cost, how its video model is billed, what the lawsuits say, and which free alternatives exist. Verified September 2026.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Canva Free? What the Free Plan and Canva AI Include in 2026</title>
+      <link>https://www.krea.ai/blog/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026</link>
+      <description>Is Canva Free? What the Free Plan and Canva AI Include in 2026</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Canva Remove Background? Free Plan Limits and Alternatives in 2026</title>
+      <link>https://www.krea.ai/blog/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026</link>
+      <description>Can Canva remove a background? Yes, on paid plans only. The exact steps, the 9 MB and vector limits, and how Photoshop AI and Krea compare, verified September 2026.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

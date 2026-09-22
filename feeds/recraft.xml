@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 23:29:47 +0000</lastBuildDate>
-    <item>
-      <title>V4 Styles: The Ultimate Field Guide</title>
-      <link>https://www.recraft.ai/blog/v4-styles-the-ultimate-field-guide</link>
-      <description>V4 Styles: The Ultimate Field Guide</description>
-      <guid isPermaLink="true">https://www.recraft.ai/blog/v4-styles-the-ultimate-field-guide</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 07:54:54 +0000</lastBuildDate>
     <item>
       <title>How to Create Custom Icons in One Consistent Style</title>
       <link>https://www.recraft.ai/blog/how-to-create-custom-icons</link>
@@ -29,6 +22,13 @@
       <description>How to Make an AI Avatar From a Photo</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-make-ai-avatar-from-photo</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is a Vector Image? Formats, Uses, and Limits</title>
+      <link>https://www.recraft.ai/blog/what-is-a-vector-image</link>
+      <description>What Is a Vector Image? Formats, Uses, and Limits</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/what-is-a-vector-image</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Reve AI Is Shutting Down: Dates + Best Alternative</title>

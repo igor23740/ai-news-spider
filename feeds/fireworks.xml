@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 18:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:14:50 +0000</lastBuildDate>
     <item>
       <title>Phylo brings frontier AI to more scientists with open models on Fireworks</title>
       <link>https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks</link>
@@ -22,6 +22,13 @@
       <description>18 models, 113 coding tasks. The best single model gets 74.1% at $6.52. A perfect router gets 97.6% at $1.88. See how FireRouter closes the gap.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/the-frontier-isnt-a-model-its-a-router</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing The Specialized Intelligence Index</title>
+      <link>https://fireworks.ai/blog/introducing-the-specialized-intelligence-index</link>
+      <description>Fireworks introduces the Specialized Intelligence Index, a one-stop destination for real-work benchmarks across industries.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/introducing-the-specialized-intelligence-index</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

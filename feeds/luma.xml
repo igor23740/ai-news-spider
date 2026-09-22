@@ -8,98 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:56:11 +0000</lastBuildDate>
-    <item>
-      <title>LTX Studio Alternatives: 8 Tools for Storyboard-to-Video in 2026</title>
-      <link>https://lumalabs.ai/news/ltx-studio-alternatives</link>
-      <description>Explore 8 LTX Studio alternatives for storyboard-to-video in 2026. Compare Luma, Kling, Runway, Google Flow, and more for AI video production and creative workflows.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ltx-studio-alternatives</guid>
-      <pubDate>Tue, 15 Sep 2026 08:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Storyboard Tools That Render Video in 2026: 7 Alternatives</title>
-      <link>https://lumalabs.ai/news/storyboard-tools-render-video</link>
-      <description>Explore 7 storyboard tools that render video in 2026. Compare Luma, Katalist, Shai, Filmustage, LTX Studio, Kling, and more for video production workflows.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/storyboard-tools-render-video</guid>
-      <pubDate>Tue, 15 Sep 2026 08:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>StudioBinder Alternatives for AI-First Production Teams</title>
-      <link>https://lumalabs.ai/news/studiobinder-alternatives</link>
-      <description>Explore 7 StudioBinder alternatives for AI-first production teams. Compare Luma, Runway, Premiere Pro, DaVinci Resolve, and more for AI video workflows.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/studiobinder-alternatives</guid>
-      <pubDate>Tue, 15 Sep 2026 08:55:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best Creative Automation Platforms in 2026: 10 Tools for Ad Variants at Scale</title>
-      <link>https://lumalabs.ai/news/creative-automation-platforms</link>
-      <description>Compare the 10 best creative automation platforms in 2026 for scaling ad variants. Explore tools for AI video, personalization, localization, brand control, and more.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/creative-automation-platforms</guid>
-      <pubDate>Tue, 15 Sep 2026 09:33:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-Scene AI Video: How to Build a Sequence That Holds Together</title>
-      <link>https://lumalabs.ai/news/multi-scene-ai-video</link>
-      <description>Learn how to build cohesive multi-scene AI videos with storyboards, character references, prompt templates, continuity controls, and precision editing.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/multi-scene-ai-video</guid>
-      <pubDate>Tue, 15 Sep 2026 09:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Explainer Video Prompts 2026: 15 Examples for SaaS and Product</title>
-      <link>https://lumalabs.ai/news/ai-explainer-video-prompts</link>
-      <description>Explore 15 AI explainer video prompts for SaaS and product marketing, with examples for demos, launches, onboarding, use cases, customer stories, and more tips</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-explainer-video-prompts</guid>
-      <pubDate>Tue, 15 Sep 2026 10:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sora Pricing: How Much Does It Cost in 2026</title>
-      <link>https://lumalabs.ai/news/sora-pricing</link>
-      <description>Explore Sora pricing in 2026, including API costs, resolution rates, batch discounts, enterprise pricing, sunset plans, and how Sora compares with AI video tools.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/sora-pricing</guid>
-      <pubDate>Tue, 15 Sep 2026 10:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synthesia Pricing: How Much Does It Cost in 2026?</title>
-      <link>https://lumalabs.ai/news/synthesia-pricing</link>
-      <description>Explore Synthesia pricing for 2026, including Basic, Starter, Creator, and Enterprise plans, features, costs, and how it compares with cinematic AI video tools.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/synthesia-pricing</guid>
-      <pubDate>Tue, 15 Sep 2026 10:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI B-Roll Prompts: 25 Filler Shots Worth Generating</title>
-      <link>https://lumalabs.ai/news/ai-b-roll-prompts</link>
-      <description>Explore 25 AI B-roll prompts for establishing shots, product close-ups, atmospheric footage, tech scenes, transitions, and filler shots for video campaigns.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-b-roll-prompts</guid>
-      <pubDate>Tue, 15 Sep 2026 10:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pika Pricing: How Much Does It Cost in 2026?</title>
-      <link>https://lumalabs.ai/news/pika-pricing</link>
-      <description>Explore Pika pricing in 2026, including free and paid plans, credits, features, limitations, and how Pika compares with other AI video generation tools online.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/pika-pricing</guid>
-      <pubDate>Tue, 15 Sep 2026 10:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>InVideo AI Pricing: How Much Does It Cost in 2026?</title>
-      <link>https://lumalabs.ai/news/invideo-ai-pricing</link>
-      <description>Explore InVideo AI pricing in 2026, including Basic, Pro, Ultra, Team, Scale, and Enterprise plans, credits, features, discounts, and key limits for creators.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/invideo-ai-pricing</guid>
-      <pubDate>Tue, 15 Sep 2026 11:27:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Lip Sync: How to Prompt Dialogue That Matches the Mouth</title>
-      <link>https://lumalabs.ai/news/ai-lip-sync</link>
-      <description>Learn how to prompt AI lip sync for natural dialogue, accurate mouth movements, multilingual localization, and video workflows built for fast creative revision.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-lip-sync</guid>
-      <pubDate>Tue, 15 Sep 2026 12:31:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Video Transition Prompts: Cuts, Wipes, and Match Cuts</title>
-      <link>https://lumalabs.ai/news/ai-video-transition-prompts</link>
-      <description>Learn AI video transition prompts for cuts, wipes, and match cuts, with prompt formulas, keyframe techniques, and workflows for seamless scene connections fast.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-transition-prompts</guid>
-      <pubDate>Tue, 15 Sep 2026 13:15:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 13:41:29 +0000</lastBuildDate>
     <item>
       <title>Best AI Video Generators for Faceless YouTube Channels in 2026</title>
       <link>https://lumalabs.ai/news/ai-video-generators-faceless-youtube-channels</link>
@@ -148,6 +57,62 @@
       <description>Explore the best AI packaging design tools for CPG brands in 2026. Compare tools for concepts, mockups, print-ready files, production, and campaign assets.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-packaging-design-tools-cpg-brands</guid>
       <pubDate>Mon, 21 Sep 2026 11:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Food Photography Prompts for Restaurants and CPG Brands</title>
+      <link>https://lumalabs.ai/news/ai-food-photography-prompts</link>
+      <description>AI food photography prompts for restaurants and CPG brands. Learn 7-element prompts, lighting techniques, and workflows for creating menu-ready images at scale.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-food-photography-prompts</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Prompts for Branding: Visual Identity, Tone, and Consistency</title>
+      <link>https://lumalabs.ai/news/ai-prompts-branding</link>
+      <description>AI branding prompts for visual identity, brand voice, localization, and consistency. Explore 10 practical prompts for creating cohesive, production-ready marketing assets.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-branding</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Photo Prompts for Real Estate Listings and Staging in 2026</title>
+      <link>https://lumalabs.ai/news/ai-photo-prompts-real-estate-listings-staging</link>
+      <description>AI photo prompts for real estate listings and virtual staging in 2026. Learn proven prompts for interiors, exteriors, editing, and property marketing.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-photo-prompts-real-estate-listings-staging</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Text-to-Video Prompts: How to Describe a Shot the Model Understands</title>
+      <link>https://lumalabs.ai/news/text-video-prompts</link>
+      <description>Master text-to-video prompts with a 5-element formula, camera vocabulary, motion techniques, and refinement tips for creating consistent, campaign-ready AI video.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/text-video-prompts</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Music Video Prompts: 20 Ideas by Genre</title>
+      <link>https://lumalabs.ai/news/ai-music-video-prompts</link>
+      <description>Create better AI music videos with 20 genre-specific prompts for pop, hip-hop, R&amp;B, EDM, rock, indie, anime, and more.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-music-video-prompts</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Prompts for Marketing Teams: 30 Campaign-Ready Examples</title>
+      <link>https://lumalabs.ai/news/ai-prompts-marketing-teams</link>
+      <description>Explore 30 campaign-ready AI prompts for marketing teams covering strategy, content, visuals, localization, A/B testing, optimization, and brand consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-marketing-teams</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Lighting Prompts: Golden Hour, Hard Light, Practicals, and Neon</title>
+      <link>https://lumalabs.ai/news/ai-lighting-prompts</link>
+      <description>AI lighting prompts for golden hour, hard light, practicals, and neon. Learn techniques and templates for consistent, cinematic AI-generated visuals.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-lighting-prompts</guid>
+      <pubDate>Tue, 22 Sep 2026 09:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Fashion Photography Prompts for Lookbooks and Campaigns (2026)</title>
+      <link>https://lumalabs.ai/news/ai-fashion-photography-prompts</link>
+      <description>AI fashion photography prompts for lookbooks and campaigns in 2026. Learn 15 production-ready prompts for consistent models, styling, lighting, and campaign assets.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-fashion-photography-prompts</guid>
+      <pubDate>Tue, 22 Sep 2026 12:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

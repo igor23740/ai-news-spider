@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:39:11 +0000</lastBuildDate>
     <item>
       <title>Best AI Video Generators for Faceless YouTube Channels in 2026</title>
       <link>https://lumalabs.ai/news/ai-video-generators-faceless-youtube-channels</link>
@@ -113,6 +113,13 @@
       <description>AI fashion photography prompts for lookbooks and campaigns in 2026. Learn 15 production-ready prompts for consistent models, styling, lighting, and campaign assets.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-fashion-photography-prompts</guid>
       <pubDate>Tue, 22 Sep 2026 12:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Creative Teams Are Integrating AI in 2026</title>
+      <link>https://lumalabs.ai/news/ai-adoption-creative-work-2026</link>
+      <description>A survey of 760 creative professionals maps where AI adoption actually stands in 2026: strong on access, thin on training and workflow fit.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-adoption-creative-work-2026</guid>
+      <pubDate>Tue, 22 Sep 2026 21:50:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

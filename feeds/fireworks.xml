@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:43:17 +0000</lastBuildDate>
     <item>
       <title>Phylo brings frontier AI to more scientists with open models on Fireworks</title>
       <link>https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks</link>
@@ -29,6 +29,13 @@
       <description>Fireworks introduces the Specialized Intelligence Index, a one-stop destination for real-work benchmarks across industries.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/introducing-the-specialized-intelligence-index</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Every byte counts: ARCv3 and the case for cross</title>
+      <link>https://fireworks.ai/blog/arcv3-and-the-case-for-cross-region-rl</link>
+      <description>Fireworks’ ARCv3 delivers lossless BF16 weight updates nearly 50% smaller than ARCv2, making cross-region reinforcement learning more practical.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/arcv3-and-the-case-for-cross-region-rl</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

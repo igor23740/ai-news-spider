@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 08:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:09:34 +0000</lastBuildDate>
     <item>
       <title>How to Make an AI Avatar From a Photo</title>
       <link>https://www.recraft.ai/blog/how-to-make-ai-avatar-from-photo</link>
@@ -29,6 +29,13 @@
       <description>Meet Recraft V4.1 Flash: The Fastest Image Model on the Market</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/meet-recraft-v4-1-flash</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Generate Images in Claude (2026 Guide)</title>
+      <link>https://www.recraft.ai/blog/how-to-generate-images-in-claude</link>
+      <description>How to Generate Images in Claude (2026 Guide)</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-generate-images-in-claude</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Reve AI Is Shutting Down: Dates + Best Alternative</title>

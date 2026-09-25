@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 14:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:59:38 +0000</lastBuildDate>
     <item>
       <title>Building the Future of Software Engineering in Latin America</title>
       <link>https://cognition.com/blog/devin-comes-to-sao-paulo</link>
       <description>Cognition is expanding into Latin America, starting in São Paulo, building on years of work with the region’s largest banks, consumer leaders, and…</description>
       <guid isPermaLink="true">https://cognition.com/blog/devin-comes-to-sao-paulo</guid>
       <pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cognition Crosses $1B in Annualized Revenue Run Rate</title>
+      <link>https://cognition.com/blog/1b-run-rate</link>
+      <description>Cognition Crosses $1B in Annualized Revenue Run Rate</description>
+      <guid isPermaLink="true">https://cognition.com/blog/1b-run-rate</guid>
+      <pubDate>Fri, 25 Sep 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

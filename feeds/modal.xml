@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:12:14 +0000</lastBuildDate>
     <item>
       <title>How to serve trillions of tokens for trillion-parameter coding agents</title>
       <link>https://modal.com/blog/trillion-tokens-trillion-parameters</link>
       <description>Learn how we optimized performance and efficiency serving the workload that is changing software engineering forever — and you can too.</description>
       <guid isPermaLink="true">https://modal.com/blog/trillion-tokens-trillion-parameters</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitting a billion tokens per minute on one GPU by combining a query planner and an inference engine</title>
+      <link>https://modal.com/blog/quail-billion-tpm</link>
+      <description>Maximizing perf on AI-SQL queries with the KV-optimal left-deep join</description>
+      <guid isPermaLink="true">https://modal.com/blog/quail-billion-tpm</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

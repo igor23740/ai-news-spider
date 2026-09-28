@@ -12,9 +12,12 @@ from __future__ import annotations
 
 import asyncio
 import html
+import json
 import os
 import re
 import sys
+import urllib.request
+import uuid
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -295,6 +298,79 @@ async def build_feed_for_source(crawler: AsyncWebCrawler, src: dict, lookback_da
     return len(articles)
 
 
+def fetch_qwen_articles(src: dict) -> list[Article]:
+    """qwen.ai — SPA: в HTML нет ссылок на статьи, а id статьи стоит в ?id=, который
+    collect_article_links срезает. Список статей отдаёт JSON самого сайта:
+    data.articles[] → title, path, extra.date, extra.introduction."""
+    req = urllib.request.Request(src["api_url"], headers={
+        "User-Agent": "Mozilla/5.0 (compatible; ai-news-spider)",
+        "Referer": src["index_url"],
+        "X-Request-Id": str(uuid.uuid4()),
+    })
+    with urllib.request.urlopen(req, timeout=60) as r:
+        data = json.loads(r.read().decode("utf-8"))
+    raw = (data.get("data") or {}).get("articles") or []
+    if not raw:
+        # У Qwen в списке десятки статей: пустой ответ = сломался API, старый xml не трогаем.
+        raise RuntimeError("api returned no articles")
+    out: list[Article] = []
+    for a in raw:
+        extra = a.get("extra") or {}
+        path = (a.get("path") or "").strip()
+        dt = parse_iso(extra.get("date") or "")
+        title = clean_text(a.get("title") or "", 300)
+        if not path or dt is None or len(title) < 20:
+            continue
+        intro = re.sub(r"<[^>]+>", " ", extra.get("introduction") or extra.get("description") or "")
+        desc = clean_text(intro, 500)
+        if len(desc) < 50:
+            desc = title
+        out.append(Article(url=src["article_url"].format(path=path), title=title, published=dt, description=desc))
+    return out
+
+
+API_FETCHERS = {"qwen": fetch_qwen_articles}
+
+
+def build_feed_from_api(src: dict, lookback_days: int, max_items: int) -> int:
+    """Источник со списком статей в JSON, без браузера (2026-09-28: qwen.ai).
+    Файл пишется всегда, даже пустой: публикации редкие, а адрес ленты в rss_feeds
+    не должен отдавать 404 между ними."""
+    print(f"[{src['slug']}] api → {src['api_url']}")
+    articles = API_FETCHERS[src["api"]](src)
+    print(f"  · articles in api: {len(articles)}")
+
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=lookback_days)
+    articles = [a for a in articles if a.published >= cutoff]
+    articles.sort(key=lambda a: a.published, reverse=True)
+    articles = articles[:max_items]
+    print(f"  · articles in window: {len(articles)}")
+
+    fg = FeedGenerator()
+    fg.id(src["site"])
+    fg.title(src["name"])
+    fg.link(href=src["index_url"], rel="alternate")
+    fg.link(href=f"https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/{src['slug']}.xml", rel="self")
+    fg.description(f"{src['name']} — synthesized feed by ai-news-spider")
+    fg.language("en")
+
+    for a in articles:
+        fe = fg.add_entry()
+        fe.id(a.url)
+        fe.title(a.title)
+        fe.link(href=a.url)
+        fe.guid(a.url, permalink=True)
+        fe.pubDate(a.published)
+        if a.description:
+            fe.description(a.description)
+
+    out = FEEDS_DIR / f"{src['slug']}.xml"
+    fg.rss_file(str(out), pretty=True)
+    print(f"  · wrote {out.name}")
+    return len(articles)
+
+
 async def main():
     with open(HERE / "sources.yaml", "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
@@ -305,10 +381,20 @@ async def main():
 
     normal: list[dict] = []
     stealth: list[dict] = []
+    api: list[dict] = []
     for s in cfg["sources"]:
+        if s.get("api"):
+            api.append(s)
+            continue
         (stealth if s.get("stealth") else normal).append(s)
 
     total = 0
+
+    for src in api:
+        try:
+            total += build_feed_from_api(src, lookback_days, max_items)
+        except Exception as e:
+            print(f"[{src['slug']}] CRASH: {e}", file=sys.stderr)
 
     async def run_batch(sources: list[dict], is_stealth: bool):
         nonlocal total

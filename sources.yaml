@@ -6,6 +6,8 @@
 # stealth — true для сайтов с анти-бот защитой (Patchright)
 # wait_until — networkidle | domcontentloaded (для SPA)
 # wait_selector — CSS-селектор, дождаться его появления (для SPA)
+# api — список статей берём из JSON сайта, без браузера (обработчик в API_FETCHERS, build_feeds.py);
+#       api_url — адрес JSON, article_url — шаблон ссылки на статью
 
 lookback_days: 7           # макс. возраст статьи: 7 дней (правило юзера 2026-05-12: «новости старше недели — это уже не новости»)
 max_items_per_feed: 30     # верхний предел записей в каждом xml
@@ -177,11 +179,15 @@ sources:
     index_url: https://www.hedra.com/blog
     link_pattern: '/blog/[a-z0-9-]+$'
 
+  # 2026-09-28: Qwen переехал на qwen.ai (qwenlm.github.io молчит с 23.09.2025, поэтому feeds/qwen.xml
+  # ни разу не собрался). qwen.ai — SPA: ссылок на статьи в HTML нет, id статьи в ?id=. Берём JSON сайта.
   - slug: qwen
     name: Qwen Blog
-    site: https://qwenlm.github.io
-    index_url: https://qwenlm.github.io/blog/
-    link_pattern: '/blog/[a-z0-9-]+/$'
+    site: https://qwen.ai
+    index_url: https://qwen.ai/research
+    api: qwen
+    api_url: 'https://qwen.ai/api/v2/article/retrieval?type=qwen_ai&language=en-US'
+    article_url: 'https://qwen.ai/blog?id={path}'
 
   - slug: lovable
     name: Lovable

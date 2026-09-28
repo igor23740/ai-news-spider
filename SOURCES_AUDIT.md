@@ -73,6 +73,7 @@
 | s13 | Replicate | https://replicate.com/blog | новый: RSS нет |
 | s14 | Databricks | https://www.databricks.com/blog | новый: RSS нет |
 | s15 | Snowflake | https://www.snowflake.com/en/blog/ | новый: RSS нет |
+| s16 | Qwen | https://qwen.ai/research (SPA, JSON `/api/v2/article/retrieval?type=qwen_ai`) | 28.09.2026: работает через JSON; старый qwenlm.github.io молчит с 23.09.2025 |
 
 Anthropic убрать из паука (есть native).
 

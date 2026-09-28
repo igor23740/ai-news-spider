@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI News</title>
+    <link>https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/ainews.xml</link>
+    <description>AI News — synthesized feed by ai-news-spider</description>
+    <atom:link href="https://raw.githubusercontent.com/igor23740/ai-news-spider/main/feeds/ainews.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2026 13:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Toyota’s $6.4bn robotics estimate puts physical AI in focus</title>
+      <link>https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics</link>
+      <description>Toyota estimates its wider automation push could require around 400,000 robots and annual spending.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics</guid>
+      <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutoScheduler launches warehouse app builder for logistics teams</title>
+      <link>https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams</link>
+      <description>AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams</guid>
+      <pubDate>Tue, 22 Sep 2026 11:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Are Becoming a New Malware Distribution Channel</title>
+      <link>https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel</link>
+      <description>AI Agents Are Becoming a New Malware Distribution Channel</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel</guid>
+      <pubDate>Wed, 23 Sep 2026 07:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. TRANSCOM deploys randomised AI to secure military logistics</title>
+      <link>https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics</link>
+      <description>Deploying randomised AI logistics enables military planners from U.S. TRANSCOM to insulate global distribution networks against disruption.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics</guid>
+      <pubDate>Wed, 23 Sep 2026 13:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add AI to Legacy Software Without Rebuilding It</title>
+      <link>https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it</link>
+      <description>How to Add AI to Legacy Software Without Rebuilding It</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it</guid>
+      <pubDate>Fri, 25 Sep 2026 07:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle</title>
+      <link>https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle</link>
+      <description>The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle</guid>
+      <pubDate>Fri, 25 Sep 2026 08:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA and over 100 partners launch open AI agent safety platform</title>
+      <link>https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform</link>
+      <description>NVIDIA, along with over 100 partners, is launching an open AI agent safety platform built around runtime sandboxing and hardware monitoring.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform</guid>
+      <pubDate>Mon, 28 Sep 2026 11:51:07 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

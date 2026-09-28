@@ -265,3 +265,11 @@ sources:
     link_pattern: '/changelog/[A-Za-z0-9.-]+$'
     stealth: true
     wait_until: networkidle
+
+  # 2026-09-28: у AI News (artificialintelligence-news.com) пропал RSS: /feed/ и прочие адреса ведут
+  # на страницы сайта, n8n падал на разборе. Сайт жив, паучим /news/ (rss_feeds №69 смотрит на feeds/ainews.xml).
+  - slug: ainews
+    name: AI News
+    site: https://www.artificialintelligence-news.com
+    index_url: https://www.artificialintelligence-news.com/news/
+    link_pattern: '/news/[a-z0-9-]+/?$'

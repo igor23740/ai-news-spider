@@ -37,10 +37,10 @@
 | # | Источник | URL | items | свежее | примечание |
 |---|---|---|---|---|---|
 | 16 | TechCrunch AI | `https://techcrunch.com/category/artificial-intelligence/feed/` | 20 | 12.05.2026 | основной журналистский поток |
-| 17 | VentureBeat AI | `https://venturebeat.com/category/ai/feed/` | 6 | 12.05.2026 | enterprise-уклон |
+| 17 | VentureBeat AI | `https://venturebeat.com/category/ai/feed/` | 6 | 12.05.2026 | enterprise-уклон. **28.09.2026 удалён из rss_feeds:** серверу n8n отвечает 429, лента раздела AI стоит с 27.08 |
 | 18 | MIT Tech Review AI | `https://www.technologyreview.com/topic/artificial-intelligence/feed/` | 10 | 11.05.2026 | длинные аналитические статьи |
 | 19 | IEEE Spectrum AI | `https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss` | 12 | 12.05.2026 | инженерный угол |
-| 20 | AI News | `https://artificialintelligence-news.com/feed/` | 15 | 12.05.2026 | enterprise AI / governance |
+| 20 | AI News | `https://artificialintelligence-news.com/feed/` | 15 | 12.05.2026 | enterprise AI / governance. **28.09.2026 RSS у сайта пропал** (адреса ленты ведут на страницы), теперь паук, см. s17 |
 | 21 | Simon Willison | `https://simonwillison.net/atom/everything/` | 25 | 11.05.2026 | один автор, но эталонный AI-эксперт |
 
 ### 1.4 Заблокировано WebFetch, но фиды известны (проверим curl'ом в Actions)
@@ -74,6 +74,7 @@
 | s14 | Databricks | https://www.databricks.com/blog | новый: RSS нет |
 | s15 | Snowflake | https://www.snowflake.com/en/blog/ | новый: RSS нет |
 | s16 | Qwen | https://qwen.ai/research (SPA, JSON `/api/v2/article/retrieval?type=qwen_ai`) | 28.09.2026: работает через JSON; старый qwenlm.github.io молчит с 23.09.2025 |
+| s17 | AI News | https://www.artificialintelligence-news.com/news/ | 28.09.2026: RSS у сайта пропал, паучим /news/ (rss_feeds №69 → feeds/ainews.xml) |
 
 Anthropic убрать из паука (есть native).
 

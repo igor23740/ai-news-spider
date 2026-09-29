@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 09:01:01 +0000</lastBuildDate>
-    <item>
-      <title>Toyota’s $6.4bn robotics estimate puts physical AI in focus</title>
-      <link>https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics</link>
-      <description>Toyota estimates its wider automation push could require around 400,000 robots and annual spending.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics</guid>
-      <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutoScheduler launches warehouse app builder for logistics teams</title>
-      <link>https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams</link>
-      <description>AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams</guid>
-      <pubDate>Tue, 22 Sep 2026 11:34:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 19:43:31 +0000</lastBuildDate>
     <item>
       <title>AI Agents Are Becoming a New Malware Distribution Channel</title>
       <link>https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel</link>
@@ -71,6 +57,13 @@
       <description>AI Security Needs a Chain of Provenance From Context to Action</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-security-needs-a-chain-of-provenance-from-context-to-action</guid>
       <pubDate>Tue, 29 Sep 2026 08:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Muse gains enterprise software connectors</title>
+      <link>https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors</link>
+      <description>Meta is adding commercial software connectors to its Muse AI agent to automate routines for small enterprises.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors</guid>
+      <pubDate>Tue, 29 Sep 2026 12:12:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

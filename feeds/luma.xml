@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 00:35:12 +0000</lastBuildDate>
-    <item>
-      <title>AI Food Photography Prompts for Restaurants and CPG Brands</title>
-      <link>https://lumalabs.ai/news/ai-food-photography-prompts</link>
-      <description>AI food photography prompts for restaurants and CPG brands. Learn 7-element prompts, lighting techniques, and workflows for creating menu-ready images at scale.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-food-photography-prompts</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Prompts for Branding: Visual Identity, Tone, and Consistency</title>
-      <link>https://lumalabs.ai/news/ai-prompts-branding</link>
-      <description>AI branding prompts for visual identity, brand voice, localization, and consistency. Explore 10 practical prompts for creating cohesive, production-ready marketing assets.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-branding</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Photo Prompts for Real Estate Listings and Staging in 2026</title>
-      <link>https://lumalabs.ai/news/ai-photo-prompts-real-estate-listings-staging</link>
-      <description>AI photo prompts for real estate listings and virtual staging in 2026. Learn proven prompts for interiors, exteriors, editing, and property marketing.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-photo-prompts-real-estate-listings-staging</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Text-to-Video Prompts: How to Describe a Shot the Model Understands</title>
-      <link>https://lumalabs.ai/news/text-video-prompts</link>
-      <description>Master text-to-video prompts with a 5-element formula, camera vocabulary, motion techniques, and refinement tips for creating consistent, campaign-ready AI video.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/text-video-prompts</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Music Video Prompts: 20 Ideas by Genre</title>
-      <link>https://lumalabs.ai/news/ai-music-video-prompts</link>
-      <description>Create better AI music videos with 20 genre-specific prompts for pop, hip-hop, R&amp;B, EDM, rock, indie, anime, and more.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-music-video-prompts</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Prompts for Marketing Teams: 30 Campaign-Ready Examples</title>
-      <link>https://lumalabs.ai/news/ai-prompts-marketing-teams</link>
-      <description>Explore 30 campaign-ready AI prompts for marketing teams covering strategy, content, visuals, localization, A/B testing, optimization, and brand consistency.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-marketing-teams</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 08:55:08 +0000</lastBuildDate>
     <item>
       <title>AI Lighting Prompts: Golden Hour, Hard Light, Practicals, and Neon</title>
       <link>https://lumalabs.ai/news/ai-lighting-prompts</link>
@@ -71,6 +29,27 @@
       <description>A survey of 760 creative professionals maps where AI adoption actually stands in 2026: strong on access, thin on training and workflow fit.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-adoption-creative-work-2026</guid>
       <pubDate>Tue, 22 Sep 2026 21:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Prompts for Skincare and Beauty Brands in 2026</title>
+      <link>https://lumalabs.ai/news/ai-prompts-skincare-beauty-brands</link>
+      <description>Discover 15 AI prompts for skincare and beauty brands to create product images, social content, emails, ads, videos, and campaigns faster in 2026.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-skincare-beauty-brands</guid>
+      <pubDate>Tue, 29 Sep 2026 05:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Car Photography Prompts: Studio, Rolling, and Location Shots</title>
+      <link>https://lumalabs.ai/news/ai-car-photography-prompts</link>
+      <description>Explore AI car photography prompts for studio, rolling, and location shots. Learn prompt formulas, lighting, motion blur, editing, and campaign workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-car-photography-prompts</guid>
+      <pubDate>Tue, 29 Sep 2026 05:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Prompts for Beverage and CPG Product Launches in 2026</title>
+      <link>https://lumalabs.ai/news/ai-prompts-beverage-cpg-product-launches</link>
+      <description>Use AI prompts to accelerate beverage and CPG product launches. Discover prompts for packaging, product photography, launch films, social content, localization, and campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-beverage-cpg-product-launches</guid>
+      <pubDate>Tue, 29 Sep 2026 05:06:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

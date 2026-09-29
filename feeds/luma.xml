@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:55:08 +0000</lastBuildDate>
-    <item>
-      <title>AI Lighting Prompts: Golden Hour, Hard Light, Practicals, and Neon</title>
-      <link>https://lumalabs.ai/news/ai-lighting-prompts</link>
-      <description>AI lighting prompts for golden hour, hard light, practicals, and neon. Learn techniques and templates for consistent, cinematic AI-generated visuals.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-lighting-prompts</guid>
-      <pubDate>Tue, 22 Sep 2026 09:57:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Fashion Photography Prompts for Lookbooks and Campaigns (2026)</title>
-      <link>https://lumalabs.ai/news/ai-fashion-photography-prompts</link>
-      <description>AI fashion photography prompts for lookbooks and campaigns in 2026. Learn 15 production-ready prompts for consistent models, styling, lighting, and campaign assets.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-fashion-photography-prompts</guid>
-      <pubDate>Tue, 22 Sep 2026 12:11:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 15:03:36 +0000</lastBuildDate>
     <item>
       <title>How Creative Teams Are Integrating AI in 2026</title>
       <link>https://lumalabs.ai/news/ai-adoption-creative-work-2026</link>
@@ -50,6 +36,41 @@
       <description>Use AI prompts to accelerate beverage and CPG product launches. Discover prompts for packaging, product photography, launch films, social content, localization, and campaigns.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-prompts-beverage-cpg-product-launches</guid>
       <pubDate>Tue, 29 Sep 2026 05:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Headshot Prompts: 15 Prompts for Professional Portraits in 2026</title>
+      <link>https://lumalabs.ai/news/ai-headshot-prompts</link>
+      <description>Create professional AI headshots with 15 copy-paste prompts for corporate, executive, creative, LinkedIn, healthcare, and other professional portraits.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-headshot-prompts</guid>
+      <pubDate>Tue, 29 Sep 2026 09:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Photo Editing Prompts: 25 Retouching Examples</title>
+      <link>https://lumalabs.ai/news/gemini-photo-editing-prompts</link>
+      <description>Gemini photo editing prompts for portraits, products, restoration, and creative edits. Explore 25 retouching examples with practical prompts for consistent AI photo workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/gemini-photo-editing-prompts</guid>
+      <pubDate>Tue, 29 Sep 2026 09:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Avatar Prompts for Profile Pictures and Brand Characters</title>
+      <link>https://lumalabs.ai/news/ai-avatar-prompts</link>
+      <description>AI avatar prompts for profile pictures, professional headshots, and brand characters. Explore 15 examples plus techniques for consistency, negative prompts, seeds, and iteration.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-avatar-prompts</guid>
+      <pubDate>Tue, 29 Sep 2026 09:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Photo Editing Prompts for Color, Light, and Skin</title>
+      <link>https://lumalabs.ai/news/ai-photo-editing-prompts-color-light</link>
+      <description>AI photo editing prompts for color, lighting, and skin retouching. Explore 15 practical examples and learn how to create precise, natural edits while preserving image details.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-photo-editing-prompts-color-light</guid>
+      <pubDate>Tue, 29 Sep 2026 09:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Selfie Prompts: How to Get a Likeness That Holds</title>
+      <link>https://lumalabs.ai/news/ai-selfie-prompts</link>
+      <description>Discover 15 AI selfie prompts for realistic, consistent likeness. Learn how to use reference photos, negative prompts, lighting, and editing for portraits now.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-selfie-prompts</guid>
+      <pubDate>Tue, 29 Sep 2026 09:14:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

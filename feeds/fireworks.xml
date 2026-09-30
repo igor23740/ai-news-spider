@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 23:59:00 +0000</lastBuildDate>
-    <item>
-      <title>Every byte counts: ARCv3 and the case for cross</title>
-      <link>https://fireworks.ai/blog/arcv3-and-the-case-for-cross-region-rl</link>
-      <description>Fireworks’ ARCv3 delivers lossless BF16 weight updates nearly 50% smaller than ARCv2, making cross-region reinforcement learning more practical.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/arcv3-and-the-case-for-cross-region-rl</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 08:58:38 +0000</lastBuildDate>
     <item>
       <title>Introducing FireRouter with Opus</title>
       <link>https://fireworks.ai/blog/introducing-firerouter-with-opus</link>

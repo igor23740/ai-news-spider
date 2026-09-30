@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 20:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:00:54 +0000</lastBuildDate>
     <item>
-      <title>FLUX 3 Action: A 7B World Action Model for Robot Control</title>
-      <link>https://bfl.ai/blog/flux-3-action</link>
-      <description>7B open weights world action model. Turn FLUX’s visual intelligence into action for your robot, simulator, or game.</description>
-      <guid isPermaLink="true">https://bfl.ai/blog/flux-3-action</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Martin Scorsese × Black Forest Labs</title>
+      <link>https://bfl.ai/blog/martin-scorsese-bfl-advisor</link>
+      <description>Martin Scorsese has spent six decades bringing stories to life. Now, he</description>
+      <guid isPermaLink="true">https://bfl.ai/blog/martin-scorsese-bfl-advisor</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

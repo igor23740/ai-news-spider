@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:28 +0000</lastBuildDate>
-    <item>
-      <title>AI Agents Are Becoming a New Malware Distribution Channel</title>
-      <link>https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel</link>
-      <description>AI Agents Are Becoming a New Malware Distribution Channel</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel</guid>
-      <pubDate>Wed, 23 Sep 2026 07:44:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 09:00:13 +0000</lastBuildDate>
     <item>
       <title>U.S. TRANSCOM deploys randomised AI to secure military logistics</title>
       <link>https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics</link>
@@ -64,6 +57,13 @@
       <description>Meta is adding commercial software connectors to its Muse AI agent to automate routines for small enterprises.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors</guid>
       <pubDate>Tue, 29 Sep 2026 12:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI Development: Building for Production in 2026</title>
+      <link>https://www.artificialintelligence-news.com/news/generative-ai-development-building-for-production-in-2026</link>
+      <description>Generative AI Development: Building for Production in 2026</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/generative-ai-development-building-for-production-in-2026</guid>
+      <pubDate>Wed, 30 Sep 2026 07:16:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

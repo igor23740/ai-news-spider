@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:22:52 +0000</lastBuildDate>
     <item>
       <title>Quail: Speeding up AI-SQL by jointly optimizing query planner and inference engine</title>
       <link>https://modal.com/blog/quail-billion-tpm</link>

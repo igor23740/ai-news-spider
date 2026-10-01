@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:25:19 +0000</lastBuildDate>
     <item>
       <title>How to Add AI to Legacy Software Without Rebuilding It</title>
       <link>https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it</link>
@@ -71,6 +71,13 @@
       <description>Vinasoy says an AWS-based generative AI system reduced its out-of-stock rate by 20 percent within two months of deployment.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/vinasoy-reports-20-out-of-stock-reduction-aws-ai</guid>
       <pubDate>Wed, 30 Sep 2026 15:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How an AI powered learning platform is changing the role of L&amp;D teams</title>
+      <link>https://www.artificialintelligence-news.com/news/how-an-ai-powered-learning-platform-is-changing-the-role-of-ld-teams</link>
+      <description>How an AI powered learning platform is changing the role of L&amp;D teams</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/how-an-ai-powered-learning-platform-is-changing-the-role-of-ld-teams</guid>
+      <pubDate>Thu, 01 Oct 2026 07:18:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

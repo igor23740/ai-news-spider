@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:19:07 +0000</lastBuildDate>
     <item>
       <title>AI Prompts for Skincare and Beauty Brands in 2026</title>
       <link>https://lumalabs.ai/news/ai-prompts-skincare-beauty-brands</link>
@@ -64,6 +64,13 @@
       <description>Discover 15 AI selfie prompts for realistic, consistent likeness. Learn how to use reference photos, negative prompts, lighting, and editing for portraits now.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-selfie-prompts</guid>
       <pubDate>Tue, 29 Sep 2026 09:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live Now: Luma Variants</title>
+      <link>https://lumalabs.ai/news/introducing-luma-variants</link>
+      <description>Luma Variants lets teams resize and translate every static ad into every format. Logo, headline, and CTA stay intact while the layout and copy adapt to each placement and market.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/introducing-luma-variants</guid>
+      <pubDate>Thu, 01 Oct 2026 05:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

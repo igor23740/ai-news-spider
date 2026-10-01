@@ -8,9 +8,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:45:12 +0000</lastBuildDate>
     <item>
-      <title>Team Bots: AI coworkers that learn from your team</title>
+      <title>Team Bots: shared AI teammates that learn as they work</title>
       <link>https://x.ai/news/team-bots</link>
       <description>Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.</description>
       <guid isPermaLink="true">https://x.ai/news/team-bots</guid>

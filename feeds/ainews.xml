@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 09:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:45:32 +0000</lastBuildDate>
     <item>
       <title>How to Add AI to Legacy Software Without Rebuilding It</title>
       <link>https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it</link>
@@ -78,6 +78,13 @@
       <description>How an AI powered learning platform is changing the role of L&amp;D teams</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/how-an-ai-powered-learning-platform-is-changing-the-role-of-ld-teams</guid>
       <pubDate>Thu, 01 Oct 2026 07:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIT Transit Lab secures $2.1M from Google for AI transit platform</title>
+      <link>https://www.artificialintelligence-news.com/news/mit-transit-lab-secures-2-1m-google-for-ai-transit-platform</link>
+      <description>MIT Transit Lab has secured $2.1 million from Google.org for an AI platform that connects transit monitoring, operations control, and more.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/mit-transit-lab-secures-2-1m-google-for-ai-transit-platform</guid>
+      <pubDate>Thu, 01 Oct 2026 10:20:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

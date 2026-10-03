@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 15:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 13:48:39 +0000</lastBuildDate>
     <item>
       <title>NVIDIA and over 100 partners launch open AI agent safety platform</title>
       <link>https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform</link>
@@ -78,6 +78,13 @@
       <description>MACC is expanding its use of AI and data analytics to identify anomalies, trace financial flows, and support intelligence-led investigations.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/macc-ai-intelligence-led-investigations</guid>
       <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft recommends data controls for government AI adoption</title>
+      <link>https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption</link>
+      <description>Microsoft recommends data controls for government AI adoption</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption</guid>
+      <pubDate>Fri, 02 Oct 2026 16:08:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 17:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:38:59 +0000</lastBuildDate>
     <item>
       <title>How to Make a Sticker: Best AI Sticker Generators in 2026</title>
       <link>https://www.krea.ai/blog/how-to-make-a-sticker-best-ai-sticker-generators-in-2026</link>
@@ -29,6 +29,20 @@
       <description>FaceApp, Facetune, Remini, and Krea compared for portrait restyling in 2026 — free tiers, prices, and the real difference between a one-tap filter and a written prompt.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/best-faceapp-alternatives-in-2026</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Ideogram AI? Features, Pricing, and Alternatives in 2026</title>
+      <link>https://www.krea.ai/blog/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026</link>
+      <description>What Ideogram does, what its free and paid plans actually include, how its text rendering holds up, and how Midjourney, Recraft, and Krea compare.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is DeepAI? Free AI Image Generator Explained, Plus 2026 Alternatives</title>
+      <link>https://www.krea.ai/blog/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026</link>
+      <description>DeepAI has run a free text-to-image tool since 2016. Here</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

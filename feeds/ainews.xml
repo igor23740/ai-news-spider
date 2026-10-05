@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 14:30:20 +0000</lastBuildDate>
-    <item>
-      <title>NVIDIA and over 100 partners launch open AI agent safety platform</title>
-      <link>https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform</link>
-      <description>NVIDIA, along with over 100 partners, is launching an open AI agent safety platform built around runtime sandboxing and hardware monitoring.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform</guid>
-      <pubDate>Mon, 28 Sep 2026 11:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle Fusion drives supply chain planning for Combe</title>
-      <link>https://www.artificialintelligence-news.com/news/oracle-fusion-supply-chain-planning-for-combe</link>
-      <description>Consumer goods manufacturer Combe is deploying Oracle Fusion to optimise supply chain planning with embedded AI across its global operations.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/oracle-fusion-supply-chain-planning-for-combe</guid>
-      <pubDate>Mon, 28 Sep 2026 16:01:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 21:47:25 +0000</lastBuildDate>
     <item>
       <title>AI Security Needs a Chain of Provenance From Context to Action</title>
       <link>https://www.artificialintelligence-news.com/news/ai-security-needs-a-chain-of-provenance-from-context-to-action</link>
@@ -85,6 +71,20 @@
       <description>Microsoft recommends data controls for government AI adoption</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption</guid>
       <pubDate>Fri, 02 Oct 2026 16:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uniquely Wired Magazine Volume 2</title>
+      <link>https://www.artificialintelligence-news.com/news/uniquely-wired-magazine-volume-2</link>
+      <description>An introduction by Bernard Marr – futurist, influencer and bestselling author Progress used to arrive one revolution at a time. Steam, then electricity, then computing. Each had its era before handing off to the next, with fifty to a hundred years between them. That was then. Right now, we are inside a cycle where multiple […]</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/uniquely-wired-magazine-volume-2</guid>
+      <pubDate>Mon, 05 Oct 2026 09:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>17 countries set out AI priorities for government science research</title>
+      <link>https://www.artificialintelligence-news.com/news/17-countries-ai-priorities-for-government-science-research</link>
+      <description>17 countries have endorsed the Kyoto Vision for a Golden Age of Science, a government AI research agenda covering data access, computing, and integrity.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/17-countries-ai-priorities-for-government-science-research</guid>
+      <pubDate>Mon, 05 Oct 2026 12:24:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

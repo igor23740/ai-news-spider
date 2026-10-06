@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:30:19 +0000</lastBuildDate>
     <item>
       <title>Live Now: Luma Variants</title>
       <link>https://lumalabs.ai/news/introducing-luma-variants</link>
@@ -78,6 +78,55 @@
       <description>AI video generators help restaurants and food brands create professional marketing videos faster, repurpose content, localize campaigns, and scale social media in 2026.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generators-restaurants-food-brands</guid>
       <pubDate>Fri, 02 Oct 2026 03:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Tattoo Design Prompts 2026: Styles, Placement, and Linework</title>
+      <link>https://lumalabs.ai/news/ai-tattoo-design-prompts</link>
+      <description>AI tattoo design prompts for 2026, covering styles, placement, linework, and 15 ready-to-use examples for creating precise, tattoo-ready concepts.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-tattoo-design-prompts</guid>
+      <pubDate>Tue, 06 Oct 2026 10:28:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberpunk AI Prompts for Video and Image Generation</title>
+      <link>https://lumalabs.ai/news/cyberpunk-ai-prompts</link>
+      <description>Explore cyberpunk AI prompts for image and video generation, with ready-to-use prompts, prompt engineering tips, and workflows for consistent campaigns today now.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/cyberpunk-ai-prompts</guid>
+      <pubDate>Tue, 06 Oct 2026 13:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D and Claymation AI Prompts 2026: Stop-Motion Looks Without a Rig</title>
+      <link>https://lumalabs.ai/news/3d-claymation-ai-prompts</link>
+      <description>Create authentic 3D and claymation visuals with AI using 15 ready-to-use prompts, stop-motion techniques, material cues, lighting tips, and creative workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/3d-claymation-ai-prompts</guid>
+      <pubDate>Tue, 06 Oct 2026 13:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sci-Fi AI Video Prompts: Worlds, Ships, and Practical Effects</title>
+      <link>https://lumalabs.ai/news/sci-fi-ai-video-prompts</link>
+      <description>Explore 15 sci-fi AI video prompts for alien worlds, spacecraft, cities, creatures, and effects. Learn prompt frameworks and workflows for cinematic results.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/sci-fi-ai-video-prompts</guid>
+      <pubDate>Tue, 06 Oct 2026 14:04:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horror AI Video Prompts: Tension, Lighting, and the Slow Reveal</title>
+      <link>https://lumalabs.ai/news/horror-ai-video-prompts</link>
+      <description>Create cinematic horror with 15 AI video prompts for tension, lighting, slow reveals, and psychological scares. Master prompt structure and production workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/horror-ai-video-prompts</guid>
+      <pubDate>Tue, 06 Oct 2026 14:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video Generators for Dropshipping Ads</title>
+      <link>https://lumalabs.ai/news/ai-video-generators-dropshipping-ads</link>
+      <description>Compare the best AI video generators for dropshipping ads, from URL-to-video tools to avatars and cinematic AI. Find platforms for faster creative testing and scaling.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-generators-dropshipping-ads</guid>
+      <pubDate>Tue, 06 Oct 2026 15:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Lyric Video Makers for Independent Artists in 2026</title>
+      <link>https://lumalabs.ai/news/ai-lyric-video-makers-independent-artists</link>
+      <description>Discover the best AI lyric video makers for independent artists in 2026. Compare tools for synced lyrics, cinematic visuals, creative control, and platform-ready exports.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-lyric-video-makers-independent-artists</guid>
+      <pubDate>Tue, 06 Oct 2026 15:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:51:57 +0000</lastBuildDate>
     <item>
-      <title>Seedance, Kling, Veo and MiniMax API Pricing: What 10 Seconds of AI Video Costs</title>
-      <link>https://www.hedra.com/blog/video-model-api-cost-comparison</link>
-      <description>Seedance, Kling, Veo and MiniMax API Pricing: What 10 Seconds of AI Video Costs</description>
-      <guid isPermaLink="true">https://www.hedra.com/blog/video-model-api-cost-comparison</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+      <title>The Hedra Developer API: models, SDKs, MCP and the console in one place</title>
+      <link>https://www.hedra.com/blog/hedra-developer-api</link>
+      <description>The Hedra Developer API gives your code more than 110 generation models through one API key and one prepaid wallet.</description>
+      <guid isPermaLink="true">https://www.hedra.com/blog/hedra-developer-api</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

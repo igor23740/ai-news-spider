@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 01:33:59 +0000</lastBuildDate>
-    <item>
-      <title>AI Security Needs a Chain of Provenance From Context to Action</title>
-      <link>https://www.artificialintelligence-news.com/news/ai-security-needs-a-chain-of-provenance-from-context-to-action</link>
-      <description>AI Security Needs a Chain of Provenance From Context to Action</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-security-needs-a-chain-of-provenance-from-context-to-action</guid>
-      <pubDate>Tue, 29 Sep 2026 08:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Muse gains enterprise software connectors</title>
-      <link>https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors</link>
-      <description>Meta is adding commercial software connectors to its Muse AI agent to automate routines for small enterprises.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors</guid>
-      <pubDate>Tue, 29 Sep 2026 12:12:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 19:55:21 +0000</lastBuildDate>
     <item>
       <title>Generative AI Development: Building for Production in 2026</title>
       <link>https://www.artificialintelligence-news.com/news/generative-ai-development-building-for-production-in-2026</link>
@@ -85,6 +71,27 @@
       <description>17 countries have endorsed the Kyoto Vision for a Golden Age of Science, a government AI research agenda covering data access, computing, and integrity.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/17-countries-ai-priorities-for-government-science-research</guid>
       <pubDate>Mon, 05 Oct 2026 12:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Telekom targets €2.5 billion in savings from AI</title>
+      <link>https://www.artificialintelligence-news.com/news/deutsche-telekom-ai-savings</link>
+      <description>Deutsche Telekom expects AI and automation to deliver €2.5 billion in indirect cost savings by 2030, with €1.1 billion in gross savings.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/deutsche-telekom-ai-savings</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberDSA 2026 opens with Malaysia</title>
+      <link>https://www.artificialintelligence-news.com/news/cyberdsa-2026-opens-malaysia-call-for-secure-ai-adoption</link>
+      <description>CyberDSA 2026 opened in Kuala Lumpur with Malaysia</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/cyberdsa-2026-opens-malaysia-call-for-secure-ai-adoption</guid>
+      <pubDate>Tue, 06 Oct 2026 10:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mistral AI launches Large 4 preview ahead of open</title>
+      <link>https://www.artificialintelligence-news.com/news/mistral-ai-launches-large-4-preview-ahead-open-weight-release</link>
+      <description>Mistral AI has opened a public preview of Mistral Large 4, a natively multimodal 1-trillion-parameter model, with open weights planned.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/mistral-ai-launches-large-4-preview-ahead-open-weight-release</guid>
+      <pubDate>Tue, 06 Oct 2026 13:59:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

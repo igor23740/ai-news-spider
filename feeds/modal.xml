@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:12:07 +0000</lastBuildDate>
     <item>
       <title>Runtime Roundup: VM Sandboxes, Multi-node clusters, and more</title>
       <link>https://modal.com/blog/runtime-product-update-sandbox-endpoints</link>
@@ -29,6 +29,13 @@
       <description>Multi-node GPU clusters with RDMA, gang scheduled from Modal</description>
       <guid isPermaLink="true">https://modal.com/blog/modal-clusters-generally-available</guid>
       <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeSafe AI scales Jev to trillions of tokens in three days on Modal</title>
+      <link>https://modal.com/blog/typesafeai-case-study</link>
+      <description>TypeSafe AI launched Jev, a new class of AI model built for automation, and scaled to trillions of tokens over a weekend on Modal.</description>
+      <guid isPermaLink="true">https://modal.com/blog/typesafeai-case-study</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:22:44 +0000</lastBuildDate>
-    <item>
-      <title>MIT Transit Lab secures $2.1M from Google for AI transit platform</title>
-      <link>https://www.artificialintelligence-news.com/news/mit-transit-lab-secures-2-1m-google-for-ai-transit-platform</link>
-      <description>MIT Transit Lab has secured $2.1 million from Google.org for an AI platform that connects transit monitoring, operations control, and more.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/mit-transit-lab-secures-2-1m-google-for-ai-transit-platform</guid>
-      <pubDate>Thu, 01 Oct 2026 10:20:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 16:00:21 +0000</lastBuildDate>
     <item>
       <title>Malaysia’s MACC expands AI use for intelligence</title>
       <link>https://www.artificialintelligence-news.com/news/macc-ai-intelligence-led-investigations</link>
@@ -71,6 +64,27 @@
       <description>8 Companies Offering Context Lake Solutions for Enterprise AI</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/8-companies-offering-context-lake-solutions-for-enterprise-ai</guid>
       <pubDate>Thu, 08 Oct 2026 07:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abu Dhabi launches AI training programme for 20,000 government employees</title>
+      <link>https://www.artificialintelligence-news.com/news/abu-dhabi-ai-training-government-employees</link>
+      <description>Abu Dhabi launches AI training programme for 20,000 government employees</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/abu-dhabi-ai-training-government-employees</guid>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CFR outlines priorities for White House AI task force</title>
+      <link>https://www.artificialintelligence-news.com/news/cfr-outlines-priorities-white-house-ai-task-force</link>
+      <description>CFR outlines priorities for White House AI task force</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/cfr-outlines-priorities-white-house-ai-task-force</guid>
+      <pubDate>Thu, 08 Oct 2026 13:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marinela Profi, SAS: On governing autonomous AI agents</title>
+      <link>https://www.artificialintelligence-news.com/news/marinela-profi-sas-governing-autonomous-ai-agents</link>
+      <description>Marinela Profi, SAS: On governing autonomous AI agents</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/marinela-profi-sas-governing-autonomous-ai-agents</guid>
+      <pubDate>Thu, 08 Oct 2026 14:53:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

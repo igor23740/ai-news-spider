@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:40:56 +0000</lastBuildDate>
-    <item>
-      <title>Malaysia’s MACC expands AI use for intelligence</title>
-      <link>https://www.artificialintelligence-news.com/news/macc-ai-intelligence-led-investigations</link>
-      <description>MACC is expanding its use of AI and data analytics to identify anomalies, trace financial flows, and support intelligence-led investigations.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/macc-ai-intelligence-led-investigations</guid>
-      <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 15:42:49 +0000</lastBuildDate>
     <item>
       <title>Microsoft recommends data controls for government AI adoption</title>
       <link>https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption</link>
@@ -85,6 +78,13 @@
       <description>Marinela Profi, SAS: On governing autonomous AI agents</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/marinela-profi-sas-governing-autonomous-ai-agents</guid>
       <pubDate>Thu, 08 Oct 2026 14:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thread AI partners with US Army on Fire Control Systems</title>
+      <link>https://www.artificialintelligence-news.com/news/thread-ai-partners-with-us-army-on-fire-control-systems</link>
+      <description>Thread AI has signed a research agreement with the US Army</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/thread-ai-partners-with-us-army-on-fire-control-systems</guid>
+      <pubDate>Fri, 09 Oct 2026 10:12:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:44:33 +0000</lastBuildDate>
-    <item>
-      <title>17 countries set out AI priorities for government science research</title>
-      <link>https://www.artificialintelligence-news.com/news/17-countries-ai-priorities-for-government-science-research</link>
-      <description>17 countries have endorsed the Kyoto Vision for a Golden Age of Science, a government AI research agenda covering data access, computing, and integrity.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/17-countries-ai-priorities-for-government-science-research</guid>
-      <pubDate>Mon, 05 Oct 2026 12:24:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 18:20:29 +0000</lastBuildDate>
     <item>
       <title>Deutsche Telekom targets €2.5 billion in savings from AI</title>
       <link>https://www.artificialintelligence-news.com/news/deutsche-telekom-ai-savings</link>
@@ -78,6 +71,20 @@
       <description>Maurits Kaptein, co-founder and CTO of Kyvvu and full professor at TU/e Eindhoven, neatly explains how agentic AI has evolved – and how the threat has evolved with it. “Two or three years ago, we were worried about hallucinations because then it was a wrong piece of text,” he says. “Now a hallucination can be […]</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/kyvvu-why-every-ai-agent-needs-to-ask-before-it-can-act</guid>
       <pubDate>Mon, 12 Oct 2026 09:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alibaba details QwenGyre to accelerate extreme</title>
+      <link>https://www.artificialintelligence-news.com/news/alibaba-details-qwengyre-accelerate-extreme-horizon-agent-training</link>
+      <description>Alibaba Qwen researchers have detailed QwenGyre, an elastic reinforcement learning framework that trains extreme-long horizon agents on multi-hour software engineering tasks.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/alibaba-details-qwengyre-accelerate-extreme-horizon-agent-training</guid>
+      <pubDate>Mon, 12 Oct 2026 13:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AISI outlines priorities to tackle frontier AI evaluation gaps</title>
+      <link>https://www.artificialintelligence-news.com/news/aisi-outlines-priorities-to-tackle-frontier-ai-evaluation-gaps</link>
+      <description>AISI outlines priorities to tackle frontier AI evaluation gaps</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/aisi-outlines-priorities-to-tackle-frontier-ai-evaluation-gaps</guid>
+      <pubDate>Mon, 12 Oct 2026 15:41:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

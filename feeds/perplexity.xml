@@ -8,13 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:54:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:09:36 +0000</lastBuildDate>
     <item>
-      <title>Introducing Computer for Counsel</title>
-      <link>https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel</link>
-      <description>Computer for Counsel connects legal research, document, and contract tools so lawyers spend less time on admin work.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <title>10 Best AI Collaboration Tools</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-collaboration-tools</link>
+      <description>Compare the 10 best AI collaboration tools, including Slack, Notion, ClickUp, and Asana, by AI features and pricing.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-collaboration-tools</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAG vs. LLM: Definitions, Differences, and Use Cases</title>
+      <link>https://www.perplexity.ai/hub/blog/rag-vs-llm</link>
+      <description>RAG vs. LLM: how retrieval-augmented generation differs from LLM-only AI, key use cases, and when to combine them.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-vs-llm</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multimodal embeddings beyond a single vector</title>
+      <link>https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector</link>
+      <description>A new family of late-interaction models for text and image retrieval, with a shared embedding space across model sizes.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI guardrails: What they are and seven practical examples</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-guardrails</link>
+      <description>Learn what AI guardrails are, how they work at each stage of an AI system, and see seven practical examples in action.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-guardrails</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agent vs MCP? When To Use Each (&amp; When You Need Both)</title>
+      <link>https://www.perplexity.ai/hub/blog/agent-vs-mcp</link>
+      <description>Agent vs MCP: learn how AI agents and the Model Context Protocol differ, when to use each, and when you need both.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/agent-vs-mcp</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building shared workspaces for people and agents</title>
+      <link>https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</link>
+      <description>How Perplexity Projects keep long-running work persistent, concurrent, and traceable.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

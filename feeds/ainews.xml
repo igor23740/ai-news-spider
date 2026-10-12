@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:00:20 +0000</lastBuildDate>
-    <item>
-      <title>Uniquely Wired Magazine Volume 2</title>
-      <link>https://www.artificialintelligence-news.com/news/uniquely-wired-magazine-volume-2</link>
-      <description>An introduction by Bernard Marr – futurist, influencer and bestselling author Progress used to arrive one revolution at a time. Steam, then electricity, then computing. Each had its era before handing off to the next, with fifty to a hundred years between them. That was then. Right now, we are inside a cycle where multiple […]</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/uniquely-wired-magazine-volume-2</guid>
-      <pubDate>Mon, 05 Oct 2026 09:14:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 09:44:33 +0000</lastBuildDate>
     <item>
       <title>17 countries set out AI priorities for government science research</title>
       <link>https://www.artificialintelligence-news.com/news/17-countries-ai-priorities-for-government-science-research</link>
@@ -78,6 +71,13 @@
       <description>Thread AI has signed a research agreement with the US Army</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/thread-ai-partners-with-us-army-on-fire-control-systems</guid>
       <pubDate>Fri, 09 Oct 2026 10:12:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kyvvu: Why every AI agent needs to ‘ASK’ before it can act</title>
+      <link>https://www.artificialintelligence-news.com/news/kyvvu-why-every-ai-agent-needs-to-ask-before-it-can-act</link>
+      <description>Maurits Kaptein, co-founder and CTO of Kyvvu and full professor at TU/e Eindhoven, neatly explains how agentic AI has evolved – and how the threat has evolved with it. “Two or three years ago, we were worried about hallucinations because then it was a wrong piece of text,” he says. “Now a hallucination can be […]</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/kyvvu-why-every-ai-agent-needs-to-ask-before-it-can-act</guid>
+      <pubDate>Mon, 12 Oct 2026 09:18:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

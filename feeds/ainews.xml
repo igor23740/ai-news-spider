@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:50:10 +0000</lastBuildDate>
-    <item>
-      <title>Deutsche Telekom targets €2.5 billion in savings from AI</title>
-      <link>https://www.artificialintelligence-news.com/news/deutsche-telekom-ai-savings</link>
-      <description>Deutsche Telekom expects AI and automation to deliver €2.5 billion in indirect cost savings by 2030, with €1.1 billion in gross savings.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/deutsche-telekom-ai-savings</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberDSA 2026 opens with Malaysia</title>
-      <link>https://www.artificialintelligence-news.com/news/cyberdsa-2026-opens-malaysia-call-for-secure-ai-adoption</link>
-      <description>CyberDSA 2026 opened in Kuala Lumpur with Malaysia</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/cyberdsa-2026-opens-malaysia-call-for-secure-ai-adoption</guid>
-      <pubDate>Tue, 06 Oct 2026 10:58:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 16:27:14 +0000</lastBuildDate>
     <item>
       <title>Council of Europe and Microsoft sign AI cooperation agreement</title>
       <link>https://www.artificialintelligence-news.com/news/council-of-europe-microsoft-ai-cooperation-agreement</link>
@@ -85,6 +71,13 @@
       <description>AISI outlines priorities to tackle frontier AI evaluation gaps</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/aisi-outlines-priorities-to-tackle-frontier-ai-evaluation-gaps</guid>
       <pubDate>Mon, 12 Oct 2026 15:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK government expands AI cybersecurity efforts after finding 1,352 vulnerabilities</title>
+      <link>https://www.artificialintelligence-news.com/news/uk-government-ai-cybersecurity-vulnerabilities</link>
+      <description>The UK government is expanding AI cybersecurity after pilots helped identify and address 1,352 vulnerabilities across 18 departments.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/uk-government-ai-cybersecurity-vulnerabilities</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

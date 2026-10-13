@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:09:36 +0000</lastBuildDate>
-    <item>
-      <title>10 Best AI Collaboration Tools</title>
-      <link>https://www.perplexity.ai/hub/blog/ai-collaboration-tools</link>
-      <description>Compare the 10 best AI collaboration tools, including Slack, Notion, ClickUp, and Asana, by AI features and pricing.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-collaboration-tools</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 09:39:49 +0000</lastBuildDate>
     <item>
       <title>RAG vs. LLM: Definitions, Differences, and Use Cases</title>
       <link>https://www.perplexity.ai/hub/blog/rag-vs-llm</link>

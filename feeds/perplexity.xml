@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:39:49 +0000</lastBuildDate>
-    <item>
-      <title>RAG vs. LLM: Definitions, Differences, and Use Cases</title>
-      <link>https://www.perplexity.ai/hub/blog/rag-vs-llm</link>
-      <description>RAG vs. LLM: how retrieval-augmented generation differs from LLM-only AI, key use cases, and when to combine them.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-vs-llm</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimodal embeddings beyond a single vector</title>
-      <link>https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector</link>
-      <description>A new family of late-interaction models for text and image retrieval, with a shared embedding space across model sizes.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 07:53:59 +0000</lastBuildDate>
     <item>
       <title>AI guardrails: What they are and seven practical examples</title>
       <link>https://www.perplexity.ai/hub/blog/ai-guardrails</link>
@@ -43,6 +29,13 @@
       <description>How Perplexity Projects keep long-running work persistent, concurrent, and traceable.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI costs: what teams pay to use AI tools</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-costs</link>
+      <description>AI costs explained: how AI tools are priced, what drives a team</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-costs</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

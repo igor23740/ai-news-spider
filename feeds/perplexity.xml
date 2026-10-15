@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:53:59 +0000</lastBuildDate>
-    <item>
-      <title>AI guardrails: What they are and seven practical examples</title>
-      <link>https://www.perplexity.ai/hub/blog/ai-guardrails</link>
-      <description>Learn what AI guardrails are, how they work at each stage of an AI system, and see seven practical examples in action.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-guardrails</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 07:40:07 +0000</lastBuildDate>
     <item>
       <title>AI Agent vs MCP? When To Use Each (&amp; When You Need Both)</title>
       <link>https://www.perplexity.ai/hub/blog/agent-vs-mcp</link>
@@ -36,6 +29,20 @@
       <description>AI costs explained: how AI tools are priced, what drives a team</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-costs</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How SPACE routes requests to the right sandbox execution</title>
+      <link>https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</link>
+      <description>Discover how SPACE binds AI agent requests to the right sandbox execution with signed routes and identity checks.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Are MCP Tools and How Do AI Models Use Them?</title>
+      <link>https://www.perplexity.ai/hub/blog/mcp-tools</link>
+      <description>Learn what MCP tools are, how AI models discover and call them, and how to avoid common MCP tool problems.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/mcp-tools</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

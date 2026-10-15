@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:40:50 +0000</lastBuildDate>
     <item>
       <title>Endpoint Candidates: evaluate and promote inference endpoints</title>
       <link>https://modal.com/blog/endpoint-candidates</link>
@@ -29,6 +29,13 @@
       <description>Modal has crossed $1B in annualized run rate and raised a $750M Series D led by Accel to build new infrastructure for AI applications. We can</description>
       <guid isPermaLink="true">https://modal.com/blog/1-billion-annualized-run-rate-series-d</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muse Spark Open is now available on Modal</title>
+      <link>https://modal.com/blog/meta-muse-spark-open-now-available-on-modal</link>
+      <description>Muse Spark Open, a coding-optimized multimodal model from Meta, is now available on Modal Auto Endpoints.</description>
+      <guid isPermaLink="true">https://modal.com/blog/meta-muse-spark-open-now-available-on-modal</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

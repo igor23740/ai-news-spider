@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:50:58 +0000</lastBuildDate>
-    <item>
-      <title>Abu Dhabi launches AI training programme for 20,000 government employees</title>
-      <link>https://www.artificialintelligence-news.com/news/abu-dhabi-ai-training-government-employees</link>
-      <description>Abu Dhabi launches AI training programme for 20,000 government employees</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/abu-dhabi-ai-training-government-employees</guid>
-      <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CFR outlines priorities for White House AI task force</title>
-      <link>https://www.artificialintelligence-news.com/news/cfr-outlines-priorities-white-house-ai-task-force</link>
-      <description>CFR outlines priorities for White House AI task force</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/cfr-outlines-priorities-white-house-ai-task-force</guid>
-      <pubDate>Thu, 08 Oct 2026 13:34:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marinela Profi, SAS: On governing autonomous AI agents</title>
-      <link>https://www.artificialintelligence-news.com/news/marinela-profi-sas-governing-autonomous-ai-agents</link>
-      <description>Marinela Profi, SAS: On governing autonomous AI agents</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/marinela-profi-sas-governing-autonomous-ai-agents</guid>
-      <pubDate>Thu, 08 Oct 2026 14:53:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 18:41:02 +0000</lastBuildDate>
     <item>
       <title>Thread AI partners with US Army on Fire Control Systems</title>
       <link>https://www.artificialintelligence-news.com/news/thread-ai-partners-with-us-army-on-fire-control-systems</link>
@@ -71,6 +50,27 @@
       <description>Virtual no KYC card for Claude: Developers Guide</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/virtual-no-kyc-card-for-claude-developers-guide</guid>
       <pubDate>Wed, 14 Oct 2026 07:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>GovTech Singapore and Google DeepMind detail on</title>
+      <link>https://www.artificialintelligence-news.com/news/govtech-singapore-google-deepmind-on-device-gemma-scam-detector</link>
+      <description>GovTech Singapore and Google DeepMind have developed an on-device scam detection system based on a fine-tuned Gemma AI model</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/govtech-singapore-google-deepmind-on-device-gemma-scam-detector</guid>
+      <pubDate>Thu, 15 Oct 2026 09:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>UPS explores AI to find alternative aircraft parts amid maintenance shortages</title>
+      <link>https://www.artificialintelligence-news.com/news/ups-ai-aircraft-maintenance-parts</link>
+      <description>UPS is exploring AI to identify alternative aircraft parts and improve sourcing as the aviation industry faces supply chain challenges.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ups-ai-aircraft-maintenance-parts</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI &amp; Big Data Expo Europe sets out the next steps for enterprise AI</title>
+      <link>https://www.artificialintelligence-news.com/news/ai-big-data-expo-europe-sets-out-the-next-steps-for-enterprise-ai</link>
+      <description>AI &amp; Big Data Expo Europe will bring enterprise AI architecture, agent governance and data engineering to RAI Amsterdam on 19-20 October 2026.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-big-data-expo-europe-sets-out-the-next-steps-for-enterprise-ai</guid>
+      <pubDate>Thu, 15 Oct 2026 10:14:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

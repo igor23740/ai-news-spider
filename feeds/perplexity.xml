@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 18:32:50 +0000</lastBuildDate>
-    <item>
-      <title>AI Agent vs MCP? When To Use Each (&amp; When You Need Both)</title>
-      <link>https://www.perplexity.ai/hub/blog/agent-vs-mcp</link>
-      <description>Agent vs MCP: learn how AI agents and the Model Context Protocol differ, when to use each, and when you need both.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/agent-vs-mcp</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 18:18:59 +0000</lastBuildDate>
     <item>
       <title>Building shared workspaces for people and agents</title>
       <link>https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</link>
@@ -50,6 +43,20 @@
       <description>AI research explained: landmark papers, top labs, the best AI research tools, and 7 steps to using AI in your research.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-research</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to use AI for studying: 5 methods that work</title>
+      <link>https://www.perplexity.ai/hub/blog/how-to-use-ai-for-studying</link>
+      <description>Turn AI into a study partner with quizzes, spaced review and prompts that build recall instead of giving you the answers</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/how-to-use-ai-for-studying</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is LLM Security? How to Mitigate the OWASP Top 10</title>
+      <link>https://www.perplexity.ai/hub/blog/llm-security</link>
+      <description>LLM security explained: the OWASP Top 10 risks for LLM apps, with real examples and practical ways to limit the damage.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/llm-security</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

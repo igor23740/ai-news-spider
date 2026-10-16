@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:26:48 +0000</lastBuildDate>
     <item>
       <title>Endpoint Candidates: evaluate and promote inference endpoints</title>
       <link>https://modal.com/blog/endpoint-candidates</link>
       <description>Test and promote inference endpoints to evaluate quality, latency, throughput, and cost.</description>
       <guid isPermaLink="true">https://modal.com/blog/endpoint-candidates</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toward RL on mixed-precision, mixed</title>
-      <link>https://modal.com/blog/toward-rl-on-mixed-precision-mixed-accelerator-samplers</link>
-      <description>We trained a model on agentic coding tasks using fully asynchronous RL and mixed-precision, mixed-accelerator samplers. With off-policy correction, training stayed stable through convergence, on par with homogeneous samplers, at a lower cost.</description>
-      <guid isPermaLink="true">https://modal.com/blog/toward-rl-on-mixed-precision-mixed-accelerator-samplers</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Modal crosses $1B in Annualized Run Rate and raises $750M Series D</title>
@@ -36,6 +29,13 @@
       <description>Muse Spark Open, a coding-optimized multimodal model from Meta, is now available on Modal Auto Endpoints.</description>
       <guid isPermaLink="true">https://modal.com/blog/meta-muse-spark-open-now-available-on-modal</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building fast filesystems for VMs</title>
+      <link>https://modal.com/blog/vm-sandbox-filesystem</link>
+      <description>How we made VM Sandbox filesystems fast by speaking in blocks instead of files.</description>
+      <guid isPermaLink="true">https://modal.com/blog/vm-sandbox-filesystem</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

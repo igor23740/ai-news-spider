@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 23:20:33 +0000</lastBuildDate>
-    <item>
-      <title>Impactful scheduling for GPU clusters</title>
-      <link>https://allenai.org/blog/impactful-scheduling</link>
-      <description>We explain how Ai2’s new GPU scheduler uses time budgets, fair-share allocation, and time-slicing to prioritize high-impact research, shorten queue waits, and keep GPUs busy.</description>
-      <guid isPermaLink="true">https://allenai.org/blog/impactful-scheduling</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 07:35:58 +0000</lastBuildDate>
     <item>
       <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
       <link>https://allenai.org/blog/hiro-acev2</link>

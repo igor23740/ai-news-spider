@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:30:29 +0000</lastBuildDate>
     <item>
       <title>Singapore office and government MOU</title>
       <link>https://www.anthropic.com/news/singapore-office-opening</link>
@@ -29,6 +29,13 @@
       <description>Anthropic announces updates to embedding independent evaluators</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
       <pubDate>Thu, 15 Oct 2026 17:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+      <pubDate>Sun, 18 Oct 2026 16:49:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

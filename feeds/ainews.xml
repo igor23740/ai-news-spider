@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:08:21 +0000</lastBuildDate>
-    <item>
-      <title>Kyvvu: Why every AI agent needs to ‘ASK’ before it can act</title>
-      <link>https://www.artificialintelligence-news.com/news/kyvvu-why-every-ai-agent-needs-to-ask-before-it-can-act</link>
-      <description>Maurits Kaptein, co-founder and CTO of Kyvvu and full professor at TU/e Eindhoven, neatly explains how agentic AI has evolved – and how the threat has evolved with it. “Two or three years ago, we were worried about hallucinations because then it was a wrong piece of text,” he says. “Now a hallucination can be […]</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/kyvvu-why-every-ai-agent-needs-to-ask-before-it-can-act</guid>
-      <pubDate>Mon, 12 Oct 2026 09:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alibaba details QwenGyre to accelerate extreme</title>
-      <link>https://www.artificialintelligence-news.com/news/alibaba-details-qwengyre-accelerate-extreme-horizon-agent-training</link>
-      <description>Alibaba Qwen researchers have detailed QwenGyre, an elastic reinforcement learning framework that trains extreme-long horizon agents on multi-hour software engineering tasks.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/alibaba-details-qwengyre-accelerate-extreme-horizon-agent-training</guid>
-      <pubDate>Mon, 12 Oct 2026 13:44:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AISI outlines priorities to tackle frontier AI evaluation gaps</title>
-      <link>https://www.artificialintelligence-news.com/news/aisi-outlines-priorities-to-tackle-frontier-ai-evaluation-gaps</link>
-      <description>AISI outlines priorities to tackle frontier AI evaluation gaps</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/aisi-outlines-priorities-to-tackle-frontier-ai-evaluation-gaps</guid>
-      <pubDate>Mon, 12 Oct 2026 15:41:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 16:01:33 +0000</lastBuildDate>
     <item>
       <title>UK government expands AI cybersecurity efforts after finding 1,352 vulnerabilities</title>
       <link>https://www.artificialintelligence-news.com/news/uk-government-ai-cybersecurity-vulnerabilities</link>
@@ -78,6 +57,20 @@
       <description>Anthropic has opened a commercial office in Singapore and established a formal partnership with the city-state</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/singapore-partners-with-anthropic-on-public-sector-ai-deployments</guid>
       <pubDate>Fri, 16 Oct 2026 15:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic creates Public Benefit Fund that grows with company valuation</title>
+      <link>https://www.artificialintelligence-news.com/news/anthropic-creates-public-benefit-fund-that-grows-with-company-valuation</link>
+      <description>Anthropic is committing a portion of its shares to the Anthropic Public Benefit Fund, a new entity that will hold a larger stake as the company grows.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/anthropic-creates-public-benefit-fund-that-grows-with-company-valuation</guid>
+      <pubDate>Mon, 19 Oct 2026 10:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Council for Science and Technology urges UK AI sovereignty plan</title>
+      <link>https://www.artificialintelligence-news.com/news/council-for-science-and-technology-uk-ai-sovereignty-plan</link>
+      <description>The Council for Science and Technology (CST) has urged the UK government to develop an AI sovereignty plan, warning that without urgent action the country.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/council-for-science-and-technology-uk-ai-sovereignty-plan</guid>
+      <pubDate>Mon, 19 Oct 2026 15:12:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

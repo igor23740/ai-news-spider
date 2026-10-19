@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:09:20 +0000</lastBuildDate>
     <item>
       <title>AI costs: what teams pay to use AI tools</title>
       <link>https://www.perplexity.ai/hub/blog/ai-costs</link>
@@ -50,6 +50,13 @@
       <description>LLM security explained: the OWASP Top 10 risks for LLM apps, with real examples and practical ways to limit the damage.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/llm-security</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harness engineering: what it is and how it works</title>
+      <link>https://www.perplexity.ai/hub/blog/harness-engineering</link>
+      <description>Harness engineering explained: how the code around an AI model runs agents, manages context, and checks their work.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/harness-engineering</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

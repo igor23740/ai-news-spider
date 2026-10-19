@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 18:18:59 +0000</lastBuildDate>
-    <item>
-      <title>Building shared workspaces for people and agents</title>
-      <link>https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</link>
-      <description>How Perplexity Projects keep long-running work persistent, concurrent, and traceable.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 08:00:20 +0000</lastBuildDate>
     <item>
       <title>AI costs: what teams pay to use AI tools</title>
       <link>https://www.perplexity.ai/hub/blog/ai-costs</link>

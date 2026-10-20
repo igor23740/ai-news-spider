@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:24:51 +0000</lastBuildDate>
     <item>
-      <title>Introducing FireRouter with Opus</title>
-      <link>https://fireworks.ai/blog/introducing-firerouter-with-opus</link>
-      <description>FireRouter with Opus is our first router model for coding. Send routine tasks to top open models and keep Claude Opus for the rest. Proven 57% lower cost per coding session at 98.1% of Opus accuracy.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/introducing-firerouter-with-opus</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Muse Spark Open on Fireworks: Meta’s Open Weights Model, Available on US Serverless</title>
+      <link>https://fireworks.ai/blog/meta-muse-spark-open</link>
+      <description>Muse Spark Open, Meta’s open weights model, is live on Fireworks: #1 on Vals AI’s Harvey Legal Agent Benchmark, on US-only serverless with zero data retention.</description>
+      <guid isPermaLink="true">https://fireworks.ai/blog/meta-muse-spark-open</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

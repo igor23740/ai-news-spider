@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:25:46 +0000</lastBuildDate>
     <item>
       <title>Modal crosses $1B in Annualized Run Rate and raises $750M Series D</title>
       <link>https://modal.com/blog/1-billion-annualized-run-rate-series-d</link>
@@ -36,6 +36,13 @@
       <description>NVIDIA Vera CPUs double throughput for Modal Sandboxes</description>
       <guid isPermaLink="true">https://modal.com/blog/nvidia-vera-sandboxes</guid>
       <pubDate>Mon, 19 Oct 2026 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serverless routing made sticky</title>
+      <link>https://modal.com/blog/serverless-routing-made-sticky</link>
+      <description>Voice agents, multiplayer games, and other workloads can now build on Sticky Sessions. Achieve strong affinity without losing autoscaling. Here’s how we built this on Modal Servers.</description>
+      <guid isPermaLink="true">https://modal.com/blog/serverless-routing-made-sticky</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

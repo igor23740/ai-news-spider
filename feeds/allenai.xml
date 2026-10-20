@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:49:06 +0000</lastBuildDate>
     <item>
       <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
       <link>https://allenai.org/blog/hiro-acev2</link>
       <description>HiRO-ACEv2 captures extreme rain, wind, and pressure events at 3 km resolution for about 1/300th the cost of X-SHiELD, making detailed global climate simulations more accessible to researchers.</description>
       <guid isPermaLink="true">https://allenai.org/blog/hiro-acev2</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
+      <link>https://allenai.org/blog/fairstress</link>
+      <description>FairStress is a new benchmark that reveals demographic differences in how LLMs defend and explain their decisions, even when their final choices appear fair.</description>
+      <guid isPermaLink="true">https://allenai.org/blog/fairstress</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

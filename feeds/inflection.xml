@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 21:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:02:24 +0000</lastBuildDate>
     <item>
-      <title>Five kinds of AI assistant chatbot users, and the emerging chatbot roles (2 of 3)</title>
-      <link>https://inflection.ai/blog/five-kinds-of-chatbot-users</link>
-      <description>Inflection AI is pioneering personal intelligence. We</description>
-      <guid isPermaLink="true">https://inflection.ai/blog/five-kinds-of-chatbot-users</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taking no seriously: the frustration is real (3 of 3)</title>
-      <link>https://inflection.ai/blog/taking-no-seriously-the-frustration-is-real</link>
-      <description>Inflection AI is pioneering personal intelligence. We</description>
-      <guid isPermaLink="true">https://inflection.ai/blog/taking-no-seriously-the-frustration-is-real</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inflection AI is Shaping the Future of Personal Intelligence</title>
-      <link>https://inflection.ai/blog/inflection-ai-is-shaping-the-future-of-personal-intelligence</link>
-      <description>Inflection AI is pioneering personal intelligence. We</description>
-      <guid isPermaLink="true">https://inflection.ai/blog/inflection-ai-is-shaping-the-future-of-personal-intelligence</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Alice Collaborates with Inflection AI and AI21 to Demonstrate NVIDIA Nemotron Open Models Can Be Trained for Frontier Safety</title>
+      <link>https://inflection.ai/blog/alice-collaborates-with-inflection-ai-and-ai21-to-demonstrate-nvidia</link>
+      <description>Powerful open models can be trained for a range of safety and security challenges without compromising capability. Inflection AI and AI21 post-trained NVIDIA Nemotron open models with Alice’s safety data, demonstrating a path to responsibly deploying customizable AI.</description>
+      <guid isPermaLink="true">https://inflection.ai/blog/alice-collaborates-with-inflection-ai-and-ai21-to-demonstrate-nvidia</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

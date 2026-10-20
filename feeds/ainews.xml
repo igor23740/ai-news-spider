@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:59:50 +0000</lastBuildDate>
-    <item>
-      <title>UK government expands AI cybersecurity efforts after finding 1,352 vulnerabilities</title>
-      <link>https://www.artificialintelligence-news.com/news/uk-government-ai-cybersecurity-vulnerabilities</link>
-      <description>The UK government is expanding AI cybersecurity after pilots helped identify and address 1,352 vulnerabilities across 18 departments.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/uk-government-ai-cybersecurity-vulnerabilities</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 14:00:15 +0000</lastBuildDate>
     <item>
       <title>Virtual no KYC card for Claude: Developers Guide</title>
       <link>https://www.artificialintelligence-news.com/news/virtual-no-kyc-card-for-claude-developers-guide</link>
@@ -71,6 +64,13 @@
       <description>The Council for Science and Technology (CST) has urged the UK government to develop an AI sovereignty plan, warning that without urgent action the country.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/council-for-science-and-technology-uk-ai-sovereignty-plan</guid>
       <pubDate>Mon, 19 Oct 2026 15:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sarawak expands voice AI trials for government services</title>
+      <link>https://www.artificialintelligence-news.com/news/sarawak-voice-ai-government-services</link>
+      <description>Sarawak expands voice AI trials for government services</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/sarawak-voice-ai-government-services</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

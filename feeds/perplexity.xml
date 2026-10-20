@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 23:52:19 +0000</lastBuildDate>
-    <item>
-      <title>AI costs: what teams pay to use AI tools</title>
-      <link>https://www.perplexity.ai/hub/blog/ai-costs</link>
-      <description>AI costs explained: how AI tools are priced, what drives a team</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-costs</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 07:51:10 +0000</lastBuildDate>
     <item>
       <title>How SPACE routes requests to the right sandbox execution</title>
       <link>https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</link>

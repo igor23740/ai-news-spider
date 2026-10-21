@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:53:26 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic update on independent evaluators</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <description>Anthropic announces updates to embedding independent evaluators</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Investing in the public benefit</title>
       <link>https://www.anthropic.com/news/public-benefit-fund</link>

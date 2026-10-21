@@ -8,77 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:14:05 +0000</lastBuildDate>
-    <item>
-      <title>Claude Opus 4.6 now in Lovable</title>
-      <link>https://lovable.dev/blog/opus-4-6-now-in-lovable</link>
-      <description>Claude Opus 4.6 now in Lovable</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/opus-4-6-now-in-lovable</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go beyond building apps with Lovable</title>
-      <link>https://lovable.dev/blog/go-beyond-building-full-stack-apps-with-lovable</link>
-      <description>You can now analyze data, create and edit files, generate business docs, and turn things like spreadsheets into working apps without ever leaving Lovable.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/go-beyond-building-full-stack-apps-with-lovable</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lovable partners with Aikido to offer affordable pentesting for builders</title>
-      <link>https://lovable.dev/blog/announcing-pentesting</link>
-      <description>Introduced Penetration Testing for all Lovable projects.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/announcing-pentesting</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.7 now in Lovable</title>
-      <link>https://lovable.dev/blog/opus-4-7-now-in-lovable</link>
-      <description>Claude Opus 4.7 now in Lovable</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/opus-4-7-now-in-lovable</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wiz findings now in Lovable</title>
-      <link>https://lovable.dev/blog/wiz-findings-now-in-lovable</link>
-      <description>Wiz security scanning is now native to Lovable — findings surface in every project</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/wiz-findings-now-in-lovable</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turn repeated instructions into reusable skills in Lovable</title>
-      <link>https://lovable.dev/blog/introducing-skills</link>
-      <description>Learn how skills in Lovable let you save reusable instructions as markdown files, so you stop repeating yourself every time you build.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/introducing-skills</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</title>
-      <link>https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</link>
-      <description>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing subagents: Lovable is now better at multitasking</title>
-      <link>https://lovable.dev/blog/subagents-in-lovable</link>
-      <description>Lovable can now create subagents to help it research, explore, and search your project in parallel.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/subagents-in-lovable</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Lovable protects your apps automatically</title>
-      <link>https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</link>
-      <description>Learn about our new scan profiles, security memory, and security scanning scheduling.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Workspace Insights: See every project, govern with confidence</title>
-      <link>https://lovable.dev/blog/workspace-insights-govern-your-workspace</link>
-      <description>Workspace Insights brings every Enterprise project into one view in Security Center — see what</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/workspace-insights-govern-your-workspace</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 19:02:08 +0000</lastBuildDate>
     <item>
       <title>Your Lovable app now works inside ChatGPT and Claude</title>
       <link>https://lovable.dev/blog/agent-integrations</link>
@@ -218,6 +148,76 @@
       <description>GPT-Live, the latest Claude models, Gemini 4 Argon, Gemini Omni, Lyria, Perplexity, Firecrawl, Parallel and Jev are now in Lovable. Describe what you want to build and add voice, reasoning, video, music and live web research to your app.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/ai-models-and-tools-in-lovable</guid>
       <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Lovable Prompting Bible</title>
+      <link>https://lovable.dev/blog/2025-01-16-lovable-prompting-handbook</link>
+      <description>Stop Wasting Time with Bad Prompts—Here’s How to Get AI to Do Exactly What You Want.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-16-lovable-prompting-handbook</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Thriving Business with Lovable?</title>
+      <link>https://lovable.dev/blog/2025-01-21-from-solo-developer-to-1-million-dream-building-a-thriving-business-with-lovable</link>
+      <description>Learn how Harry, a solo developer turned entrepreneur, leveraged Lovable to build a thriving business, triple his revenue, and redefine client solutions with AI.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-21-from-solo-developer-to-1-million-dream-building-a-thriving-business-with-lovable</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software Development Lifecycle 2.0</title>
+      <link>https://lovable.dev/blog/2025-01-21-revolutionizing-the-software-development-lifecycle</link>
+      <description>Discover how Lovable is transforming the traditional software development lifecycle, enabling individuals to build, ship, and iterate faster than ever with AI-driven tools.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-21-revolutionizing-the-software-development-lifecycle</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinventing Design Systems</title>
+      <link>https://lovable.dev/blog/2025-01-24-reinventing-design-systems</link>
+      <description>Discover how Lovable is redefining design systems by blending AI and user-driven creativity, empowering designers to focus on impactful decisions while streamlining the entire development lifecycle.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-24-reinventing-design-systems</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redefining Product Development for PMs</title>
+      <link>https://lovable.dev/blog/2025-01-24-how-ai-tools-like-lovable-are-redefining-product-development-for-pms</link>
+      <description>Discover how AI-powered tools like Lovable are transforming product management into prototype management, enabling faster development, reduced costs, and a new era of skillsets for builders and PMs alike.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-24-how-ai-tools-like-lovable-are-redefining-product-development-for-pms</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Non-Tech Founders No Longer Need a Developer to Launch Software</title>
+      <link>https://lovable.dev/blog/2025-01-30-why-non-tech-founders-no-longer-need-a-developer-to-launch-software</link>
+      <description>The biggest challenge for non-technical founders is turning their business ideas into real products—AI-driven development with Lovable is changing that by eliminating the need for a technical co-founder.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/2025-01-30-why-non-tech-founders-no-longer-need-a-developer-to-launch-software</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Your AI App Faster—Even Without Coding Experience</title>
+      <link>https://lovable.dev/blog/how-to-build-ai-app</link>
+      <description>Learn how to build, scale, and optimize your AI-powered app with Supabase, Lovable, and best practices for seamless development.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-to-build-ai-app</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to set-up Supabase Authentication?</title>
+      <link>https://lovable.dev/blog/supabase-authentification-step-by-step</link>
+      <description>Discover a straightforward, real-world method to integrate Supabase authentication into your app’s development lifecycle, complete with practical tips and easy-to-follow steps.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/supabase-authentification-step-by-step</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontend Development Isn’t Just UI</title>
+      <link>https://lovable.dev/blog/frontend-development-with-lovable</link>
+      <description>Fundamentals, optimization strategies, and emerging trends of frontend development.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/frontend-development-with-lovable</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Develop an App with AI: Step-by-Step Guide</title>
+      <link>https://lovable.dev/blog/how-to-develop-an-app-with-ai</link>
+      <description>Learn how to develop an app using AI and no-code tools with a step-by-step approach, from idea to launch.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-to-develop-an-app-with-ai</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

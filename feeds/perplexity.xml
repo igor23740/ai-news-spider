@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:51:10 +0000</lastBuildDate>
-    <item>
-      <title>How SPACE routes requests to the right sandbox execution</title>
-      <link>https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</link>
-      <description>Discover how SPACE binds AI agent requests to the right sandbox execution with signed routes and identity checks.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Are MCP Tools and How Do AI Models Use Them?</title>
-      <link>https://www.perplexity.ai/hub/blog/mcp-tools</link>
-      <description>Learn what MCP tools are, how AI models discover and call them, and how to avoid common MCP tool problems.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/mcp-tools</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 14:05:00 +0000</lastBuildDate>
     <item>
       <title>AI Research: Major Papers, Top Tools &amp; Best Practices</title>
       <link>https://www.perplexity.ai/hub/blog/ai-research</link>
@@ -50,6 +36,27 @@
       <description>Harness engineering explained: how the code around an AI model runs agents, manages context, and checks their work.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/harness-engineering</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computer on enterprise infrastructure with Valarian</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-brings-computer-to-enterprise-infrastructure-with-valarian</link>
+      <description>Perplexity and Valarian bring Computer to institutional infrastructure with controls for sensitive data and regulated workloads</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/perplexity-brings-computer-to-enterprise-infrastructure-with-valarian</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is an AI Gateway? Routing, Cost Control, and Governance</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-gateway</link>
+      <description>Learn what an AI gateway does, how it differs from an API gateway, whether you need one, and how to choose one.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-gateway</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Computer runs fully local on Mac</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac</link>
+      <description>Perplexity Computer runs fully local on Mac: Work across private files and native apps with AI that stays on your device</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

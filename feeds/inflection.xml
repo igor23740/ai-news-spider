@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 23:42:32 +0000</lastBuildDate>
-    <item>
-      <title>Alice Collaborates with Inflection AI and AI21 to Demonstrate NVIDIA Nemotron Open Models Can Be Trained for Frontier Safety</title>
-      <link>https://inflection.ai/blog/alice-collaborates-with-inflection-ai-and-ai21-to-demonstrate-nvidia</link>
-      <description>Powerful open models can be trained for a range of safety and security challenges without compromising capability. Inflection AI and AI21 post-trained NVIDIA Nemotron open models with Alice’s safety data, demonstrating a path to responsibly deploying customizable AI.</description>
-      <guid isPermaLink="true">https://inflection.ai/blog/alice-collaborates-with-inflection-ai-and-ai21-to-demonstrate-nvidia</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 08:03:12 +0000</lastBuildDate>
     <item>
       <title>Open Safety Data for the Next Generation of Personal Intelligence</title>
       <link>https://inflection.ai/blog/open-safety-data-for-the-next-generation-of-personal-intelligence</link>

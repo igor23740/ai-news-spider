@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:49:26 +0000</lastBuildDate>
-    <item>
-      <title>Investing in the public benefit</title>
-      <link>https://www.anthropic.com/news/public-benefit-fund</link>
-      <description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 14:01:00 +0000</lastBuildDate>
     <item>
       <title>Physicist Christopher Stubbs joins Anthropic</title>
       <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>

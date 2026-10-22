@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:59:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:13:26 +0000</lastBuildDate>
     <item>
-      <title>AI21 Partners with Gong, Deel and Alice to Post-Train Specialized Models on NVIDIA Nemotron 3.5 Super VL</title>
-      <link>https://www.ai21.com/blog/ai21-post-trains-nvidia-nemotron-35-super-vl</link>
-      <description>Over the past three weeks, our team of Forward-Deployed Researchers (FDRs) post-trained NVIDIA’s Nemotron 3.5 Super VL in partnership with Gong, Deel, and Alice to deliver specialized models that surpass or match frontier quality on their defined use case – yet at a fraction of the cost.</description>
-      <guid isPermaLink="true">https://www.ai21.com/blog/ai21-post-trains-nvidia-nemotron-35-super-vl</guid>
-      <pubDate>Thu, 15 Oct 2026 11:50:52 +0000</pubDate>
+      <title>How we cut GitLab Duo Code Review</title>
+      <link>https://www.ai21.com/blog/gitlab-case-study</link>
+      <description>Switching models cut GitLab Duo Code Review’s cost by 85%, then stalled on a handful of oversized reviews. Compacting the context made them fit and took the saving to 98%, with review quality intact.</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/gitlab-case-study</guid>
+      <pubDate>Thu, 22 Oct 2026 11:26:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:47:14 +0000</lastBuildDate>
     <item>
       <title>How we cut GitLab Duo Code Review</title>
       <link>https://www.ai21.com/blog/gitlab-case-study</link>

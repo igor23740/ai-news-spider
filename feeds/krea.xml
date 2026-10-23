@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:41:02 +0000</lastBuildDate>
     <item>
       <title>Krea for Premiere Pro: AI Shots, Inserts and Plates Straight Into Your Timeline</title>
       <link>https://www.krea.ai/blog/krea-premiere-pro-plugin</link>
@@ -17,10 +17,31 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Krea for Photoshop: The AI Plugin for Generating, Relighting and Swapping Backgrounds</title>
+      <link>https://www.krea.ai/blog/krea-photoshop-plugin</link>
+      <description>Krea for Photoshop is a Photoshop plugin for AI image and video generation, background replacement, relighting, and multi-shot layouts. Results land as layers.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-photoshop-plugin</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Krea for Illustrator: Generate Artwork, Vectorize It and Design with Krea Agent</title>
       <link>https://www.krea.ai/blog/krea-illustrator-plugin</link>
       <description>Krea for Illustrator generates artwork, turns it into editable paths with Image Trace, and designs in the document with Krea Agent.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/krea-illustrator-plugin</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krea for DaVinci Resolve: AI Look Development, Plates and Grade References</title>
+      <link>https://www.krea.ai/blog/krea-davinci-resolve-plugin</link>
+      <description>Krea for DaVinci Resolve builds looks, plates, and grade references. It requires macOS 12 or later and DaVinci Resolve Studio. Windows is coming.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-davinci-resolve-plugin</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krea for Blender: The AI Add</title>
+      <link>https://www.krea.ai/blog/krea-blender-addon</link>
+      <description>Krea for Blender is an AI add-on for materials, lighting, and render exploration in the 3D Viewport. It needs Blender 5.2 or later.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-blender-addon</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

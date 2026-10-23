@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:46:57 +0000</lastBuildDate>
     <item>
       <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
       <link>https://allenai.org/blog/fairstress</link>
@@ -29,6 +29,13 @@
       <description>OlmoEarth v1.3 brings state-of-the-art satellite embeddings, precomputed global data, and a browser-based Embeddings Explorer for mapping and analyzing the planet.</description>
       <guid isPermaLink="true">https://allenai.org/blog/olmoearth-v1-3</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+      <link>https://allenai.org/blog/litpivot</link>
+      <description>LitPivot helps researchers refine early research ideas through literature-supported critiques and revisions as their proposals evolve.</description>
+      <guid isPermaLink="true">https://allenai.org/blog/litpivot</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

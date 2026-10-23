@@ -8,19 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:05:52 +0000</lastBuildDate>
     <item>
       <title>Train Muse Glimmer for free: Our recipe for out</title>
       <link>https://fireworks.ai/blog/train-muse-glimmer-for-free</link>
       <description>Fireworks Free Weights Club kicks off with Muse Glimmer: better predictions on Kalshi, a reproducible training recipe, and free SFT through November 30.</description>
       <guid isPermaLink="true">https://fireworks.ai/blog/train-muse-glimmer-for-free</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muse Spark Open on Fireworks: Meta’s Open Weights Model, Available on US Serverless</title>
-      <link>https://fireworks.ai/blog/meta-muse-spark-open</link>
-      <description>Muse Spark Open, Meta’s open weights model, is live on Fireworks: #1 on Vals AI’s Harvey Legal Agent Benchmark, on US-only serverless with zero data retention.</description>
-      <guid isPermaLink="true">https://fireworks.ai/blog/meta-muse-spark-open</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

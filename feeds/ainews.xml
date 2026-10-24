@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:08:14 +0000</lastBuildDate>
-    <item>
-      <title>GovTech Singapore and Google DeepMind detail on</title>
-      <link>https://www.artificialintelligence-news.com/news/govtech-singapore-google-deepmind-on-device-gemma-scam-detector</link>
-      <description>GovTech Singapore and Google DeepMind have developed an on-device scam detection system based on a fine-tuned Gemma AI model</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/govtech-singapore-google-deepmind-on-device-gemma-scam-detector</guid>
-      <pubDate>Thu, 15 Oct 2026 09:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>UPS explores AI to find alternative aircraft parts amid maintenance shortages</title>
-      <link>https://www.artificialintelligence-news.com/news/ups-ai-aircraft-maintenance-parts</link>
-      <description>UPS is exploring AI to identify alternative aircraft parts and improve sourcing as the aviation industry faces supply chain challenges.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ups-ai-aircraft-maintenance-parts</guid>
-      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI &amp; Big Data Expo Europe sets out the next steps for enterprise AI</title>
-      <link>https://www.artificialintelligence-news.com/news/ai-big-data-expo-europe-sets-out-the-next-steps-for-enterprise-ai</link>
-      <description>AI &amp; Big Data Expo Europe will bring enterprise AI architecture, agent governance and data engineering to RAI Amsterdam on 19-20 October 2026.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-big-data-expo-europe-sets-out-the-next-steps-for-enterprise-ai</guid>
-      <pubDate>Thu, 15 Oct 2026 10:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>NTT Data: Turning disconnected AI efforts into scalable, enterprise</title>
-      <link>https://www.artificialintelligence-news.com/news/ntt-data-turning-disconnected-ai-efforts-into-scalable-enterprise-wide-impact</link>
-      <description>The recently published Insights and Vision Report from NTT Data came to an interesting, yet important conclusion. AI cannot deliver its full value when layered onto broken processes; and organisations who win will apply AI where it can make a material difference and, crucially, embed governance from the outset. One key statistic from the report […]</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ntt-data-turning-disconnected-ai-efforts-into-scalable-enterprise-wide-impact</guid>
-      <pubDate>Fri, 16 Oct 2026 08:17:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Singapore partners with Anthropic on public sector AI deployments</title>
-      <link>https://www.artificialintelligence-news.com/news/singapore-partners-with-anthropic-on-public-sector-ai-deployments</link>
-      <description>Anthropic has opened a commercial office in Singapore and established a formal partnership with the city-state</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/singapore-partners-with-anthropic-on-public-sector-ai-deployments</guid>
-      <pubDate>Fri, 16 Oct 2026 15:29:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 07:39:35 +0000</lastBuildDate>
     <item>
       <title>Anthropic creates Public Benefit Fund that grows with company valuation</title>
       <link>https://www.artificialintelligence-news.com/news/anthropic-creates-public-benefit-fund-that-grows-with-company-valuation</link>
@@ -78,6 +43,34 @@
       <description>Sebastian Schmidt, Digital Science: On grounding enterprise AI in scientific evidence</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/sebastian-schmidt-digital-science-grounding-enterprise-ai-scientific-evidence</guid>
       <pubDate>Tue, 20 Oct 2026 15:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sentient Launches Open AI Fingerprinting Benchmark After Finding Most Methods Can Be Beaten</title>
+      <link>https://www.artificialintelligence-news.com/news/sentient-launches-open-ai-fingerprinting-benchmark-after-finding-most-methods-can-be-beaten</link>
+      <description>Sentient Launches Open AI Fingerprinting Benchmark After Finding Most Methods Can Be Beaten</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/sentient-launches-open-ai-fingerprinting-benchmark-after-finding-most-methods-can-be-beaten</guid>
+      <pubDate>Wed, 21 Oct 2026 09:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Chatbots to Autonomous Payments: XRPL Commons on the Next Phase of AI</title>
+      <link>https://www.artificialintelligence-news.com/news/from-chatbots-to-autonomous-payments-xrpl-commons-on-the-next-phase-of-ai</link>
+      <description>From Chatbots to Autonomous Payments: XRPL Commons on the Next Phase of AI</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/from-chatbots-to-autonomous-payments-xrpl-commons-on-the-next-phase-of-ai</guid>
+      <pubDate>Wed, 21 Oct 2026 10:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>State legislatures become de facto AI regulators as Congress stalls</title>
+      <link>https://www.artificialintelligence-news.com/news/state-legislatures-de-facto-ai-regulators-congress-stalls</link>
+      <description>US states introduced 1,539 AI bills in 2026, up from 1,262 a year earlier, according to the National Conference of State Legislatures (NCSL).</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/state-legislatures-de-facto-ai-regulators-congress-stalls</guid>
+      <pubDate>Thu, 22 Oct 2026 17:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft AI diagnostic tool outperforms doctors in clinical tests</title>
+      <link>https://www.artificialintelligence-news.com/news/microsoft-ai-diagnostic-tool</link>
+      <description>Microsoft AI diagnostic tool outperforms doctors in clinical tests</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/microsoft-ai-diagnostic-tool</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

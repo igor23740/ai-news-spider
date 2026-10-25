@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:30:45 +0000</lastBuildDate>
     <item>
       <title>How we cut GitLab Duo Code Review</title>
       <link>https://www.ai21.com/blog/gitlab-case-study</link>
       <description>Switching models cut GitLab Duo Code Review’s cost by 85%, then stalled on a handful of oversized reviews. Compacting the context made them fit and took the saving to 98%, with review quality intact.</description>
       <guid isPermaLink="true">https://www.ai21.com/blog/gitlab-case-study</guid>
       <pubDate>Thu, 22 Oct 2026 11:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why we built a benchmark before training for instruction following</title>
+      <link>https://www.ai21.com/blog/lift-bench-blog</link>
+      <description>Instruction-following rewards check the rules, not the task. Here’s why we built LIFT-Bench first.</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/lift-bench-blog</guid>
+      <pubDate>Sun, 25 Oct 2026 08:52:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:03:57 +0000</lastBuildDate>
-    <item>
-      <title>Anthropic creates Public Benefit Fund that grows with company valuation</title>
-      <link>https://www.artificialintelligence-news.com/news/anthropic-creates-public-benefit-fund-that-grows-with-company-valuation</link>
-      <description>Anthropic is committing a portion of its shares to the Anthropic Public Benefit Fund, a new entity that will hold a larger stake as the company grows.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/anthropic-creates-public-benefit-fund-that-grows-with-company-valuation</guid>
-      <pubDate>Mon, 19 Oct 2026 10:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Council for Science and Technology urges UK AI sovereignty plan</title>
-      <link>https://www.artificialintelligence-news.com/news/council-for-science-and-technology-uk-ai-sovereignty-plan</link>
-      <description>The Council for Science and Technology (CST) has urged the UK government to develop an AI sovereignty plan, warning that without urgent action the country.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/council-for-science-and-technology-uk-ai-sovereignty-plan</guid>
-      <pubDate>Mon, 19 Oct 2026 15:12:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 15:37:33 +0000</lastBuildDate>
     <item>
       <title>Sarawak expands voice AI trials for government services</title>
       <link>https://www.artificialintelligence-news.com/news/sarawak-voice-ai-government-services</link>
@@ -71,6 +57,13 @@
       <description>Microsoft AI diagnostic tool outperforms doctors in clinical tests</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/microsoft-ai-diagnostic-tool</guid>
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Argyll warns UK AI held back by grid queue as Microsoft exits Nscale site</title>
+      <link>https://www.artificialintelligence-news.com/news/argyll-uk-ai-held-back-grid-queue-microsoft-exits-nscale-site</link>
+      <description>Microsoft has exited as anchor customer for Nscale</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/argyll-uk-ai-held-back-grid-queue-microsoft-exits-nscale-site</guid>
+      <pubDate>Mon, 26 Oct 2026 12:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

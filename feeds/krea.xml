@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:52:47 +0000</lastBuildDate>
-    <item>
-      <title>Krea 3 vs Nano Banana Pro (2026): Ahead on Every Leaderboard</title>
-      <link>https://www.krea.ai/blog/krea-3-vs-nano-banana-pro-is-faster-editing-good-enough</link>
-      <description>Krea 3 ranks above Nano Banana Pro on Arena (1435 vs 1365), Design Arena (1298 vs 1245), and Artificial Analysis (Ultra 1151 and Fast 1125 vs 1106). It is 10× faster, 3× cheaper, compared to GPT Image 2 and Nano Banana Pro.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-3-vs-nano-banana-pro-is-faster-editing-good-enough</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea 3 vs GPT Image 2: Which AI Image Editor to Use in 2026</title>
-      <link>https://www.krea.ai/blog/krea-3-vs-gpt-image-2-which-ai-image-editor-to-use-in-2026</link>
-      <description>Krea 3 Ultra leads on Artificial Analysis (1151 vs GPT Image 2 (high) 1136) while GPT Image 2 leads on Arena and Design Arena. Krea 3 is 10× faster, 3× cheaper, compared to GPT Image 2 and Nano Banana Pro.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-3-vs-gpt-image-2-which-ai-image-editor-to-use-in-2026</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea 3 Crashes the Top 4: Every Benchmark, Explained</title>
-      <link>https://www.krea.ai/blog/krea-3-benchmarks</link>
-      <description>Krea 3 crashes the top 4. Design Arena, Arena, and Artificial Analysis ranks, explained.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-3-benchmarks</guid>
-      <pubDate>Tue, 20 Oct 2026 19:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 19:36:50 +0000</lastBuildDate>
     <item>
       <title>Multiplayer Nodes: Build Krea Workflows Together, Live</title>
       <link>https://www.krea.ai/blog/multiplayer-nodes</link>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:42:50 +0000</lastBuildDate>
     <item>
       <title>A crop-mapping benchmark for the tropics</title>
       <link>https://allenai.org/blog/planteur</link>
@@ -29,6 +29,13 @@
       <description>LitPivot helps researchers refine early research ideas through literature-supported critiques and revisions as their proposals evolve.</description>
       <guid isPermaLink="true">https://allenai.org/blog/litpivot</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
+      <link>https://allenai.org/blog/novelty-bench</link>
+      <description>Old Ideas, Novel Problems tests how reliably LLMs judge the novelty of research ideas, finding that small changes to the evaluation setup can produce very different verdicts.</description>
+      <guid isPermaLink="true">https://allenai.org/blog/novelty-bench</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

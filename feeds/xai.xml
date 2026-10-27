@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:59:34 +0000</lastBuildDate>
     <item>
       <title>Using Grok Bot to detect and respond to incidents</title>
       <link>https://x.ai/news/incident-sweep</link>

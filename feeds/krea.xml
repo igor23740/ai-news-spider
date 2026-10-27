@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:07:55 +0000</lastBuildDate>
-    <item>
-      <title>Krea for Premiere Pro: AI Shots, Inserts and Plates Straight Into Your Timeline</title>
-      <link>https://www.krea.ai/blog/krea-premiere-pro-plugin</link>
-      <description>Krea for Premiere Pro generates shots, inserts, and plates inside your edit. Results land as regular media you can trim and grade.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-premiere-pro-plugin</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea for Photoshop: The AI Plugin for Generating, Relighting and Swapping Backgrounds</title>
-      <link>https://www.krea.ai/blog/krea-photoshop-plugin</link>
-      <description>Krea for Photoshop is a Photoshop plugin for AI image and video generation, background replacement, relighting, and multi-shot layouts. Results land as layers.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-photoshop-plugin</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea for Illustrator: Generate Artwork, Vectorize It and Design with Krea Agent</title>
-      <link>https://www.krea.ai/blog/krea-illustrator-plugin</link>
-      <description>Krea for Illustrator generates artwork, turns it into editable paths with Image Trace, and designs in the document with Krea Agent.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-illustrator-plugin</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea for DaVinci Resolve: AI Look Development, Plates and Grade References</title>
-      <link>https://www.krea.ai/blog/krea-davinci-resolve-plugin</link>
-      <description>Krea for DaVinci Resolve builds looks, plates, and grade references. It requires macOS 12 or later and DaVinci Resolve Studio. Windows is coming.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-davinci-resolve-plugin</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea for Blender: The AI Add</title>
-      <link>https://www.krea.ai/blog/krea-blender-addon</link>
-      <description>Krea for Blender is an AI add-on for materials, lighting, and render exploration in the 3D Viewport. It needs Blender 5.2 or later.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-blender-addon</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea for After Effects: Generate Plates, Backgrounds and Motion Concepts Inside Your Comp</title>
-      <link>https://www.krea.ai/blog/krea-after-effects-plugin</link>
-      <description>Krea for After Effects generates plates, backgrounds, and motion concepts inside your composition. It needs After Effects 2025 or newer.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/krea-after-effects-plugin</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 00:02:07 +0000</lastBuildDate>
     <item>
       <title>Krea 3 vs Nano Banana Pro (2026): Ahead on Every Leaderboard</title>
       <link>https://www.krea.ai/blog/krea-3-vs-nano-banana-pro-is-faster-editing-good-enough</link>
@@ -78,6 +36,62 @@
       <description>Krea Nodes is now multiplayer. Edit the same canvas with your team in real time, with live cursors, shared runs, personal undo, and view or edit sharing.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/multiplayer-nodes</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance 2.5 vs Wan 3.0: 30</title>
+      <link>https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0</link>
+      <description>Seedance 2.5 vs Wan 3.0, tested on Krea with matched prompts: dialogue, action, a 20-second one-take, references, audio and cost per second.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance 2.5 vs MiniMax H3: Tested Side by Side (2026)</title>
+      <link>https://www.krea.ai/blog/seedance-2-5-vs-minimax-h3</link>
+      <description>Seedance 2.5 vs MiniMax H3 and H3 Max, tested on Krea with matched prompts: dialogue, action, clip length, references and cost per second.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-vs-minimax-h3</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance 2.5 Prompt Guide: How to Write Prompts That Work</title>
+      <link>https://www.krea.ai/blog/seedance-2-5-prompt-guide</link>
+      <description>Seedance 2.5 prompt guide: the prompt formula, action and camera language, multi-shot timing, @ references, and audio cues, with annotated examples.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-prompt-guide</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance 2.5 Pricing: What Each Video Costs (2026)</title>
+      <link>https://www.krea.ai/blog/seedance-2-5-pricing-cost-per-video</link>
+      <description>Seedance 2.5 pricing on Krea: compute-unit cost per second at 480p, 720p and 1080p, 5–30s clip tables, video-reference billing, draft mode and API.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-pricing-cost-per-video</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance 2.5 Draft Mode, Extend, Reframe and 1080p Guide</title>
+      <link>https://www.krea.ai/blog/seedance-2-5-draft-mode-extend-reframe-guide</link>
+      <description>How Seedance 2.5 draft mode, video extension, reframing, and video editing work on Krea, plus its real resolution limit (1080p) and how to get 4K.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/seedance-2-5-draft-mode-extend-reframe-guide</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Seedance 2.5 Free? Trials, Unlimited &amp; Cheapest Way</title>
+      <link>https://www.krea.ai/blog/is-seedance-2-5-free</link>
+      <description>Is Seedance 2.5 Free? Trials, Unlimited &amp; Cheapest Way</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/is-seedance-2-5-free</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Seedance 2.5: Step-by</title>
+      <link>https://www.krea.ai/blog/how-to-use-seedance-2-5</link>
+      <description>How to use Seedance 2.5 on Krea, step by step: pick an input mode, set duration and resolution, draft cheaply, generate, extend, upscale and download.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/how-to-use-seedance-2-5</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can You Run Seedance 2.5 Locally? Open Source Status</title>
+      <link>https://www.krea.ai/blog/can-you-run-seedance-2-5-locally</link>
+      <description>Is Seedance 2.5 open source? Can you download it, run it locally, or load it in ComfyUI? What</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/can-you-run-seedance-2-5-locally</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,125 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:13:13 +0000</lastBuildDate>
     <item>
       <title>Kling 4.0 in Luma: Fast Action and Big Camera Moves</title>
       <link>https://lumalabs.ai/news/kling-4-in-luma-ai-video</link>
       <description>Kling 4.0 is now in Luma. Use it for fast action and big camera moves, then judge and refine the shot in the same board as the rest of your project.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/kling-4-in-luma-ai-video</guid>
       <pubDate>Fri, 23 Oct 2026 00:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luma Mini-Apps: One-Click Tools Inside Luma Agents</title>
+      <link>https://lumalabs.ai/news/luma-mini-apps</link>
+      <description>Explore Luma Mini-Apps in Luma Agents to edit images, create ad variants, preserve brand consistency, and automate creative workflows with one-click Skills.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-mini-apps</guid>
+      <pubDate>Tue, 27 Oct 2026 02:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Tools for E-Commerce Imagery: Try-On, Product Shots, Backgrounds, Variants</title>
+      <link>https://lumalabs.ai/news/ai-tools-e-commerce-imagery</link>
+      <description>Compare the best AI tools for e-commerce imagery, from virtual try-on and product photography to background editing, ad variants, and brand-consistent visuals.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-tools-e-commerce-imagery</guid>
+      <pubDate>Tue, 27 Oct 2026 03:35:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Tools for Filmmakers: Camera Angles, Relighting and Face Swap</title>
+      <link>https://lumalabs.ai/news/ai-tools-filmmakers</link>
+      <description>Explore the best AI filmmaking tools for camera angles, relighting, and face swaps. Compare features that streamline production, preserve creative control, and reduce reshoots.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-tools-filmmakers</guid>
+      <pubDate>Tue, 27 Oct 2026 04:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Face Swap Tools for Video in 2026</title>
+      <link>https://lumalabs.ai/news/ai-face-swap-tools-video</link>
+      <description>Compare the best AI face swap tools for video in 2026. Explore features, pricing, video consistency, creative workflows, and responsible use for professional content.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-face-swap-tools-video</guid>
+      <pubDate>Tue, 27 Oct 2026 04:48:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Camera Angle Changers for Images and Video</title>
+      <link>https://lumalabs.ai/news/ai-camera-angle-changers-images-video</link>
+      <description>Compare the best AI camera angle changers for images and video. Explore tools for storyboarding, product photography, cinematic control, and consistent creative workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-camera-angle-changers-images-video</guid>
+      <pubDate>Tue, 27 Oct 2026 04:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Virtual Try-On Tools for E-Commerce in 2026</title>
+      <link>https://lumalabs.ai/news/ai-virtual-tools-e-commerce</link>
+      <description>Compare the best AI virtual try-on tools for e-commerce in 2026. Explore apparel, beauty, eyewear, and footwear solutions to improve shopping experiences and scale creative production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-virtual-tools-e-commerce</guid>
+      <pubDate>Tue, 27 Oct 2026 05:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Background Swap for Seasonal and Regional Campaigns</title>
+      <link>https://lumalabs.ai/news/ai-background-swap-for-seasonal-and-regional-campaigns</link>
+      <description>Create seasonal and regional campaigns faster with AI background swap tools. Transform product photos into localized, on-brand visuals without costly reshoots or delays.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-background-swap-for-seasonal-and-regional-campaigns</guid>
+      <pubDate>Tue, 27 Oct 2026 05:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Product Photography Tools in 2026</title>
+      <link>https://lumalabs.ai/news/ai-product-photography-tools</link>
+      <description>Compare the best AI product photography tools in 2026. Explore features for image generation, background editing, catalog automation, and scalable e-commerce campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-product-photography-tools</guid>
+      <pubDate>Tue, 27 Oct 2026 05:37:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>50 Ad Creatives from One Approved Asset</title>
+      <link>https://lumalabs.ai/news/50-ad-creatives-from-one-approved-asset</link>
+      <description>Learn how Luma turns one approved asset into 50 on-brand ad creatives with AI-powered editing, localization, video generation, and faster campaign testing.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/50-ad-creatives-from-one-approved-asset</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Camera Angle Prompts: 30 Shots to Reframe Any Scene</title>
+      <link>https://lumalabs.ai/news/camera-angle-prompts</link>
+      <description>Master 30 camera angle prompts to create cinematic AI videos, reframe scenes, maintain visual consistency, and refine campaign assets with Luma</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/camera-angle-prompts</guid>
+      <pubDate>Tue, 27 Oct 2026 06:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Background Change Prompts: 30 Scenes for Products and Portraits</title>
+      <link>https://lumalabs.ai/news/background-change-prompts</link>
+      <description>Explore 30 AI background change prompts for product photography and portraits. Create stunning scenes, seasonal variations, and consistent campaign visuals with Luma.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/background-change-prompts</guid>
+      <pubDate>Tue, 27 Oct 2026 06:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Product Placement: Lifestyle Scenes Without a Shoot</title>
+      <link>https://lumalabs.ai/news/ai-product-placement</link>
+      <description>Create realistic AI product photography with lifestyle scenes, seasonal variations, and localized visuals. Learn how Luma transforms product photos without costly shoots.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-product-placement</guid>
+      <pubDate>Tue, 27 Oct 2026 06:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Relighting for Product Photography</title>
+      <link>https://lumalabs.ai/news/ai-relighting-product-photography</link>
+      <description>Discover how AI relighting transforms product photography by adjusting lighting, shadows, and mood. Create consistent visuals faster with Luma, without costly reshoots.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-relighting-product-photography</guid>
+      <pubDate>Tue, 27 Oct 2026 06:52:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Product Photos vs a Studio Shoot: Cost, Speed, Quality</title>
+      <link>https://lumalabs.ai/news/ai-product-photos-vs-studio-shoot</link>
+      <description>Compare AI product photos vs. studio shoots on cost, speed, and quality. Learn how Luma combines studio accuracy with AI-powered creative variations.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-product-photos-vs-studio-shoot</guid>
+      <pubDate>Tue, 27 Oct 2026 07:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reface and Remaker Alternatives for Professional Video</title>
+      <link>https://lumalabs.ai/news/reface-remaker-alternatives</link>
+      <description>Compare the best Reface and Remaker alternatives for professional video. Explore Luma Ray 3.2, HDR exports, cinematic controls, and campaign-ready AI workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/reface-remaker-alternatives</guid>
+      <pubDate>Tue, 27 Oct 2026 07:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Face Swap for Ads: One Spot, Every Market, No Reshoot</title>
+      <link>https://lumalabs.ai/news/ai-face-swap-ads</link>
+      <description>Learn how AI face swap helps brands localize ads, create campaign variations, and reduce reshoots with Luma</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-face-swap-ads</guid>
+      <pubDate>Tue, 27 Oct 2026 07:31:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

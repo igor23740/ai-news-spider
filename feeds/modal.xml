@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:02:03 +0000</lastBuildDate>
-    <item>
-      <title>Get started with LLM training on Modal</title>
-      <link>https://modal.com/blog/get-started-with-llm-training-on-modal</link>
-      <description>Reinforcement learning for LLMs is hard, so we built Modal Dojo — a library that gives you the building blocks, tuned defaults, and observability to get started with production-grade LLM training.</description>
-      <guid isPermaLink="true">https://modal.com/blog/get-started-with-llm-training-on-modal</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 19:56:18 +0000</lastBuildDate>
     <item>
       <title>Introducing our Training API</title>
       <link>https://modal.com/blog/introducing-training-api</link>
       <description>Spindle is an open-source API for training and fine-tuning open models — deploy a server with a single command and run any Tinker-compatible training code against it.</description>
       <guid isPermaLink="true">https://modal.com/blog/introducing-training-api</guid>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Launching a trillion-parameter model at Sakana AI</title>
+      <link>https://modal.com/blog/sakana-case-study</link>
+      <description>Launching a trillion-parameter model at Sakana AI</description>
+      <guid isPermaLink="true">https://modal.com/blog/sakana-case-study</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

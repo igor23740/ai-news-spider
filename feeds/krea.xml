@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:49:36 +0000</lastBuildDate>
     <item>
       <title>Multiplayer Nodes: Build Krea Workflows Together, Live</title>
       <link>https://www.krea.ai/blog/multiplayer-nodes</link>
@@ -71,6 +71,20 @@
       <description>Is Seedance 2.5 open source? Can you download it, run it locally, or load it in ComfyUI? What</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/can-you-run-seedance-2-5-locally</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Restore Old Photos: Scan, Repair, Colorize and Print (2026)</title>
+      <link>https://www.krea.ai/blog/how-to-restore-old-photos</link>
+      <description>How to restore old photos step by step: scan prints the right way, repair scratches and tears with AI, colorize black and white, and upscale for printing.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/how-to-restore-old-photos</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Improve Photo Quality: Fix Blurry, Noisy and Low</title>
+      <link>https://www.krea.ai/blog/how-to-improve-photo-quality</link>
+      <description>How to improve photo quality: find out why a photo looks bad, then fix low resolution, blur, noise, poor lighting and compression, on a phone or online.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/how-to-improve-photo-quality</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

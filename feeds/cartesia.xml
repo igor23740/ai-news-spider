@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:55:04 +0000</lastBuildDate>
     <item>
-      <title>Raise Financial Services x Cartesia: Voice AI for Financial Access in India</title>
-      <link>https://www.cartesia.ai/blog/raise-financial-services</link>
-      <description>Raise Financial Services, the Indian company building Dhan, Millions, and fuzz, is developing multilingual voice experiences with Cartesia for Indian financial markets.</description>
-      <guid isPermaLink="true">https://www.cartesia.ai/blog/raise-financial-services</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <title>From Tokens to Bytes II: Learning from Raw Data</title>
+      <link>https://www.cartesia.ai/blog/from-tokens-to-bytes-part-2</link>
+      <description>We provide evidence that byte-level language models fundamentally understand the data better, as measured by how pretraining performance translates to downstream tasks.</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-2</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Tokens to Bytes I: Scaling Hierarchical Networks</title>
+      <link>https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</link>
+      <description>A newer generation of H-Nets learns directly from raw bytes, and matches an open-source 3B Transformer with 10x less compute and data.</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:06 +0000</lastBuildDate>
     <item>
       <title>Kling 4.0 in Luma: Fast Action and Big Camera Moves</title>
       <link>https://lumalabs.ai/news/kling-4-in-luma-ai-video</link>
       <description>Kling 4.0 is now in Luma. Use it for fast action and big camera moves, then judge and refine the shot in the same board as the rest of your project.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/kling-4-in-luma-ai-video</guid>
       <pubDate>Fri, 23 Oct 2026 00:24:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luma Mini-Apps: One-Click Tools Inside Luma Agents</title>
-      <link>https://lumalabs.ai/news/luma-mini-apps</link>
-      <description>Explore Luma Mini-Apps in Luma Agents to edit images, create ad variants, preserve brand consistency, and automate creative workflows with one-click Skills.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/luma-mini-apps</guid>
-      <pubDate>Tue, 27 Oct 2026 02:38:42 +0000</pubDate>
     </item>
     <item>
       <title>AI Tools for E-Commerce Imagery: Try-On, Product Shots, Backgrounds, Variants</title>
@@ -52,13 +45,6 @@
       <pubDate>Tue, 27 Oct 2026 04:58:15 +0000</pubDate>
     </item>
     <item>
-      <title>Best AI Virtual Try-On Tools for E-Commerce in 2026</title>
-      <link>https://lumalabs.ai/news/ai-virtual-tools-e-commerce</link>
-      <description>Compare the best AI virtual try-on tools for e-commerce in 2026. Explore apparel, beauty, eyewear, and footwear solutions to improve shopping experiences and scale creative production.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-virtual-tools-e-commerce</guid>
-      <pubDate>Tue, 27 Oct 2026 05:08:08 +0000</pubDate>
-    </item>
-    <item>
       <title>AI Background Swap for Seasonal and Regional Campaigns</title>
       <link>https://lumalabs.ai/news/ai-background-swap-for-seasonal-and-regional-campaigns</link>
       <description>Create seasonal and regional campaigns faster with AI background swap tools. Transform product photos into localized, on-brand visuals without costly reshoots or delays.</description>
@@ -80,6 +66,13 @@
       <pubDate>Tue, 27 Oct 2026 05:59:55 +0000</pubDate>
     </item>
     <item>
+      <title>Best AI Virtual Try-On Tools for E-Commerce in 2026</title>
+      <link>https://lumalabs.ai/news/ai-virtual-tools-e-commerce</link>
+      <description>Compare the best AI virtual try-on tools for e-commerce in 2026. Explore apparel, beauty, eyewear, and footwear solutions to improve shopping experiences and scale creative production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-virtual-tools-e-commerce</guid>
+      <pubDate>Tue, 27 Oct 2026 06:08:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Camera Angle Prompts: 30 Shots to Reframe Any Scene</title>
       <link>https://lumalabs.ai/news/camera-angle-prompts</link>
       <description>Master 30 camera angle prompts to create cinematic AI videos, reframe scenes, maintain visual consistency, and refine campaign assets with Luma</description>
@@ -99,6 +92,13 @@
       <description>Create realistic AI product photography with lifestyle scenes, seasonal variations, and localized visuals. Learn how Luma transforms product photos without costly shoots.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-product-placement</guid>
       <pubDate>Tue, 27 Oct 2026 06:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luma Mini-Apps: One-Click Tools Inside Luma Agents</title>
+      <link>https://lumalabs.ai/news/luma-mini-apps</link>
+      <description>Explore Luma Mini-Apps in Luma Agents to edit images, create ad variants, preserve brand consistency, and automate creative workflows with one-click Skills.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-mini-apps</guid>
+      <pubDate>Tue, 27 Oct 2026 06:38:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Relighting for Product Photography</title>

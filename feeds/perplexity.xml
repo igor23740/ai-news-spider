@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:55:43 +0000</lastBuildDate>
     <item>
       <title>How to Track and Control Team Token Spend</title>
       <link>https://www.perplexity.ai/hub/blog/token-spend</link>
@@ -36,6 +36,13 @@
       <description>Learn the types of RAG architecture, how they differ and overlap, with detailed real-world examples.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-architecture</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Does an LLM Gateway Work? A Practical Guide</title>
+      <link>https://www.perplexity.ai/hub/blog/llm-gateway</link>
+      <description>Learn how an LLM gateway routes, secures, and logs model calls, plus the risks and features to weigh before production.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/llm-gateway</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

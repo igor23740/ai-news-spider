@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:57:50 +0000</lastBuildDate>
     <item>
       <title>From Tokens to Bytes II: Learning from Raw Data</title>
       <link>https://www.cartesia.ai/blog/from-tokens-to-bytes-part-2</link>
@@ -22,6 +22,13 @@
       <description>A newer generation of H-Nets learns directly from raw bytes, and matches an open-source 3B Transformer with 10x less compute and data.</description>
       <guid isPermaLink="true">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Managed Agents</title>
+      <link>https://www.cartesia.ai/blog/managed-agents</link>
+      <description>Today, we’re launching Cartesia Managed Agents, our end-to-end voice agent platform for enterprise conversations.</description>
+      <guid isPermaLink="true">https://www.cartesia.ai/blog/managed-agents</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

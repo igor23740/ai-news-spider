@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:50:58 +0000</lastBuildDate>
     <item>
       <title>Seedance 2.5 vs Wan 3.0: 30</title>
       <link>https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0</link>
@@ -78,6 +78,20 @@
       <description>How to improve photo quality: find out why a photo looks bad, then fix low resolution, blur, noise, poor lighting and compression, on a phone or online.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/how-to-improve-photo-quality</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to AI Face Swap a Photo, Step by Step</title>
+      <link>https://www.krea.ai/blog/how-to-face-swap-with-ai</link>
+      <description>How to do an AI face swap on a photo: upload a target image and a source face in Krea, generate the swap, then refine it. Free to start, no account required.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/how-to-face-swap-with-ai</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Ad Studio</title>
+      <link>https://www.krea.ai/blog/introducing-ad-studio</link>
+      <description>Ad Studio turns your website into a brand kit and on-brand ads made with Krea 3. Paste a URL, pick your products and placements, and get a batch of ads in minutes.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/introducing-ad-studio</guid>
+      <pubDate>Thu, 29 Oct 2026 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:59:02 +0000</lastBuildDate>
     <item>
       <title>Devin Security: Find and fix your most dangerous vulnerabilities</title>
       <link>https://cognition.com/blog/devin-security</link>
       <description>A major upgrade to Devin Security, with deep scans powered by frontier cyber models, and hundreds of millions of dollars in Devin credits to help…</description>
       <guid isPermaLink="true">https://cognition.com/blog/devin-security</guid>
       <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corridor is Joining Cognition</title>
+      <link>https://cognition.com/blog/corridor-joining-cognition</link>
+      <description>Corridor is joining Cognition, where we’ll be taking Devin Security to the next level.</description>
+      <guid isPermaLink="true">https://cognition.com/blog/corridor-joining-cognition</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

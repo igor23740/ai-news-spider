@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:53:23 +0000</lastBuildDate>
-    <item>
-      <title>Introducing our Training API</title>
-      <link>https://modal.com/blog/introducing-training-api</link>
-      <description>Spindle is an open-source API for training and fine-tuning open models — deploy a server with a single command and run any Tinker-compatible training code against it.</description>
-      <guid isPermaLink="true">https://modal.com/blog/introducing-training-api</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 15:38:46 +0000</lastBuildDate>
     <item>
       <title>Launching a trillion-parameter model at Sakana AI</title>
       <link>https://modal.com/blog/sakana-case-study</link>

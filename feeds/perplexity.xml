@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:55:43 +0000</lastBuildDate>
-    <item>
-      <title>How to Track and Control Team Token Spend</title>
-      <link>https://www.perplexity.ai/hub/blog/token-spend</link>
-      <description>Learn how to track team token spend, what drives it up, and how to use controls and budgets to reduce it.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/token-spend</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A good teacher meets the student where they are</title>
-      <link>https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are</link>
-      <description>JOLT jointly trains a teacher and student to improve reasoning, agentic performance, and training efficiency.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to evaluate AI agents: test sets, graders, regressions</title>
-      <link>https://www.perplexity.ai/hub/blog/ai-agent-evaluation</link>
-      <description>Learn how to evaluate AI agents with test sets, code and LLM graders, repeated trials, and regression checks.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-agent-evaluation</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 15:27:37 +0000</lastBuildDate>
     <item>
       <title>What Is RAG Architecture? Definition and Examples</title>
       <link>https://www.perplexity.ai/hub/blog/rag-architecture</link>
@@ -43,6 +22,20 @@
       <description>Learn how an LLM gateway routes, secures, and logs model calls, plus the risks and features to weigh before production.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/llm-gateway</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Basic RAG Implementation: A Step-by</title>
+      <link>https://www.perplexity.ai/hub/blog/rag-implementation</link>
+      <description>Learn RAG implementation step by step: build a basic RAG system with Python, ChromaDB, and Perplexity</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-implementation</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity achieves FedRAMP Moderate certification</title>
+      <link>https://www.perplexity.ai/hub/blog/new-fedramp-certification-brings-perplexity-to-more-government-workflows</link>
+      <description>Federal agencies can search the live web with Perplexity and get cited answers in a FedRAMP Moderate-certified platform.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/new-fedramp-certification-brings-perplexity-to-more-government-workflows</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

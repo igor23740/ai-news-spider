@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:14:37 +0000</lastBuildDate>
     <item>
       <title>Seedance 2.5 vs Wan 3.0: 30</title>
       <link>https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0</link>
@@ -84,6 +84,13 @@
       <link>https://www.krea.ai/blog/how-to-face-swap-with-ai</link>
       <description>How to do an AI face swap on a photo: upload a target image and a source face in Krea, generate the swap, then refine it. Free to start, no account required.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/how-to-face-swap-with-ai</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best Image to Video AI Tools in 2026, Prices Checked</title>
+      <link>https://www.krea.ai/blog/best-image-to-video-ai-tools-in-2026</link>
+      <description>The best image to video AI tools in 2026: Krea, Kling 4.0, Veo 3.1 in Google Flow, Runway, Firefly, Luma, Pika, HeyGen, Hailuo and Vidu, with free tiers, prices and clip lengths.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-image-to-video-ai-tools-in-2026</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

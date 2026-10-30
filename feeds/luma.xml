@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:09:40 +0000</lastBuildDate>
-    <item>
-      <title>Kling 4.0 in Luma: Fast Action and Big Camera Moves</title>
-      <link>https://lumalabs.ai/news/kling-4-in-luma-ai-video</link>
-      <description>Kling 4.0 is now in Luma. Use it for fast action and big camera moves, then judge and refine the shot in the same board as the rest of your project.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/kling-4-in-luma-ai-video</guid>
-      <pubDate>Fri, 23 Oct 2026 00:24:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 15:17:32 +0000</lastBuildDate>
     <item>
       <title>AI Tools for E-Commerce Imagery: Try-On, Product Shots, Backgrounds, Variants</title>
       <link>https://lumalabs.ai/news/ai-tools-e-commerce-imagery</link>

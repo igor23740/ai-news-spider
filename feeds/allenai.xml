@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:58:12 +0000</lastBuildDate>
-    <item>
-      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-      <link>https://allenai.org/blog/litpivot</link>
-      <description>LitPivot helps researchers refine early research ideas through literature-supported critiques and revisions as their proposals evolve.</description>
-      <guid isPermaLink="true">https://allenai.org/blog/litpivot</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 00:14:14 +0000</lastBuildDate>
     <item>
       <title>Can we trust LLMs to judge whether a research idea is novel?</title>
       <link>https://allenai.org/blog/novelty-bench</link>

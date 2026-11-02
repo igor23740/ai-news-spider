@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:32:44 +0000</lastBuildDate>
-    <item>
-      <title>What Is RAG Architecture? Definition and Examples</title>
-      <link>https://www.perplexity.ai/hub/blog/rag-architecture</link>
-      <description>Learn the types of RAG architecture, how they differ and overlap, with detailed real-world examples.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-architecture</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 22:54:03 +0000</lastBuildDate>
     <item>
       <title>How Does an LLM Gateway Work? A Practical Guide</title>
       <link>https://www.perplexity.ai/hub/blog/llm-gateway</link>
@@ -43,6 +36,20 @@
       <description>Learn what text embeddings are, how they work, and how to choose the right embedding model, with real-world examples.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/text-embeddings</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI agent memory: How to build agents with persistent context</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-agent-memory</link>
+      <description>Learn how AI agent memory works, the types of agentic memory, and how to build agents with persistent context.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-agent-memory</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building stronger defenses for real</title>
+      <link>https://www.perplexity.ai/hub/blog/browsesafe-plus-plus</link>
+      <description>BrowseSafe++ is an open benchmark built from real-world injections. We also release a pair of lightweight detectors and adaptive testing for browser agents.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/browsesafe-plus-plus</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

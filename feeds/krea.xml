@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:38:05 +0000</lastBuildDate>
     <item>
       <title>How to Improve Photo Quality: Fix Blurry, Noisy and Low</title>
       <link>https://www.krea.ai/blog/how-to-improve-photo-quality</link>
@@ -50,6 +50,13 @@
       <description>How antrofrog made the AI short No Ordinary Love, and how to make an AI animation like it on Krea with Krea 3 and Seedance 2.5.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krea 3 Technical Report</title>
+      <link>https://www.krea.ai/blog/krea-3-technical-report</link>
+      <description>Technical report for Krea 3 (K3), our frontier image-to-image model for fast, cost-efficient editing: architecture, training, data, reinforcement learning, and preference optimization.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/krea-3-technical-report</guid>
+      <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

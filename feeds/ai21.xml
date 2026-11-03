@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:38:48 +0000</lastBuildDate>
     <item>
-      <title>Why we built a benchmark before training for instruction following</title>
-      <link>https://www.ai21.com/blog/lift-bench-blog</link>
-      <description>Instruction-following rewards check the rules, not the task. Here’s why we built LIFT-Bench first.</description>
-      <guid isPermaLink="true">https://www.ai21.com/blog/lift-bench-blog</guid>
-      <pubDate>Sun, 25 Oct 2026 08:52:27 +0000</pubDate>
+      <title>Post-training case study: Reaching frontier-level attack resilience with Alice</title>
+      <link>https://www.ai21.com/blog/ai21-alice-case-study</link>
+      <description>In 3 weeks, we post-trained NVIDIA Nemotron 3.5 Super VL with Alice: 41 points more resilient to attacks, beating GPT-6.1 Sol at 25x lower cost</description>
+      <guid isPermaLink="true">https://www.ai21.com/blog/ai21-alice-case-study</guid>
+      <pubDate>Mon, 02 Nov 2026 13:35:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

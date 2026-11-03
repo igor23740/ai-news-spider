@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 22:54:03 +0000</lastBuildDate>
-    <item>
-      <title>How Does an LLM Gateway Work? A Practical Guide</title>
-      <link>https://www.perplexity.ai/hub/blog/llm-gateway</link>
-      <description>Learn how an LLM gateway routes, secures, and logs model calls, plus the risks and features to weigh before production.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/llm-gateway</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 16:28:56 +0000</lastBuildDate>
     <item>
       <title>Basic RAG Implementation: A Step-by</title>
       <link>https://www.perplexity.ai/hub/blog/rag-implementation</link>

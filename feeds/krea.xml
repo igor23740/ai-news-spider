@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:38:05 +0000</lastBuildDate>
-    <item>
-      <title>How to Improve Photo Quality: Fix Blurry, Noisy and Low</title>
-      <link>https://www.krea.ai/blog/how-to-improve-photo-quality</link>
-      <description>How to improve photo quality: find out why a photo looks bad, then fix low resolution, blur, noise, poor lighting and compression, on a phone or online.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/how-to-improve-photo-quality</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Nov 2026 00:46:37 +0000</lastBuildDate>
     <item>
       <title>Is HeyGen Free? Up to 3 Videos a Month, Paid From $24 (2026)</title>
       <link>https://www.krea.ai/blog/is-heygen-free-pricing-and-alternatives-in-2026</link>
@@ -54,7 +47,7 @@
     <item>
       <title>Krea 3 Technical Report</title>
       <link>https://www.krea.ai/blog/krea-3-technical-report</link>
-      <description>Technical report for Krea 3 (K3), our frontier image-to-image model for fast, cost-efficient editing: architecture, training, data, reinforcement learning, and preference optimization.</description>
+      <description>Technical report for Krea 3 (K3), our frontier image-to-image model for fast, cost-efficient editing: architecture, training, data, reinforcement learning, preference optimization, and inference.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/krea-3-technical-report</guid>
       <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
     </item>

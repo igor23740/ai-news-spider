@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:44:39 +0000</lastBuildDate>
-    <item>
-      <title>From Tokens to Bytes II: Learning from Raw Data</title>
-      <link>https://www.cartesia.ai/blog/from-tokens-to-bytes-part-2</link>
-      <description>We provide evidence that byte-level language models fundamentally understand the data better, as measured by how pretraining performance translates to downstream tasks.</description>
-      <guid isPermaLink="true">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-2</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Tokens to Bytes I: Scaling Hierarchical Networks</title>
-      <link>https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</link>
-      <description>A newer generation of H-Nets learns directly from raw bytes, and matches an open-source 3B Transformer with 10x less compute and data.</description>
-      <guid isPermaLink="true">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Nov 2026 00:53:00 +0000</lastBuildDate>
     <item>
       <title>Introducing Managed Agents</title>
       <link>https://www.cartesia.ai/blog/managed-agents</link>

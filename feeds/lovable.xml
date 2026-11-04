@@ -8,56 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:44:12 +0000</lastBuildDate>
-    <item>
-      <title>Lovable partners with Aikido to offer affordable pentesting for builders</title>
-      <link>https://lovable.dev/blog/announcing-pentesting</link>
-      <description>Introduced Penetration Testing for all Lovable projects.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/announcing-pentesting</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.7 now in Lovable</title>
-      <link>https://lovable.dev/blog/opus-4-7-now-in-lovable</link>
-      <description>Claude Opus 4.7 now in Lovable</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/opus-4-7-now-in-lovable</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wiz findings now in Lovable</title>
-      <link>https://lovable.dev/blog/wiz-findings-now-in-lovable</link>
-      <description>Wiz security scanning is now native to Lovable — findings surface in every project</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/wiz-findings-now-in-lovable</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turn repeated instructions into reusable skills in Lovable</title>
-      <link>https://lovable.dev/blog/introducing-skills</link>
-      <description>Learn how skills in Lovable let you save reusable instructions as markdown files, so you stop repeating yourself every time you build.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/introducing-skills</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</title>
-      <link>https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</link>
-      <description>Connect Lovable to Google Workspace and Gemini Enterprise to build apps and more on data you already have</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/already-using-google-now-you-can-build-with-it-in-lovable</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing subagents: Lovable is now better at multitasking</title>
-      <link>https://lovable.dev/blog/subagents-in-lovable</link>
-      <description>Lovable can now create subagents to help it research, explore, and search your project in parallel.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/subagents-in-lovable</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Lovable protects your apps automatically</title>
-      <link>https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</link>
-      <description>Learn about our new scan profiles, security memory, and security scanning scheduling.</description>
-      <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-protects-your-apps-automatically</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Nov 2026 16:41:25 +0000</lastBuildDate>
     <item>
       <title>Introducing Workspace Insights: See every project, govern with confidence</title>
       <link>https://lovable.dev/blog/workspace-insights-govern-your-workspace</link>
@@ -218,6 +169,55 @@
       <description>Forgotten projects can stay published, connected to data, and unowned. This Halloween, hunt them down in our free game, and see how Enterprise admins can clean up abandoned projects automatically.</description>
       <guid isPermaLink="true">https://lovable.dev/blog/your-workspace-has-undead-apps</guid>
       <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Routing Billions of Tokens per Minute</title>
+      <link>https://lovable.dev/blog/routing-billions-of-tokens-per-minute</link>
+      <description>How Lovable built a robust LLM provider load balancer to handle billions of tokens per minute while preserving prompt caching and preventing rate limit exhaustion.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/routing-billions-of-tokens-per-minute</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Gave Our Agent a Vent Tool</title>
+      <link>https://lovable.dev/blog/we-gave-our-agent-a-vent-tool</link>
+      <description>How Lovable is self-improving every hour by learning from production friction and building a corpus of problems and solutions, and by letting our main agent send feedback directly to its creators using a vent tool.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/we-gave-our-agent-a-vent-tool</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>$85,000 in tokens later: What I learned from scaling agentic coding at Lovable</title>
+      <link>https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable</link>
+      <description>How a year of unrestricted token spend reshaped my development process — from plan-mode PRs to agent swarms shipping 150+ PRs a week.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we run swarms of AI hacking agents against ourselves in a game of capture the flag</title>
+      <link>https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves</link>
+      <description>How Lovable built an internal offensive security program around verifiable results, and how we orchestrate a swarm of AI hacking agents to find real vulnerabilities instead of noise.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we migrated lovable.dev away from Next.js and turned it into another Lovable app</title>
+      <link>https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs</link>
+      <description>42M monthly visitors, 400 routes and 850K lines of code moved from Next.js on Vercel to TanStack Start on Lovable—route by route, mostly by agents, with one 11-minute incident along the way.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faster previews, soon powered by OJ</title>
+      <link>https://lovable.dev/blog/faster-previews-oj</link>
+      <description>Lovable previews are moving to OJ, a Rust-native dev server that starts them several times faster on a fraction of the memory. We are rolling it out gradually, and today OJ is open source in the Lovable GitHub organization.</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/faster-previews-oj</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Chats: How Lovable</title>
+      <link>https://lovable.dev/blog/how-lovable-agents-work-together</link>
+      <description>Inside Chats: How Lovable</description>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-lovable-agents-work-together</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

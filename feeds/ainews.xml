@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:54:29 +0000</lastBuildDate>
     <item>
       <title>Banks block AI agents as US open banking rule stalls</title>
       <link>https://www.artificialintelligence-news.com/news/banks-block-ai-agents-open-banking-rule</link>
@@ -36,6 +36,13 @@
       <description>Abu Dhabi’s ADNOC will use OpenAI Frontier to connect its existing AI agents, including ENERGYai, to capital and commercial decisions.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/adnoc-openai-frontier-energyai-agents</guid>
       <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI cyber model found 948 Linux kernel exploits</title>
+      <link>https://www.artificialintelligence-news.com/news/openai-cyber-model-found-948-linux-kernel-exploits</link>
+      <description>OpenAI cyber model found 948 Linux kernel exploits</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/openai-cyber-model-found-948-linux-kernel-exploits</guid>
+      <pubDate>Thu, 05 Nov 2026 14:45:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

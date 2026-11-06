@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:14:12 +0000</lastBuildDate>
-    <item>
-      <title>Banks block AI agents as US open banking rule stalls</title>
-      <link>https://www.artificialintelligence-news.com/news/banks-block-ai-agents-open-banking-rule</link>
-      <description>Major US banks are blocking AI agents that log in with customers’ passwords, as the open banking rule meant to replace that access stays on hold.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/banks-block-ai-agents-open-banking-rule</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 20:44:57 +0000</lastBuildDate>
     <item>
       <title>India’s DEPA: Privacy</title>
       <link>https://www.artificialintelligence-news.com/news/india-depa-privacy-preserving-ai-training-data</link>
@@ -43,6 +36,20 @@
       <description>OpenAI cyber model found 948 Linux kernel exploits</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/openai-cyber-model-found-948-linux-kernel-exploits</guid>
       <pubDate>Thu, 05 Nov 2026 14:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta warns midterm election results could stall AI expansion</title>
+      <link>https://www.artificialintelligence-news.com/news/meta-midterm-election-results-could-stall-ai-expansion</link>
+      <description>Meta has warned the midterm election results will make it harder to build the data centres underpinning its AI expansion.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/meta-midterm-election-results-could-stall-ai-expansion</guid>
+      <pubDate>Fri, 06 Nov 2026 16:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discovering the ultimate AI maths problem solver: your go</title>
+      <link>https://www.artificialintelligence-news.com/news/discovering-the-ultimate-ai-maths-problem-solver-your-go-to-guide-for-instant-homework-relief</link>
+      <description>The best AI maths problem solver depends on accuracy, explanation quality, supported problems, input options, and cost.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/discovering-the-ultimate-ai-maths-problem-solver-your-go-to-guide-for-instant-homework-relief</guid>
+      <pubDate>Fri, 06 Nov 2026 17:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

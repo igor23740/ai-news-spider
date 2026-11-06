@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:39:08 +0000</lastBuildDate>
     <item>
       <title>Connect Luma to ChatGPT and Claude</title>
       <link>https://lumalabs.ai/news/new-luma-mcp</link>
@@ -92,6 +92,48 @@
       <description>Compare 9 enterprise AI video platforms for global brands, covering video generation, localization, precision editing, security, and workflows for consistent campaigns.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/enterprise-ai-video-platforms-global-brands</guid>
       <pubDate>Thu, 05 Nov 2026 18:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best AI Video Models for UGC Ads That Don</title>
+      <link>https://lumalabs.ai/news/best-ai-video-models-ugc-ads</link>
+      <description>Compare the best AI video models for UGC ads, evaluating realism, natural motion, creative control, and campaign workflows for authentic-looking social videos.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/best-ai-video-models-ugc-ads</guid>
+      <pubDate>Fri, 06 Nov 2026 00:38:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best Open-Source AI Video Models and Production Tools</title>
+      <link>https://lumalabs.ai/news/open-source-ai-video-models-production-tools</link>
+      <description>Explore the best open-source AI video models and production tools, including Luma, Wan 2.1, CogVideoX, and Mochi 1, for flexible video creation.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/open-source-ai-video-models-production-tools</guid>
+      <pubDate>Fri, 06 Nov 2026 01:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which AI Video Models Can Generate Longer Videos in a Single Pass?</title>
+      <link>https://lumalabs.ai/news/ai-video-models-generate-longer-videos</link>
+      <description>Compare 10 AI video models that generate longer clips in one pass, exploring video duration, creative controls, extensions, and production capabilities.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-models-generate-longer-videos</guid>
+      <pubDate>Fri, 06 Nov 2026 01:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Video Model Leaderboard: What You Need to Know About Top Tools in 2027</title>
+      <link>https://lumalabs.ai/news/ai-video-model-leaderboard</link>
+      <description>Compare the top AI video models for 2027, exploring generation quality, creative controls, editing capabilities, and professional production workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-model-leaderboard</guid>
+      <pubDate>Fri, 06 Nov 2026 01:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Image-to-Video Models: 8 Tools Compared and Ranked</title>
+      <link>https://lumalabs.ai/news/ai-image-video-models</link>
+      <description>Compare 8 AI image-to-video models, ranked by motion quality, creative control, HDR support, and professional production capabilities for finished campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-image-video-models</guid>
+      <pubDate>Fri, 06 Nov 2026 02:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luma vs Higgsfield: Which Is Better for Brand and Agency Video?</title>
+      <link>https://lumalabs.ai/news/luma-vs-higgsfield</link>
+      <description>Compare Luma vs Higgsfield for brand and agency video production, exploring creative control, editing, collaboration, HDR workflows, and campaign delivery.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-higgsfield</guid>
+      <pubDate>Fri, 06 Nov 2026 02:18:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:35:11 +0000</lastBuildDate>
     <item>
       <title>How antrofrog Made No Ordinary Love, and How to Make an AI Animation Like It</title>
       <link>https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love</link>
@@ -22,6 +22,20 @@
       <description>Technical report for Krea 3 (K3), our frontier image-to-image model for fast, cost-efficient editing: architecture, training, data, reinforcement learning, preference optimization, and inference.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/krea-3-technical-report</guid>
       <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoo York: How One Phone Photo Became a One</title>
+      <link>https://www.krea.ai/blog/zoo-york-ai-video-prompt-guide</link>
+      <description>How a single phone photo became Zoo York, a one-minute AI short made with Krea Agent, GPT Image 2.5, and Seedance 2.5, with every prompt used.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/zoo-york-ai-video-prompt-guide</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best Cinematic AI Video Generators in 2026</title>
+      <link>https://www.krea.ai/blog/best-cinematic-ai-video-generators-in-2026</link>
+      <description>The best cinematic AI video generators of 2026 compared: Seedance 2.5, Veo 3.1, Kling 4, Runway, Luma, and Higgsfield on camera control, clip length, audio, and Seedance 2.5 price.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-cinematic-ai-video-generators-in-2026</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

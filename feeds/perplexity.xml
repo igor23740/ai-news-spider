@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:36:38 +0000</lastBuildDate>
-    <item>
-      <title>Text embeddings explained: how they work [+examples]</title>
-      <link>https://www.perplexity.ai/hub/blog/text-embeddings</link>
-      <description>Learn what text embeddings are, how they work, and how to choose the right embedding model, with real-world examples.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/text-embeddings</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 19:03:05 +0000</lastBuildDate>
     <item>
       <title>AI agent memory: How to build agents with persistent context</title>
       <link>https://www.perplexity.ai/hub/blog/ai-agent-memory</link>
@@ -36,6 +29,48 @@
       <description>What is an autonomous agent? Learn how AI agents plan, use tools, and complete multi-step tasks, plus best practices.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/autonomous-agent</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web grounding for the Decisions API</title>
+      <link>https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</link>
+      <description>Ground decisions in current web facts with Perplexity’s Decisions API. Add live search for accurate, up-to-date answers.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP Security: 11 Risks and How to Protect Against Them</title>
+      <link>https://www.perplexity.ai/hub/blog/mcp-security</link>
+      <description>MCP security: learn 11 common MCP risks, from prompt injection to token misuse, and how to protect your MCP system.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/mcp-security</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teammates are agents for complex, ongoing work</title>
+      <link>https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+      <description>Perplexity teammates coordinate AI agents, manage ongoing projects, and follow through across ops, marketing, and more.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agent Orchestration: Failures, Approvals, and Retries</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-agent-orchestration</link>
+      <description>AI agent orchestration best practices for handling failures, retries, approvals, and state in production workflows.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-agent-orchestration</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improvements to every Agent API effort level</title>
+      <link>https://www.perplexity.ai/hub/blog/improvements-to-every-agent-api-effort-level</link>
+      <description>Perplexity Agent API effort levels now cost less, with equal or better research quality and a new ultra level for depth.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/improvements-to-every-agent-api-effort-level</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Accessibility: A Guide to Uses, Tools, and Limits</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-accessibility</link>
+      <description>How AI helps people with disabilities, how to use it to make content accessible, and where AI accessibility falls short.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-accessibility</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

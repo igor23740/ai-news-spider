@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:37:41 +0000</lastBuildDate>
     <item>
       <title>Connect Luma to ChatGPT and Claude</title>
       <link>https://lumalabs.ai/news/new-luma-mcp</link>
@@ -134,6 +134,69 @@
       <description>Compare Luma vs Higgsfield for brand and agency video production, exploring creative control, editing, collaboration, HDR workflows, and campaign delivery.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-higgsfield</guid>
       <pubDate>Fri, 06 Nov 2026 02:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Image and Video Generators with Commercial Rights for Brands</title>
+      <link>https://lumalabs.ai/news/ai-image-video-generators-commercial-rights-brands</link>
+      <description>Compare the best AI image and video generators with commercial rights for brands. Explore licensing, IP protection, editing tools, and production-ready features.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-image-video-generators-commercial-rights-brands</guid>
+      <pubDate>Sun, 08 Nov 2026 11:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Video and Image Tools for LinkedIn</title>
+      <link>https://lumalabs.ai/news/ai-video-image-tools-linkedin</link>
+      <description>Discover the best AI video and image tools for LinkedIn. Compare features for content creation, brand consistency, campaign editing, and workflow automation.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-image-tools-linkedin</guid>
+      <pubDate>Sun, 08 Nov 2026 11:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Runway Limitations: What It Cannot Do</title>
+      <link>https://lumalabs.ai/news/runway-limitations</link>
+      <description>Runway Limitations: What It Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/runway-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 11:26:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Higgsfield Limitations: What Higgsfield Cannot Do</title>
+      <link>https://lumalabs.ai/news/higgsfield-limitations</link>
+      <description>Higgsfield Limitations: What Higgsfield Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/higgsfield-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 11:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>HeyGen Limitations: What HeyGen Cannot Do</title>
+      <link>https://lumalabs.ai/news/heygen-limitations</link>
+      <description>HeyGen Limitations: What HeyGen Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/heygen-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 12:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pika Limitations: What Pika Cannot Do</title>
+      <link>https://lumalabs.ai/news/pika-limitations</link>
+      <description>Pika Limitations: What Pika Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/pika-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 13:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesia Limitations: What Synthesia Cannot Do</title>
+      <link>https://lumalabs.ai/news/synthesia-limitations</link>
+      <description>Synthesia Limitations: What Synthesia Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/synthesia-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 13:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midjourney Limitations: What Midjourney Cannot Do</title>
+      <link>https://lumalabs.ai/news/midjourney-limitations</link>
+      <description>Midjourney Limitations: What Midjourney Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/midjourney-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 14:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>InVideo Limitations: What InVideo Cannot Do</title>
+      <link>https://lumalabs.ai/news/invideo-limitations</link>
+      <description>InVideo Limitations: What InVideo Cannot Do</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/invideo-limitations</guid>
+      <pubDate>Sun, 08 Nov 2026 14:14:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

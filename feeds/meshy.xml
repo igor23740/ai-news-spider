@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:51 +0000</lastBuildDate>
     <item>
       <title>3D Printing for Inclusive Special Education: Arif Arslan</title>
       <link>https://www.meshy.ai/blog/3d-printing-inclusive-special-education</link>
       <description>Arif Arslan, a food &amp; beverage services educator in Rize, Turkey, uses Meshy to turn sketches and symbols into printable tactile learning aids for inclusive, vocational education.</description>
       <guid isPermaLink="true">https://www.meshy.ai/blog/3d-printing-inclusive-special-education</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meshy N1: Cleanest and Fastest AI Texturing</title>
+      <link>https://www.meshy.ai/blog/meshy-n1-texture</link>
+      <description>Meshy N1 is our first native texturing model. It generates texture directly in 3D for cleaner results and faster texturing than Hi3D, Tripo, and Rodin.</description>
+      <guid isPermaLink="true">https://www.meshy.ai/blog/meshy-n1-texture</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

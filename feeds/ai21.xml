@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:13:23 +0000</lastBuildDate>
-    <item>
-      <title>Post-training case study: Reaching frontier-level attack resilience with Alice</title>
-      <link>https://www.ai21.com/blog/ai21-alice-case-study</link>
-      <description>In 3 weeks, we post-trained NVIDIA Nemotron 3.5 Super VL with Alice: 41 points more resilient to attacks, beating GPT-6.1 Sol at 25x lower cost</description>
-      <guid isPermaLink="true">https://www.ai21.com/blog/ai21-alice-case-study</guid>
-      <pubDate>Mon, 02 Nov 2026 13:35:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 19:11:31 +0000</lastBuildDate>
     <item>
       <title>Post-training case study: Reaching frontier-level intelligence on global payroll with Deel</title>
       <link>https://www.ai21.com/blog/ai21-deel-case-study</link>

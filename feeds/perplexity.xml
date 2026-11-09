@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:52:41 +0000</lastBuildDate>
-    <item>
-      <title>AI agent memory: How to build agents with persistent context</title>
-      <link>https://www.perplexity.ai/hub/blog/ai-agent-memory</link>
-      <description>Learn how AI agent memory works, the types of agentic memory, and how to build agents with persistent context.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-agent-memory</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building stronger defenses for real</title>
-      <link>https://www.perplexity.ai/hub/blog/browsesafe-plus-plus</link>
-      <description>BrowseSafe++ is an open benchmark built from real-world injections. We also release a pair of lightweight detectors and adaptive testing for browser agents.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/browsesafe-plus-plus</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 10:03:25 +0000</lastBuildDate>
     <item>
       <title>Autonomous agents: what they are and how they work</title>
       <link>https://www.perplexity.ai/hub/blog/autonomous-agent</link>

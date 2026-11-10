@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:03:50 +0000</lastBuildDate>
     <item>
       <title>AI Model Marketplace or Direct API: Which Should You Use?</title>
       <link>https://www.recraft.ai/blog/ai-model-marketplace-vs-direct-api</link>
@@ -29,6 +29,48 @@
       <description>Image Upscaler or Image Enhancer: Which One Fixes Your Photo</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/image-upscaler-vs-image-enhancer</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Sticker Generators: 7 Tools Compared, 2026</title>
+      <link>https://www.recraft.ai/blog/best-ai-sticker-generators-2026</link>
+      <description>Best AI Sticker Generators: 7 Tools Compared, 2026</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/best-ai-sticker-generators-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Character Generators in 2026: 7 Tools Compared</title>
+      <link>https://www.recraft.ai/blog/best-ai-character-generators-2026</link>
+      <description>Best AI Character Generators in 2026: 7 Tools Compared</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/best-ai-character-generators-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Icon Generator in 2026: 7 Tools Compared</title>
+      <link>https://www.recraft.ai/blog/best-ai-icon-generators-2026</link>
+      <description>Best AI Icon Generator in 2026: 7 Tools Compared</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/best-ai-icon-generators-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Edit a Photo With a Text Prompt: AI Tutorial</title>
+      <link>https://www.recraft.ai/blog/how-to-edit-a-photo-with-a-text-prompt</link>
+      <description>How to Edit a Photo With a Text Prompt: AI Tutorial</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-edit-a-photo-with-a-text-prompt</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Omni Flash 1.2 in Recraft Studio: What's New</title>
+      <link>https://www.recraft.ai/blog/gemini-omni-flash-1-2-in-recraft-studio</link>
+      <description>Gemini Omni Flash 1.2 in Recraft Studio: What's New</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/gemini-omni-flash-1-2-in-recraft-studio</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Meme Generator in 2026: 7 Tools Compared</title>
+      <link>https://www.recraft.ai/blog/best-ai-meme-generators-2026</link>
+      <description>Best AI Meme Generator in 2026: 7 Tools Compared</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/best-ai-meme-generators-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

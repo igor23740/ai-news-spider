@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:03:25 +0000</lastBuildDate>
-    <item>
-      <title>Autonomous agents: what they are and how they work</title>
-      <link>https://www.perplexity.ai/hub/blog/autonomous-agent</link>
-      <description>What is an autonomous agent? Learn how AI agents plan, use tools, and complete multi-step tasks, plus best practices.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/autonomous-agent</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 21:00:42 +0000</lastBuildDate>
     <item>
       <title>Web grounding for the Decisions API</title>
       <link>https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</link>
@@ -57,6 +50,20 @@
       <description>How AI helps people with disabilities, how to use it to make content accessible, and where AI accessibility falls short.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-accessibility</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI memory: what it is, how it works, and what it stores</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-memory</link>
+      <description>AI memory explained: how AI assistants save and recall your preferences, what they store, and how to turn it off.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-memory</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP Architecture: Full Technical Breakdown With Diagrams</title>
+      <link>https://www.perplexity.ai/hub/blog/mcp-architecture</link>
+      <description>MCP architecture explained: how hosts, clients, and servers work, plus the data and transport layers, with diagrams.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/mcp-architecture</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

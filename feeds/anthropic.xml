@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:32:31 +0000</lastBuildDate>
     <item>
-      <title>AI for Science expands to foundations and institutions</title>
-      <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
-      <description>We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Anthropic launches roadshow for proposed initial public offering</title>
+      <link>https://www.anthropic.com/news/roadshow-launch</link>
+      <description>Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/roadshow-launch</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:03:50 +0000</lastBuildDate>
-    <item>
-      <title>AI Model Marketplace or Direct API: Which Should You Use?</title>
-      <link>https://www.recraft.ai/blog/ai-model-marketplace-vs-direct-api</link>
-      <description>AI Model Marketplace or Direct API: Which Should You Use?</description>
-      <guid isPermaLink="true">https://www.recraft.ai/blog/ai-model-marketplace-vs-direct-api</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT Image 2.6: Sunburst vs Flare, Tested in Recraft</title>
-      <link>https://www.recraft.ai/blog/gpt-image-2-6</link>
-      <description>GPT Image 2.6: Sunburst vs Flare, Tested in Recraft</description>
-      <guid isPermaLink="true">https://www.recraft.ai/blog/gpt-image-2-6</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 00:49:38 +0000</lastBuildDate>
     <item>
       <title>Image Upscaler or Image Enhancer: Which One Fixes Your Photo</title>
       <link>https://www.recraft.ai/blog/image-upscaler-vs-image-enhancer</link>

@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:00:42 +0000</lastBuildDate>
-    <item>
-      <title>Web grounding for the Decisions API</title>
-      <link>https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</link>
-      <description>Ground decisions in current web facts with Perplexity’s Decisions API. Add live search for accurate, up-to-date answers.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP Security: 11 Risks and How to Protect Against Them</title>
-      <link>https://www.perplexity.ai/hub/blog/mcp-security</link>
-      <description>MCP security: learn 11 common MCP risks, from prompt injection to token misuse, and how to protect your MCP system.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/mcp-security</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teammates are agents for complex, ongoing work</title>
-      <link>https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
-      <description>Perplexity teammates coordinate AI agents, manage ongoing projects, and follow through across ops, marketing, and more.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 00:46:21 +0000</lastBuildDate>
     <item>
       <title>AI Agent Orchestration: Failures, Approvals, and Retries</title>
       <link>https://www.perplexity.ai/hub/blog/ai-agent-orchestration</link>

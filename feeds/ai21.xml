@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:56:49 +0000</lastBuildDate>
-    <item>
-      <title>Post-training case study: Reaching frontier-level intelligence on global payroll with Deel</title>
-      <link>https://www.ai21.com/blog/ai21-deel-case-study</link>
-      <description>In 3 weeks, we post-trained NVIDIA Nemotron 3.5 Super VL with Deel: 20.7 points above base, 8 above Claude Opus 5.5 on global payroll, at 50x lower cost</description>
-      <guid isPermaLink="true">https://www.ai21.com/blog/ai21-deel-case-study</guid>
-      <pubDate>Wed, 04 Nov 2026 08:59:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 09:52:41 +0000</lastBuildDate>
     <item>
       <title>Introducing Teel - Turbo-Efficient Execution Library for Agents (but not only)</title>
       <link>https://www.ai21.com/blog/teel-turbo-efficient-execution-library</link>

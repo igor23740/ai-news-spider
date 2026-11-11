@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:58:28 +0000</lastBuildDate>
-    <item>
-      <title>Abu Dhabi oil giant ADNOC layers OpenAI</title>
-      <link>https://www.artificialintelligence-news.com/news/adnoc-openai-frontier-energyai-agents</link>
-      <description>Abu Dhabi’s ADNOC will use OpenAI Frontier to connect its existing AI agents, including ENERGYai, to capital and commercial decisions.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/adnoc-openai-frontier-energyai-agents</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 21:45:17 +0000</lastBuildDate>
     <item>
       <title>OpenAI cyber model found 948 Linux kernel exploits</title>
       <link>https://www.artificialintelligence-news.com/news/openai-cyber-model-found-948-linux-kernel-exploits</link>
@@ -50,6 +43,13 @@
       <description>Google Cloud has launched Gemini for Healthcare, a purpose-built agentic AI system now in preview for Gemini Enterprise customers.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/google-cloud-launches-gemini-for-healthcare-in-preview</guid>
       <pubDate>Tue, 10 Nov 2026 13:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York launches frontier AI centre at SUNY Binghamton</title>
+      <link>https://www.artificialintelligence-news.com/news/new-york-launches-frontier-ai-centre-suny-binghamton</link>
+      <description>New York has launched a statewide AI research centre at SUNY Binghamton, with a remit to test frontier systems independently.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/new-york-launches-frontier-ai-centre-suny-binghamton</guid>
+      <pubDate>Wed, 11 Nov 2026 14:27:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

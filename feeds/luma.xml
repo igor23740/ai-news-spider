@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:22:53 +0000</lastBuildDate>
-    <item>
-      <title>Which AI Video Models Can Generate Longer Videos in a Single Pass?</title>
-      <link>https://lumalabs.ai/news/ai-video-models-generate-longer-videos</link>
-      <description>Compare 10 AI video models that generate longer clips in one pass, exploring video duration, creative controls, extensions, and production capabilities.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-models-generate-longer-videos</guid>
-      <pubDate>Fri, 06 Nov 2026 01:31:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Video Model Leaderboard: What You Need to Know About Top Tools in 2027</title>
-      <link>https://lumalabs.ai/news/ai-video-model-leaderboard</link>
-      <description>Compare the top AI video models for 2027, exploring generation quality, creative controls, editing capabilities, and professional production workflows.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-video-model-leaderboard</guid>
-      <pubDate>Fri, 06 Nov 2026 01:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best AI Image-to-Video Models: 8 Tools Compared and Ranked</title>
-      <link>https://lumalabs.ai/news/ai-image-video-models</link>
-      <description>Compare 8 AI image-to-video models, ranked by motion quality, creative control, HDR support, and professional production capabilities for finished campaigns.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/ai-image-video-models</guid>
-      <pubDate>Fri, 06 Nov 2026 02:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luma vs Higgsfield: Which Is Better for Brand and Agency Video?</title>
-      <link>https://lumalabs.ai/news/luma-vs-higgsfield</link>
-      <description>Compare Luma vs Higgsfield for brand and agency video production, exploring creative control, editing, collaboration, HDR workflows, and campaign delivery.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/luma-vs-higgsfield</guid>
-      <pubDate>Fri, 06 Nov 2026 02:18:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 09:55:32 +0000</lastBuildDate>
     <item>
       <title>Best AI Image and Video Generators with Commercial Rights for Brands</title>
       <link>https://lumalabs.ai/news/ai-image-video-generators-commercial-rights-brands</link>

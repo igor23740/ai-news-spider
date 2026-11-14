@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:11:51 +0000</lastBuildDate>
     <item>
       <title>Modal becomes a gVisor maintainer</title>
       <link>https://modal.com/blog/modal-gvisor-maintainer</link>
@@ -22,6 +22,13 @@
       <description>Sandbox resourcing: burst, don</description>
       <guid isPermaLink="true">https://modal.com/blog/sandbox-bursting</guid>
       <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Intelligence: A landmark commission and exhibition</title>
+      <link>https://modal.com/blog/scaling-intelligence</link>
+      <description>Scaling Intelligence: A landmark commission and exhibition</description>
+      <guid isPermaLink="true">https://modal.com/blog/scaling-intelligence</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:01:03 +0000</lastBuildDate>
     <item>
-      <title>Zoo York: How One Phone Photo Became a One</title>
-      <link>https://www.krea.ai/blog/zoo-york-ai-video-prompt-guide</link>
-      <description>How a single phone photo became Zoo York, a one-minute AI short made with Krea Agent, GPT Image 2.5, and Seedance 2.5, with every prompt used.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/zoo-york-ai-video-prompt-guide</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Best Cinematic AI Video Generators in 2026</title>
-      <link>https://www.krea.ai/blog/best-cinematic-ai-video-generators-in-2026</link>
-      <description>The best cinematic AI video generators of 2026 compared: Seedance 2.5, Veo 3.1, Kling 4, Runway, Luma, and Higgsfield on camera control, clip length, audio, and Seedance 2.5 price.</description>
-      <guid isPermaLink="true">https://www.krea.ai/blog/best-cinematic-ai-video-generators-in-2026</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <title>The Rise of Microdramas: Minute</title>
+      <link>https://www.krea.ai/blog/the-rise-of-microdramas</link>
+      <description>Microdramas made about $11 billion in 2025. How the format works, how the apps make money, what AI did to production costs, and where you can post your own.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/the-rise-of-microdramas</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

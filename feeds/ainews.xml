@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:14:24 +0000</lastBuildDate>
-    <item>
-      <title>Google Cloud launches Gemini for Healthcare in preview</title>
-      <link>https://www.artificialintelligence-news.com/news/google-cloud-launches-gemini-for-healthcare-in-preview</link>
-      <description>Google Cloud has launched Gemini for Healthcare, a purpose-built agentic AI system now in preview for Gemini Enterprise customers.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/google-cloud-launches-gemini-for-healthcare-in-preview</guid>
-      <pubDate>Tue, 10 Nov 2026 13:29:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 18:00:23 +0000</lastBuildDate>
     <item>
       <title>New York launches frontier AI centre at SUNY Binghamton</title>
       <link>https://www.artificialintelligence-news.com/news/new-york-launches-frontier-ai-centre-suny-binghamton</link>
@@ -36,6 +29,48 @@
       <description>Ohio State University Wexner Medical Centre and Microsoft have announced a five-year agreement that moves the academic health system</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ohio-state-and-microsoft-launch-azure-smart-hospital</guid>
       <pubDate>Thu, 12 Nov 2026 19:55:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Railway breach shows who pays when stolen AI keys run up the bill</title>
+      <link>https://www.artificialintelligence-news.com/news/stolen-ai-keys-railway-breach-who-pays</link>
+      <description>Attackers ran up US$740,000 on stolen AI keys in the Railway breach. Refunds depend on the provider, with Railway covering the gaps.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/stolen-ai-keys-railway-breach-who-pays</guid>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 best GEO agencies</title>
+      <link>https://www.artificialintelligence-news.com/news/top-10-best-geo-agencies</link>
+      <description>AI-powered search is changing how people discover brands. ChatGPT, Gemini, Perplexity, and Google AI Overviews now answer questions directly, often without sending a single click.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/top-10-best-geo-agencies</guid>
+      <pubDate>Tue, 17 Nov 2026 14:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI transforms digital asset compliance for crypto firms</title>
+      <link>https://www.artificialintelligence-news.com/news/ai-transforms-digital-asset-compliance-for-crypto-firms</link>
+      <description>How: The cryptocurrency industry is evolving at a very fast pace.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-transforms-digital-asset-compliance-for-crypto-firms</guid>
+      <pubDate>Tue, 17 Nov 2026 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 best browser infrastructure tools for AI agent builders</title>
+      <link>https://www.artificialintelligence-news.com/news/8-best-browser-infrastructure-tools-for-ai-agent-builders</link>
+      <description>AI agents are only as useful as the systems they can reach, and most of the web still has no clean API.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/8-best-browser-infrastructure-tools-for-ai-agent-builders</guid>
+      <pubDate>Tue, 17 Nov 2026 16:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 best agentic AI security tools for enterprise teams</title>
+      <link>https://www.artificialintelligence-news.com/news/7-best-agentic-ai-security-tools-for-enterprise-teams</link>
+      <description>Enterprise AI security gets considerably harder the moment an AI system stops recommending what someone should do and starts doing it.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/7-best-agentic-ai-security-tools-for-enterprise-teams</guid>
+      <pubDate>Tue, 17 Nov 2026 16:41:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 top quantum hardware vendors for HPC centres</title>
+      <link>https://www.artificialintelligence-news.com/news/7-top-quantum-hardware-vendors-for-hpc-centres</link>
+      <description>Procurement teams at supercomputing centers now field a question that did not exist a few budget cycles ago: which quantum processor belongs next to the GPU partition?</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/7-top-quantum-hardware-vendors-for-hpc-centres</guid>
+      <pubDate>Tue, 17 Nov 2026 16:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:59:38 +0000</lastBuildDate>
     <item>
       <title>Vectorizer Pro: Cleaner SVGs in Recraft</title>
       <link>https://www.recraft.ai/blog/vectorizer-pro</link>
@@ -22,6 +22,13 @@
       <description>MiniMax H3 Image, Highspeed, and Lite in Recraft Studio</description>
       <guid isPermaLink="true">https://www.recraft.ai/blog/minimax-h3-image-highspeed-lite-in-recraft-studio</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Extract a Color Palette from an Image and Apply It</title>
+      <link>https://www.recraft.ai/blog/how-to-generate-a-color-palette-from-an-image-for-free</link>
+      <description>How to Extract a Color Palette from an Image and Apply It</description>
+      <guid isPermaLink="true">https://www.recraft.ai/blog/how-to-generate-a-color-palette-from-an-image-for-free</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

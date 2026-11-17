@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:38:10 +0000</lastBuildDate>
     <item>
       <title>The Rise of Microdramas: Minute</title>
       <link>https://www.krea.ai/blog/the-rise-of-microdramas</link>
       <description>Microdramas made about $11 billion in 2025. How the format works, how the apps make money, what AI did to production costs, and where you can post your own.</description>
       <guid isPermaLink="true">https://www.krea.ai/blog/the-rise-of-microdramas</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Best AI Video Face Swap Tools in 2026, Prices Checked</title>
+      <link>https://www.krea.ai/blog/best-ai-video-face-swap-tools-in-2026</link>
+      <description>The best AI face swap tools for video in 2026: Krea Video Swap, Magic Hour, Higgsfield, VisionStory, Viggle, Akool, Vidnoz and OpenArt compared on free tiers, clip length, resolution, watermarks and price.</description>
+      <guid isPermaLink="true">https://www.krea.ai/blog/best-ai-video-face-swap-tools-in-2026</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

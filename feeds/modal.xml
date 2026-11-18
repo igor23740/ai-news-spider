@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:26:47 +0000</lastBuildDate>
     <item>
       <title>Sandbox resourcing: burst, don</title>
       <link>https://modal.com/blog/sandbox-bursting</link>
@@ -22,6 +22,13 @@
       <description>Scaling Intelligence: A landmark commission and exhibition</description>
       <guid isPermaLink="true">https://modal.com/blog/scaling-intelligence</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building new research tools for Maya epigraphy on Modal</title>
+      <link>https://modal.com/blog/scaling-intelligence-asya</link>
+      <description>Building new research tools for Maya epigraphy on Modal</description>
+      <guid isPermaLink="true">https://modal.com/blog/scaling-intelligence-asya</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

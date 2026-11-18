@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:02:59 +0000</lastBuildDate>
-    <item>
-      <title>AI Compliance: Key Risks, Frameworks, and How to Comply</title>
-      <link>https://www.perplexity.ai/hub/blog/ai-compliance</link>
-      <description>AI compliance explained: key risks, the EU AI Act, NIST AI RMF, ISO 42001, and how to build an AI compliance program.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-compliance</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Escaping SPACE: Part II</title>
-      <link>https://www.perplexity.ai/hub/blog/escaping-space-part-ii</link>
-      <description>Escaping SPACE: Part II</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/escaping-space-part-ii</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Context window: what it is and how it affects AI use</title>
-      <link>https://www.perplexity.ai/hub/blog/context-window</link>
-      <description>A context window is how much text an AI can use at once. Learn how it</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-window</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 17:29:58 +0000</lastBuildDate>
     <item>
       <title>Perplexity Decider v1.3: Training, eval, and use cases</title>
       <link>https://www.perplexity.ai/hub/blog/perplexity-decider</link>
@@ -64,6 +43,48 @@
       <description>Our mission and research agenda for advancing autonomous discovery through open algorithms, models, and evaluations.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orchestrator: One API for frontier and open</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-orchestrator</link>
+      <description>Perplexity Orchestrator provides access to frontier and open-weight models with unified billing and failover in one API.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-orchestrator</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is RAG? Retrieval</title>
+      <link>https://www.perplexity.ai/hub/blog/rag</link>
+      <description>What is RAG? Learn how retrieval-augmented generation works, the main types of RAG, and real-world use cases.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context API extracts full context from any web page</title>
+      <link>https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</link>
+      <description>Use Perplexity Context API to give AI agents clean Markdown, links, and relevant passages from cached or live web pages.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orchestrator: one API for reliable inference</title>
+      <link>https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</link>
+      <description>Connect to open-weight and proprietary AI models through one API with unified billing and automatic same-model failover.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Computer’s Multiagent effort level</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
+      <description>Perplexity Computer’s Multiagent effort level coordinates AI models to analyze complex tasks and cross-check their work.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context Rot in AI Agents: Why Long Tasks Lose Accuracy</title>
+      <link>https://www.perplexity.ai/hub/blog/context-rot</link>
+      <description>Context rot makes AI agents lose accuracy on long tasks. Learn what causes it and how to keep agent tasks reliable.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-rot</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

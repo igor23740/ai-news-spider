@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:35:47 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Perplexity’s Monitor API</title>
-      <link>https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api</link>
-      <description>Track web developments and page changes with Perplexity’s Monitor API. Get relevant updates delivered through a webhook.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 22:25:17 +0000</lastBuildDate>
     <item>
       <title>Introducing Perplexity Frontier Research</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</link>
@@ -71,6 +64,13 @@
       <description>Context rot makes AI agents lose accuracy on long tasks. Learn what causes it and how to keep agent tasks reliable.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-rot</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is RAG as a Service (RaaS)? Use Cases and Top Providers</title>
+      <link>https://www.perplexity.ai/hub/blog/rag-as-a-service</link>
+      <description>Learn what RAG as a service (RaaS) is, how it compares to self-hosted RAG, key enterprise use cases, and top providers.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-as-a-service</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

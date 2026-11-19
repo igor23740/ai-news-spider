@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 17:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:35:39 +0000</lastBuildDate>
     <item>
       <title>Scaling Intelligence: A landmark commission and exhibition</title>
       <link>https://modal.com/blog/scaling-intelligence</link>
@@ -22,6 +22,13 @@
       <description>Building new research tools for Maya epigraphy on Modal</description>
       <guid isPermaLink="true">https://modal.com/blog/scaling-intelligence-asya</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Abundant designed efficient rollout architecture with Modal Sandboxes</title>
+      <link>https://modal.com/blog/abundant-efficient-rollout-architecture-with-modal-sandboxes</link>
+      <description>Abundant builds RL environments that run on Modal Sandboxes, powering training for frontier labs.</description>
+      <guid isPermaLink="true">https://modal.com/blog/abundant-efficient-rollout-architecture-with-modal-sandboxes</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

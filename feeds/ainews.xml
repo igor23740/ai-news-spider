@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:43:40 +0000</lastBuildDate>
     <item>
       <title>Ohio State and Microsoft launch Azure smart hospital</title>
       <link>https://www.artificialintelligence-news.com/news/ohio-state-and-microsoft-launch-azure-smart-hospital</link>
@@ -71,6 +71,13 @@
       <description>Microsoft has launched Perception at Ignite 2026, giving security teams a way to coordinate AI agents through automated playbooks.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/microsoft-perception-coordinates-security-response-agents</guid>
       <pubDate>Wed, 18 Nov 2026 18:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>EY and Microsoft launch agentic cyber defence centre</title>
+      <link>https://www.artificialintelligence-news.com/news/ey-and-microsoft-launch-agentic-cyber-defence-centre</link>
+      <description>EY has launched its Agentic Cyber Defence Centre, integrating Microsoft technologies with policy controls and tamper-evident records for AI agent actions.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ey-and-microsoft-launch-agentic-cyber-defence-centre</guid>
+      <pubDate>Thu, 19 Nov 2026 16:11:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

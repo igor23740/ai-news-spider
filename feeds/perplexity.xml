@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:02:52 +0000</lastBuildDate>
     <item>
       <title>Introducing Perplexity Frontier Research</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</link>
@@ -52,13 +52,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Work with teammates on mobile with voice mode</title>
-      <link>https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode</link>
-      <description>Perplexity Max subscribers can call teammates to assign tasks, review findings, and change priorities from their phones.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Context Rot in AI Agents: Why Long Tasks Lose Accuracy</title>
       <link>https://www.perplexity.ai/hub/blog/context-rot</link>
       <description>Context rot makes AI agents lose accuracy on long tasks. Learn what causes it and how to keep agent tasks reliable.</description>
@@ -71,6 +64,13 @@
       <description>Learn what RAG as a service (RaaS) is, how it compares to self-hosted RAG, key enterprise use cases, and top providers.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/rag-as-a-service</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to use AI data enrichment and verify the results</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-data-enrichment</link>
+      <description>Learn how AI data enrichment fills gaps in your records, and how to verify AI-enriched data before you act on it.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/ai-data-enrichment</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

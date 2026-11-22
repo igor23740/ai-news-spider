@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:33:22 +0000</lastBuildDate>
     <item>
       <title>Introducing Perplexity Frontier Research</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</link>
@@ -31,13 +31,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Context API extracts full context from any web page</title>
-      <link>https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</link>
-      <description>Use Perplexity Context API to give AI agents clean Markdown, links, and relevant passages from cached or live web pages.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Orchestrator: one API for reliable inference</title>
       <link>https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</link>
       <description>Connect to open-weight and proprietary AI models through one API with unified billing and automatic same-model failover.</description>
@@ -50,6 +43,13 @@
       <description>Perplexity Computer’s Multiagent effort level coordinates AI models to analyze complex tasks and cross-check their work.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Work with teammates on mobile with voice mode</title>
+      <link>https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode</link>
+      <description>Perplexity Max subscribers can call teammates to assign tasks, review findings, and change priorities from their phones.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Context Rot in AI Agents: Why Long Tasks Lose Accuracy</title>

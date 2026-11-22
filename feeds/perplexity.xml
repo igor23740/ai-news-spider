@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 10:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:34:46 +0000</lastBuildDate>
     <item>
       <title>Introducing Perplexity Frontier Research</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</link>
@@ -35,13 +35,6 @@
       <link>https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</link>
       <description>Use Perplexity Context API to give AI agents clean Markdown, links, and relevant passages from cached or live web pages.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Orchestrator: one API for reliable inference</title>
-      <link>https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</link>
-      <description>Connect to open-weight and proprietary AI models through one API with unified billing and automatic same-model failover.</description>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

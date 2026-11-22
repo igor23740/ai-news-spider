@@ -8,13 +8,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:08:49 +0000</lastBuildDate>
     <item>
       <title>Building canvas-native agents: lessons from Laya</title>
       <link>https://lumalabs.ai/news/building-canvas-native-agents</link>
       <description>Luma is building canvas-native agents that can read and understand a creative workspace and work within it. On a board that is in progress, references sit beside generated variations, notes capture decisions, and frames and groups bring ideas together for comparison. An agent needs that context to help with the work.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/building-canvas-native-agents</guid>
       <pubDate>Mon, 16 Nov 2026 19:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana 2 vs Nano Banana Pro: Which Model for Which Job?</title>
+      <link>https://lumalabs.ai/news/nano-banana-2-vs-nano-banana-pro</link>
+      <description>Compare Nano Banana 2 vs Nano Banana Pro to find the right AI image model for speed, precision, and creative production, and see how Luma AI streamlines campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/nano-banana-2-vs-nano-banana-pro</guid>
+      <pubDate>Sun, 22 Nov 2026 05:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best AI Image Models in 2027: Complete Comparison Guide</title>
+      <link>https://lumalabs.ai/news/ai-image-models</link>
+      <description>Compare best AI image models in 2027, from photorealism and text rendering to precise editing, brand consistency, licensing, and campaign production workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-image-models</guid>
+      <pubDate>Sun, 22 Nov 2026 06:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midjourney Alternatives: 9 Image and Video Generators Worth Switching To</title>
+      <link>https://lumalabs.ai/news/midjourney-alternatives</link>
+      <description>Explore 9 Midjourney alternatives for AI image and video generation, comparing leading tools for editing, campaign workflows, brand consistency, and production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/midjourney-alternatives</guid>
+      <pubDate>Sun, 22 Nov 2026 06:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Imagine Alternatives: 8 AI Video and Image Generators Compared</title>
+      <link>https://lumalabs.ai/news/grok-imagine-alternatives</link>
+      <description>Review 8 Grok Imagine alternatives for AI video and image generation, exploring HDR output, editing, keyframe control, resolution, and production workflows now.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/grok-imagine-alternatives</guid>
+      <pubDate>Sun, 22 Nov 2026 06:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Runway vs Kling: Which AI Video Generator for Production Work?</title>
+      <link>https://lumalabs.ai/news/runway-vs-kling</link>
+      <description>Compare Runway vs. Kling for AI video production, including editing, motion, character consistency, keyframe controls, HDR exports, and professional workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/runway-vs-kling</guid>
+      <pubDate>Sun, 22 Nov 2026 07:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midjourney Pricing 2027: Plans, Costs, and Whether There Is a Free Trial</title>
+      <link>https://lumalabs.ai/news/midjourney-pricing</link>
+      <description>Midjourney Pricing 2027: Plans, Costs, and Whether There Is a Free Trial</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/midjourney-pricing</guid>
+      <pubDate>Sun, 22 Nov 2026 07:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flora AI Review 2027: The Node-Based Canvas, Tested</title>
+      <link>https://lumalabs.ai/news/flora-ai-review</link>
+      <description>Flora AI Review 2027: The Node-Based Canvas, Tested</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/flora-ai-review</guid>
+      <pubDate>Sun, 22 Nov 2026 07:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Clothes Changer: Swap Outfits on Any Model Photo</title>
+      <link>https://lumalabs.ai/news/ai-clothes-changer</link>
+      <description>Use AI clothes changers to swap outfits, create realistic virtual try-ons, and scale consistent fashion product photos and campaign variations faster with ease.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-clothes-changer</guid>
+      <pubDate>Sun, 22 Nov 2026 08:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make a Character Sheet with AI: Turnarounds and References</title>
+      <link>https://lumalabs.ai/news/make-character-sheet-with-ai</link>
+      <description>Learn how to create AI character sheets with consistent turnarounds, reference views, and precise edits for animation, games, and video production workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/make-character-sheet-with-ai</guid>
+      <pubDate>Sun, 22 Nov 2026 08:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Hybrid Production? How Live Action and AI Video Work Together</title>
+      <link>https://lumalabs.ai/news/hybrid-production</link>
+      <description>Discover how hybrid production combines live-action footage and AI video to create flexible campaigns, speed revisions, and maintain creative control for teams.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/hybrid-production</guid>
+      <pubDate>Sun, 22 Nov 2026 08:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Christmas Ads: What Coca</title>
+      <link>https://lumalabs.ai/news/ai-christmas-ads</link>
+      <description>See why Coca-Cola’s AI Christmas ads worked, why McDonald’s failed, and how to create on-brand holiday campaigns with Luma’s video generation and editing tools.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/ai-christmas-ads</guid>
+      <pubDate>Sun, 22 Nov 2026 09:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

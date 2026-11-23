@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:06:15 +0000</lastBuildDate>
-    <item>
-      <title>Building canvas-native agents: lessons from Laya</title>
-      <link>https://lumalabs.ai/news/building-canvas-native-agents</link>
-      <description>Luma is building canvas-native agents that can read and understand a creative workspace and work within it. On a board that is in progress, references sit beside generated variations, notes capture decisions, and frames and groups bring ideas together for comparison. An agent needs that context to help with the work.</description>
-      <guid isPermaLink="true">https://lumalabs.ai/news/building-canvas-native-agents</guid>
-      <pubDate>Mon, 16 Nov 2026 19:50:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 20:33:30 +0000</lastBuildDate>
     <item>
       <title>Nano Banana 2 vs Nano Banana Pro: Which Model for Which Job?</title>
       <link>https://lumalabs.ai/news/nano-banana-2-vs-nano-banana-pro</link>

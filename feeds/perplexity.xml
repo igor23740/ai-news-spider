@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:38:29 +0000</lastBuildDate>
     <item>
       <title>Work with teammates on mobile with voice mode</title>
       <link>https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode</link>
@@ -43,6 +43,13 @@
       <description>Learn what an AI orchestration layer is, how it works, when enterprises need one, and how to implement it.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/orchestration-layer</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to create an internal search engine: a guide</title>
+      <link>https://www.perplexity.ai/hub/blog/internal-search</link>
+      <description>Learn how to create an internal search engine for your website or workplace: indexing, permissions, ranking, and more.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/internal-search</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

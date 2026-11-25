@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:44:37 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Perception coordinates security response agents</title>
-      <link>https://www.artificialintelligence-news.com/news/microsoft-perception-coordinates-security-response-agents</link>
-      <description>Microsoft has launched Perception at Ignite 2026, giving security teams a way to coordinate AI agents through automated playbooks.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/microsoft-perception-coordinates-security-response-agents</guid>
-      <pubDate>Wed, 18 Nov 2026 18:07:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 19:01:28 +0000</lastBuildDate>
     <item>
       <title>EY and Microsoft launch agentic cyber defence centre</title>
       <link>https://www.artificialintelligence-news.com/news/ey-and-microsoft-launch-agentic-cyber-defence-centre</link>
@@ -43,6 +36,20 @@
       <description>Elastic has released a preview of AlertZero, a set of AI Workers for investigating security alerts and proposing responses with supporting evidence.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/elastic-launches-alertzero-ai-workers-for-soc-teams</guid>
       <pubDate>Mon, 23 Nov 2026 17:55:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cycode expands UK teams as it seeks to turn AI into a security advantage</title>
+      <link>https://www.artificialintelligence-news.com/news/cycode-expands-uk-teams-ai-into-a-security-advantage</link>
+      <description>Cycode has established dedicated UK teams as it seeks to bolster AI development security and vulnerability remediation.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/cycode-expands-uk-teams-ai-into-a-security-advantage</guid>
+      <pubDate>Wed, 25 Nov 2026 16:07:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>What PHP2Shell reveals about AI</title>
+      <link>https://www.artificialintelligence-news.com/news/what-php2shell-reveals-about-ai-assisted-vulnerability-analysis</link>
+      <description>PHP2Shell, two critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) in PHP’s core runtime patched in October, is a case in point.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/what-php2shell-reveals-about-ai-assisted-vulnerability-analysis</guid>
+      <pubDate>Wed, 25 Nov 2026 16:19:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

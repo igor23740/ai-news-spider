@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:16:53 +0000</lastBuildDate>
     <item>
       <title>What Is RAG as a Service (RaaS)? Use Cases and Top Providers</title>
       <link>https://www.perplexity.ai/hub/blog/rag-as-a-service</link>
@@ -36,6 +36,27 @@
       <description>Learn how to create an internal search engine for your website or workplace: indexing, permissions, ranking, and more.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/internal-search</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context compaction in AI: how it works and what to do</title>
+      <link>https://www.perplexity.ai/hub/blog/context-compaction</link>
+      <description>Learn what context compaction is, how AI summarizes long chats, its limits, and how to keep long sessions accurate.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-compaction</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Pro now includes weekly Computer usage</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-pro-now-includes-weekly-computer-usage</link>
+      <description>Run Computer tasks on desktop and mobile with a weekly usage meter in Pro. See how resets, credits and auto-refill work.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/perplexity-pro-now-includes-weekly-computer-usage</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freeze the web with Perplexity Time Machine</title>
+      <link>https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</link>
+      <description>Time Machine adds a date cutoff to the Search API and Context API so agents see the web as it was, up to 365 days back.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:03:41 +0000</lastBuildDate>
     <item>
       <title>Nano Banana 2 vs Nano Banana Pro: Which Model for Which Job?</title>
       <link>https://lumalabs.ai/news/nano-banana-2-vs-nano-banana-pro</link>
@@ -85,6 +85,13 @@
       <description>See why Coca-Cola’s AI Christmas ads worked, why McDonald’s failed, and how to create on-brand holiday campaigns with Luma’s video generation and editing tools.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/ai-christmas-ads</guid>
       <pubDate>Sun, 22 Nov 2026 09:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brand Kit and Character Library: On-Brand AI | Luma</title>
+      <link>https://lumalabs.ai/news/brand-kit-character-library</link>
+      <description>Upload your logos, fonts, products and characters once. Luma keeps every image and video on brand, even as it evolves.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/brand-kit-character-library</guid>
+      <pubDate>Wed, 25 Nov 2026 19:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

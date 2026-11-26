@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:25:21 +0000</lastBuildDate>
-    <item>
-      <title>EY and Microsoft launch agentic cyber defence centre</title>
-      <link>https://www.artificialintelligence-news.com/news/ey-and-microsoft-launch-agentic-cyber-defence-centre</link>
-      <description>EY has launched its Agentic Cyber Defence Centre, integrating Microsoft technologies with policy controls and tamper-evident records for AI agent actions.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ey-and-microsoft-launch-agentic-cyber-defence-centre</guid>
-      <pubDate>Thu, 19 Nov 2026 16:11:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 18:49:30 +0000</lastBuildDate>
     <item>
       <title>How NATO uses AI for cybersecurity and threat detection</title>
       <link>https://www.artificialintelligence-news.com/news/nato-ai-cybersecurity-threat-detection</link>
@@ -50,6 +43,13 @@
       <description>PHP2Shell, two critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) in PHP’s core runtime patched in October, is a case in point.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/what-php2shell-reveals-about-ai-assisted-vulnerability-analysis</guid>
       <pubDate>Wed, 25 Nov 2026 16:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens robot foundation models unpack component reels</title>
+      <link>https://www.artificialintelligence-news.com/news/siemens-robot-foundation-models-component-reels</link>
+      <description>Siemens is developing robots that unpack factory deliveries and AI agents that schedule production, with digital twins checking schedules before release.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/siemens-robot-foundation-models-component-reels</guid>
+      <pubDate>Thu, 26 Nov 2026 13:06:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

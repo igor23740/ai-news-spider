@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:16:27 +0000</lastBuildDate>
-    <item>
-      <title>How NATO uses AI for cybersecurity and threat detection</title>
-      <link>https://www.artificialintelligence-news.com/news/nato-ai-cybersecurity-threat-detection</link>
-      <description>NATO is working with OpenAI to improve cybersecurity operations, using AI for vulnerability detection and threat investigations.</description>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/nato-ai-cybersecurity-threat-detection</guid>
-      <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 11:23:01 +0000</lastBuildDate>
     <item>
       <title>NTT turns to AI to fight AI cyberattacks after blocking seven times more attacks</title>
       <link>https://www.artificialintelligence-news.com/news/ntt-ai-cyberattacks-shimada-cyber-defence</link>
@@ -50,6 +43,13 @@
       <description>Siemens is developing robots that unpack factory deliveries and AI agents that schedule production, with digital twins checking schedules before release.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/siemens-robot-foundation-models-component-reels</guid>
       <pubDate>Thu, 26 Nov 2026 13:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>US banks tighten AI agent security amid cybersecurity concerns</title>
+      <link>https://www.artificialintelligence-news.com/news/us-banks-ai-agent-security-controls</link>
+      <description>US banks are tightening AI agent security through access controls, transaction authorisation, threat detection, and cybersecurity response.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/us-banks-ai-agent-security-controls</guid>
+      <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

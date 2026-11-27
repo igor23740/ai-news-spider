@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:25:10 +0000</lastBuildDate>
     <item>
       <title>AI orchestration layer for enterprises: explained</title>
       <link>https://www.perplexity.ai/hub/blog/orchestration-layer</link>
@@ -28,6 +28,13 @@
       <link>https://www.perplexity.ai/hub/blog/context-compaction</link>
       <description>Learn what context compaction is, how AI summarizes long chats, its limits, and how to keep long sessions accurate.</description>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/context-compaction</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freeze the web with Perplexity Time Machine</title>
+      <link>https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</link>
+      <description>Time Machine adds a date cutoff to the Search API and Context API so agents see the web as it was, up to 365 days back.</description>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

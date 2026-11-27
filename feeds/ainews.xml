@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:39:06 +0000</lastBuildDate>
     <item>
       <title>NTT turns to AI to fight AI cyberattacks after blocking seven times more attacks</title>
       <link>https://www.artificialintelligence-news.com/news/ntt-ai-cyberattacks-shimada-cyber-defence</link>
@@ -50,6 +50,41 @@
       <description>US banks are tightening AI agent security through access controls, transaction authorisation, threat detection, and cybersecurity response.</description>
       <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/us-banks-ai-agent-security-controls</guid>
       <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI assistants as a traffic source for online stores: what the first data shows</title>
+      <link>https://www.artificialintelligence-news.com/news/ai-assistants-traffic-source-for-online-stores-what-first-data-shows</link>
+      <description>The first data suggests it can be both, and the difference often comes down to what an assistant can find on your product pages.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/ai-assistants-traffic-source-for-online-stores-what-first-data-shows</guid>
+      <pubDate>Fri, 27 Nov 2026 16:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fulcra launches agent skill to build apps people and agents can use together</title>
+      <link>https://www.artificialintelligence-news.com/news/fulcra-launches-agent-skill-build-apps-people-and-agents-use-together</link>
+      <description>Builders describe what they want to their AI agent, then build and deploy an app with authentication, hosting, and Fulcra’s user-owned context backend.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/fulcra-launches-agent-skill-build-apps-people-and-agents-use-together</guid>
+      <pubDate>Fri, 27 Nov 2026 17:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI music video generators are transforming music video production</title>
+      <link>https://www.artificialintelligence-news.com/news/how-ai-music-video-generators-transforming-music-video-production</link>
+      <description>The practical question for musicians is how much of the work happens inside one platform – and how much editing they must still do themselves.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/how-ai-music-video-generators-transforming-music-video-production</guid>
+      <pubDate>Fri, 27 Nov 2026 17:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>KPSOL highlight the importance of proper knowledge management for AI models</title>
+      <link>https://www.artificialintelligence-news.com/news/kpsol-highlight-the-importance-of-proper-knowledge-management-for-ai-models</link>
+      <description>KPSOL have recently stressed the importance of proper knowledge management to ensure that AI models are delivering accurate, relevant, and reliable results.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/kpsol-highlight-the-importance-of-proper-knowledge-management-for-ai-models</guid>
+      <pubDate>Fri, 27 Nov 2026 17:38:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What it takes to monitor live systems with Gen AI</title>
+      <link>https://www.artificialintelligence-news.com/news/what-it-takes-to-monitor-live-systems-with-gen-ai</link>
+      <description>Instead of just relying on management personnel watching dashboards, organizations can use generative AI (Gen AI) to revolutionize real-time monitoring.</description>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com/news/what-it-takes-to-monitor-live-systems-with-gen-ai</guid>
+      <pubDate>Fri, 27 Nov 2026 17:56:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

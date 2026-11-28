@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:51:54 +0000</lastBuildDate>
     <item>
       <title>Nano Banana 2 vs Nano Banana Pro: Which Model for Which Job?</title>
       <link>https://lumalabs.ai/news/nano-banana-2-vs-nano-banana-pro</link>
@@ -92,6 +92,69 @@
       <description>Upload your logos, fonts, products and characters once. Luma keeps every image and video on brand, even as it evolves.</description>
       <guid isPermaLink="true">https://lumalabs.ai/news/brand-kit-character-library</guid>
       <pubDate>Wed, 25 Nov 2026 19:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is a Brand Kit? What Goes in One, With Examples</title>
+      <link>https://lumalabs.ai/news/what-is-brand-kit</link>
+      <description>Discover what a brand kit is, explore essential elements and examples, and learn how to build, organize, and maintain brand consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/what-is-brand-kit</guid>
+      <pubDate>Sat, 28 Nov 2026 02:51:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a Brand Kit With AI: Fonts, Colors, Logos and Rules in One Place</title>
+      <link>https://lumalabs.ai/news/create-brand-kit-with-ai</link>
+      <description>Learn how to create an AI-powered brand kit with logos, fonts, colors, and guidelines. Explore tools and workflows to maintain brand consistency across campaigns.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/create-brand-kit-with-ai</guid>
+      <pubDate>Sat, 28 Nov 2026 03:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brand Consistency With AI: How to Keep Every Image and Video on Brand</title>
+      <link>https://lumalabs.ai/news/brand-consistency-with-ai</link>
+      <description>Learn how AI helps maintain brand consistency across images and videos with automated guidelines, precision editing, and tools to keep every campaign on brand.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/brand-consistency-with-ai</guid>
+      <pubDate>Sat, 28 Nov 2026 04:05:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creative Asset Management: How Teams Organize Thousands of AI-Generated Assets</title>
+      <link>https://lumalabs.ai/news/creative-asset-management</link>
+      <description>Learn how AI-powered creative asset management helps teams organize, find, edit, and approve thousands of images and videos while maintaining brand consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/creative-asset-management</guid>
+      <pubDate>Sat, 28 Nov 2026 04:27:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best Digital Asset Management Software for Creative Teams Using AI</title>
+      <link>https://lumalabs.ai/news/digital-asset-management-software-creative-teams</link>
+      <description>Compare the 12 best AI-powered digital asset management platforms for creative teams, with features for visual search, asset organization, collaboration, and production.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/digital-asset-management-software-creative-teams</guid>
+      <pubDate>Sat, 28 Nov 2026 04:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creative Workflow Management: How to Run AI Creative Work Without the Mess</title>
+      <link>https://lumalabs.ai/news/creative-workflow-management</link>
+      <description>Learn how AI-powered creative workflow management connects briefs, generation, editing, approvals, and delivery to streamline campaigns and maintain brand consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/creative-workflow-management</guid>
+      <pubDate>Sat, 28 Nov 2026 05:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is AI Agent Orchestration? How a Main Agent Hands Work to Sub-Agents</title>
+      <link>https://lumalabs.ai/news/agent-orchestration</link>
+      <description>Learn what AI agent orchestration is, how main agents delegate tasks to specialized sub-agents, and how coordinated workflows improve creative production and consistency.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/agent-orchestration</guid>
+      <pubDate>Sat, 28 Nov 2026 05:40:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best Canva AI Video Generator Alternatives</title>
+      <link>https://lumalabs.ai/news/canva-ai-video-generator-alternatives</link>
+      <description>Explore 7 Canva AI video generator alternatives for creative teams, comparing video quality, editing control, keyframes, professional exports, and campaign workflows.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/canva-ai-video-generator-alternatives</guid>
+      <pubDate>Sat, 28 Nov 2026 05:58:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best CapCut AI Video Generator Alternatives</title>
+      <link>https://lumalabs.ai/news/capcut-ai-video-generator-alternatives</link>
+      <description>Compare 7 CapCut AI video generator alternatives for 2027, exploring features, use cases, cinematic quality, editing control, and professional production capabilities.</description>
+      <guid isPermaLink="true">https://lumalabs.ai/news/capcut-ai-video-generator-alternatives</guid>
+      <pubDate>Sat, 28 Nov 2026 06:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
